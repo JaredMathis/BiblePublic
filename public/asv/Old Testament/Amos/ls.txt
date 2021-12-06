@@ -1,0 +1,9 @@
+Amos1.txt
+Amos2.txt
+Amos3.txt
+Amos4.txt
+Amos5.txt
+Amos6.txt
+Amos7.txt
+Amos8.txt
+Amos9.txt

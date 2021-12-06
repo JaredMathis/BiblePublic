@@ -1,0 +1,4 @@
+Ruth1.txt
+Ruth2.txt
+Ruth3.txt
+Ruth4.txt

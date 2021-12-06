@@ -1,0 +1,6 @@
+1 Timothy1.txt
+1 Timothy2.txt
+1 Timothy3.txt
+1 Timothy4.txt
+1 Timothy5.txt
+1 Timothy6.txt

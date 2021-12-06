@@ -1,0 +1,5 @@
+1 Thessalonians1.txt
+1 Thessalonians2.txt
+1 Thessalonians3.txt
+1 Thessalonians4.txt
+1 Thessalonians5.txt

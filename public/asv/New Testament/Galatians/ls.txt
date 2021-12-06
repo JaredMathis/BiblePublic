@@ -1,0 +1,6 @@
+Galatians1.txt
+Galatians2.txt
+Galatians3.txt
+Galatians4.txt
+Galatians5.txt
+Galatians6.txt

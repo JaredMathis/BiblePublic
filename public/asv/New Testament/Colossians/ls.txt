@@ -1,0 +1,4 @@
+Colossians1.txt
+Colossians2.txt
+Colossians3.txt
+Colossians4.txt

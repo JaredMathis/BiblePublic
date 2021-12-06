@@ -1,0 +1,6 @@
+Ephesians1.txt
+Ephesians2.txt
+Ephesians3.txt
+Ephesians4.txt
+Ephesians5.txt
+Ephesians6.txt
