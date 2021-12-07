@@ -1,2 +1,2 @@
-Generate ls.txt files:
-    node ../c/r d_a_l public/asv
+Run this command to update (regenerates files; commits to git)
+node bible_flash/bible_flash_deploy.js 
