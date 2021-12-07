@@ -1,2 +1,4 @@
+The only files here should be public domain.
+
 Run this command to update (regenerates files; commits to git; updates firebase)
 node bible_public/bible_public_deploy.js
