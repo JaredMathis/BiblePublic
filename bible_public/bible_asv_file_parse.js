@@ -9,7 +9,6 @@ import bible_public_file_get from './bible_public_file_get.js';
 import list_add_all from '../core/list_add_all.js';
 let version = 'asv';
 let directory_firebase_deploy = directory_firebase_deploy_get();
-let directory_version = `./${ directory_firebase_deploy }/${ version }/`;
 let result = [];
 let books = await bible_testaments_books(bible_public_file_get);
 await for_each_async(books, async book => {
@@ -20,4 +19,4 @@ await for_each_async(books, async book => {
   });
 });
 let json = object_to_json(result);
-file_over_write(`${ directory_version }/${ version }_parsed.json`, json);
+file_over_write(`${ directory_firebase_deploy }/${ version }_parsed.json`, json);

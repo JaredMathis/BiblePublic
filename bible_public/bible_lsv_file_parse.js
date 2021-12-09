@@ -5,8 +5,7 @@ import directory_firebase_deploy_get from '../core/directory_firebase_deploy_get
 import object_to_json from '../foundation/object_to_json.js';
 import bible_public_file_get from './bible_public_file_get.js';
 let directory_firebase_deploy = directory_firebase_deploy_get();
-let directory_lsv = `./${ directory_firebase_deploy }/lsv/`;
-let lsv_txt = file_read(`${ directory_lsv }/lsv.txt`);
+let lsv_txt = file_read(`${ directory_firebase_deploy }/lsv/lsv.txt`);
 let parsed = await bible_lsv_parse(bible_public_file_get, lsv_txt);
 let json = object_to_json(parsed);
-file_over_write(`${ directory_lsv }/lsv_parsed.json`, json);
+file_over_write(`${ directory_firebase_deploy }/lsv_parsed.json`, json);
