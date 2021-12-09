@@ -10,4 +10,4 @@ let lsv_txt = file_read(`${directory_lsv}/lsv.txt`)
 const file_get = async file_path => file_read(`./${directory_firebase_deploy}/${file_path}`)
 let parsed = await bible_lsv_parse(file_get, lsv_txt);
 let json = object_to_json(parsed);
-file_over_write(`${directory_lsv}/lsv-parsed.txt`, json);
+file_over_write(`${directory_lsv}/lsv-parsed.json`, json);
