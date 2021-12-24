@@ -9,6 +9,10 @@ import list_skip from "../core/list_skip.js";
 import assert from "../foundation/assert.js";
 import bible_verse_data from "../bible/bible_verse_data.js";
 import list_add from "../foundation/list_add.js";
+import string_prefix_remove from "../foundation/string_prefix_remove.js";
+import size from "../foundation/size.js";
+import list_where from "../foundation/list_where.js";
+import is_string_not_empty from "../foundation/is_string_not_empty.js";
 export default bible_kjv_1769_parse;
 function bible_kjv_1769_parse() {
     let directory_firebase_deploy = directory_firebase_deploy_get();
@@ -27,7 +31,8 @@ function bible_kjv_1769_parse() {
             let chapter_index = chapter_verse_split[0];
             let verse = chapter_verse_split[1];
             let tokens = list_skip(parts, 1)
-            let verse_data = bible_verse_data(book, chapter_index, verse, tokens);
+            let filtered = list_where(tokens, t => is_string_not_empty(t))
+            let verse_data = bible_verse_data(book, chapter_index, verse, filtered);
             list_add(verses, verse_data);
         }
     })
