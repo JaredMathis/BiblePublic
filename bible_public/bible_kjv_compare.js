@@ -8,7 +8,9 @@ export default function bible_kjv_compare() {
     let kjv_aruljohn_parsed = bible_kjv_aruljohn_parse();
     let kjv_1769_parsed = bible_kjv_1769_parse();
     let versions = [kjv_aruljohn_parsed, kjv_1769_parsed];
-    let compares = [{left:0,right:1}]
+    let compares = [
+        {left:0,right:1}
+    ]
     for_each(compares, c => {
         assert(json_equals(versions[c.left],versions[c.right]))
     })
