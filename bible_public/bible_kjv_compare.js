@@ -10,10 +10,14 @@ import list_of_numbers_smallest from "../core/list_of_numbers_smallest.js";
 import function_cache_file from "../core/function_cache_file.js";
 import size from "../foundation/size.js";
 import list_map from "../foundation/list_map.js";
-import do_nothing from "../foundation/do_nothing.js";
+import string_replace_all from "../foundation/string_replace_all.js";
 import console_log from "../foundation/console_log.js";
 import error from "../foundation/error.js";
 import list_map_async from "../core/list_map_async.js";
+import list_take from "../core/list_take.js";
+import keys from "../foundation/keys.js";
+import property_value_get from "../foundation/property_value_get.js";
+import equals from "../foundation/equals.js";
 
 export default bible_kjv_compare;
 async function bible_kjv_compare() {
@@ -38,9 +42,30 @@ async function bible_kjv_compare() {
         for_each_range(smallest, index => {
             let left_verse = list_get(left_verses, index);
             let right_verse = list_get(right_verses, index);
-            //assert(json_equals(left_verse,right_verse))
+            let left_keys = keys(left_verse);
+            let right_keys = keys(right_verse);
+            assert(json_equals(left_keys, right_keys));
+            for_each(left_keys, key => {
+                let left_value = property_value_get(left_verse, key);
+                let right_value = property_value_get(right_verse, key);
+                if (key === 'tokens') {
+                    const left_value_size = size(left_value);
+                    assert(equals(left_value_size, size(right_value)))
+                    for_each_range(left_value_size, token_index => {
+                        let left_value_token = list_get(left_value, token_index);
+                        let right_value_token = list_get(right_value, token_index);
+                        left_value_token = string_replace_all(left_value_token, '\'', '’');
+                        right_value_token = string_replace_all(right_value_token, '\'', '’');
+                        assert(json_equals(left_value_token, left_value_token), 
+                            {left_verse,right_verse,key,left_value_token,right_value_token,token_index})
+                    })
+                } else {
+                    assert(json_equals(left_value,right_value), 
+                        {left_verse,right_verse,key,left_value,right_value})
+                }
+            })
         })
-        //assert(left_verses_size === right_verses_size)
+        assert(left_verses_size === right_verses_size)
     })
 }
 bible_kjv_compare();
