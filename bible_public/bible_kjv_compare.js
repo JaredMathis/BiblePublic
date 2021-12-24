@@ -18,6 +18,7 @@ import list_take from "../core/list_take.js";
 import keys from "../foundation/keys.js";
 import property_value_get from "../foundation/property_value_get.js";
 import equals from "../foundation/equals.js";
+import list_add from "../foundation/list_add.js";
 
 export default bible_kjv_compare;
 async function bible_kjv_compare() {
@@ -34,6 +35,7 @@ async function bible_kjv_compare() {
         {left:0,right:1}
     ]
     for_each(compares, c => {
+        c.differences = [];
         const left_verses = versions[c.left];
         const right_verses = versions[c.right];
         const left_verses_size = size(left_verses);
@@ -50,15 +52,17 @@ async function bible_kjv_compare() {
                 let right_value = property_value_get(right_verse, key);
                 if (key === 'tokens') {
                     const left_value_size = size(left_value);
-                    assert(equals(left_value_size, size(right_value)))
-                    for_each_range(left_value_size, token_index => {
+                    const right_value_size = size(right_value);
+                    for_each_range(list_of_numbers_smallest([left_value_size, right_value_size]), token_index => {
                         let left_value_token = list_get(left_value, token_index);
                         let right_value_token = list_get(right_value, token_index);
                         left_value_token = string_replace_all(left_value_token, '\'', '’');
                         right_value_token = string_replace_all(right_value_token, '\'', '’');
-                        assert(json_equals(left_value_token, left_value_token), 
-                            {left_verse,right_verse,key,left_value_token,right_value_token,token_index})
-                    })
+                        if (!json_equals(left_value_token, right_value_token)) {
+                            list_add(c.differences, {verse_left_reference: left_verse.reference, token_index});
+                            return false;
+                        }
+                    })                    
                 } else {
                     assert(json_equals(left_value,right_value), 
                         {left_verse,right_verse,key,left_value,right_value})
