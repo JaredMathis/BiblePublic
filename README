@@ -4,4 +4,4 @@ Run this command to update (regenerates files;
 commits to git; 
 updates firebase)
 
-    node bible_public/bible_public_deploy.js
+    node bible_public_deploy.js
