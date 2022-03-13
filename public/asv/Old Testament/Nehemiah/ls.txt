@@ -5,7 +5,7 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/12/2022  11:18 AM               197 ls.txt
+03/13/2022  02:06 PM             1,082 ls.txt
 03/12/2022  11:18 AM             2,176 Nehemiah1.txt
 03/12/2022  11:18 AM             3,820 Nehemiah10.txt
 03/12/2022  11:18 AM             4,417 Nehemiah11.txt
@@ -19,5 +19,5 @@
 03/12/2022  11:18 AM             7,125 Nehemiah7.txt
 03/12/2022  11:18 AM             3,807 Nehemiah8.txt
 03/12/2022  11:18 AM             7,616 Nehemiah9.txt
-              14 File(s)         59,247 bytes
-               2 Dir(s)  62,372,196,352 bytes free
+              14 File(s)         60,132 bytes
+               2 Dir(s)  62,281,928,704 bytes free

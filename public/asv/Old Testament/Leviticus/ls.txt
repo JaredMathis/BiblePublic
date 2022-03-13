@@ -32,6 +32,6 @@
 03/12/2022  11:18 AM             5,595 Leviticus7.txt
 03/12/2022  11:18 AM             5,179 Leviticus8.txt
 03/12/2022  11:18 AM             3,339 Leviticus9.txt
-03/12/2022  11:18 AM               448 ls.txt
-              28 File(s)        129,451 bytes
-               2 Dir(s)  62,372,200,448 bytes free
+03/13/2022  02:06 PM             1,880 ls.txt
+              28 File(s)        130,883 bytes
+               2 Dir(s)  62,281,928,704 bytes free

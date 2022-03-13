@@ -5,10 +5,10 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/12/2022  11:18 AM                54 ls.txt
+03/13/2022  02:06 PM               587 ls.txt
 03/12/2022  11:18 AM             2,573 Malachi1.txt
 03/12/2022  11:18 AM             2,912 Malachi2.txt
 03/12/2022  11:18 AM             2,933 Malachi3.txt
 03/12/2022  11:18 AM               919 Malachi4.txt
-               5 File(s)          9,391 bytes
-               2 Dir(s)  62,372,196,352 bytes free
+               5 File(s)          9,924 bytes
+               2 Dir(s)  62,281,928,704 bytes free

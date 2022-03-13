@@ -5,7 +5,7 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/12/2022  11:18 AM               409 ls.txt
+03/13/2022  02:06 PM             1,878 ls.txt
 03/12/2022  11:18 AM             2,745 Matthew1.txt
 03/12/2022  11:18 AM             4,822 Matthew10.txt
 03/12/2022  11:18 AM             3,556 Matthew11.txt
@@ -34,5 +34,5 @@
 03/12/2022  11:18 AM             3,325 Matthew7.txt
 03/12/2022  11:18 AM             4,130 Matthew8.txt
 03/12/2022  11:18 AM             4,533 Matthew9.txt
-              29 File(s)        127,603 bytes
-               2 Dir(s)  62,372,290,560 bytes free
+              29 File(s)        129,072 bytes
+               2 Dir(s)  62,281,928,704 bytes free

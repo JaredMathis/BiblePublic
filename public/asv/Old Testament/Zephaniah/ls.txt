@@ -5,9 +5,9 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/12/2022  11:18 AM                46 ls.txt
+03/13/2022  02:06 PM               542 ls.txt
 03/12/2022  11:18 AM             2,953 Zephaniah1.txt
 03/12/2022  11:18 AM             2,577 Zephaniah2.txt
 03/12/2022  11:18 AM             3,226 Zephaniah3.txt
-               4 File(s)          8,802 bytes
-               2 Dir(s)  62,372,167,680 bytes free
+               4 File(s)          9,298 bytes
+               2 Dir(s)  62,281,928,704 bytes free

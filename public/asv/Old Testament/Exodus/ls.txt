@@ -45,6 +45,6 @@
 03/12/2022  11:18 AM             3,704 Exodus7.txt
 03/12/2022  11:18 AM             4,963 Exodus8.txt
 03/12/2022  11:18 AM             5,102 Exodus9.txt
-03/12/2022  11:18 AM               549 ls.txt
-              41 File(s)        174,262 bytes
-               2 Dir(s)  62,372,229,120 bytes free
+03/13/2022  02:06 PM             2,485 ls.txt
+              41 File(s)        176,198 bytes
+               2 Dir(s)  62,281,928,704 bytes free

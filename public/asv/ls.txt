@@ -5,9 +5,9 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/13/2022  02:00 PM    <DIR>          ..
-03/12/2022  11:18 AM                36 ls.txt
+03/13/2022  02:06 PM               508 ls.txt
 03/12/2022  11:18 AM    <DIR>          New Testament
 03/12/2022  11:18 AM    <DIR>          Old Testament
 03/12/2022  11:18 AM                66 README
-               2 File(s)            102 bytes
-               4 Dir(s)  62,372,319,232 bytes free
+               2 File(s)            574 bytes
+               4 Dir(s)  62,281,928,704 bytes free

@@ -32,7 +32,7 @@
 03/12/2022  11:18 AM    <DIR>          Judges
 03/12/2022  11:18 AM    <DIR>          Lamentations
 03/12/2022  11:18 AM    <DIR>          Leviticus
-03/12/2022  11:18 AM               361 ls.txt
+03/13/2022  02:06 PM             2,251 ls.txt
 03/12/2022  11:18 AM    <DIR>          Malachi
 03/12/2022  11:18 AM    <DIR>          Micah
 03/12/2022  11:18 AM    <DIR>          Nahum
@@ -45,5 +45,5 @@
 03/12/2022  11:18 AM    <DIR>          Song of Solomon
 03/12/2022  11:18 AM    <DIR>          Zechariah
 03/12/2022  11:18 AM    <DIR>          Zephaniah
-               1 File(s)            361 bytes
-              41 Dir(s)  62,372,278,272 bytes free
+               1 File(s)          2,251 bytes
+              41 Dir(s)  62,281,928,704 bytes free

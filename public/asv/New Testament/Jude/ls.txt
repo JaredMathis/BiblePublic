@@ -6,6 +6,6 @@
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
 03/12/2022  11:18 AM             3,701 Jude1.txt
-03/12/2022  11:18 AM                 9 ls.txt
-               2 File(s)          3,710 bytes
-               2 Dir(s)  62,372,298,752 bytes free
+03/13/2022  02:06 PM               422 ls.txt
+               2 File(s)          4,123 bytes
+               2 Dir(s)  62,281,928,704 bytes free

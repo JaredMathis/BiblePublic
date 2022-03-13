@@ -5,7 +5,7 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/12/2022  11:18 AM                13 ls.txt
+03/13/2022  02:06 PM               430 ls.txt
 03/12/2022  11:18 AM             2,405 Philemon1.txt
-               2 File(s)          2,418 bytes
-               2 Dir(s)  62,372,286,464 bytes free
+               2 File(s)          2,835 bytes
+               2 Dir(s)  62,281,928,704 bytes free

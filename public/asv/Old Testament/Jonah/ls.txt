@@ -9,6 +9,6 @@
 03/12/2022  11:18 AM             1,130 Jonah2.txt
 03/12/2022  11:18 AM             1,393 Jonah3.txt
 03/12/2022  11:18 AM             1,724 Jonah4.txt
-03/12/2022  11:18 AM                46 ls.txt
-               5 File(s)          6,932 bytes
-               2 Dir(s)  62,372,208,640 bytes free
+03/13/2022  02:06 PM               577 ls.txt
+               5 File(s)          7,463 bytes
+               2 Dir(s)  62,281,928,704 bytes free

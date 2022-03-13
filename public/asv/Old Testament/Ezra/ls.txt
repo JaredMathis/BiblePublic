@@ -15,6 +15,6 @@
 03/12/2022  11:18 AM             4,601 Ezra7.txt
 03/12/2022  11:18 AM             5,320 Ezra8.txt
 03/12/2022  11:18 AM             3,346 Ezra9.txt
-03/12/2022  11:18 AM               109 ls.txt
-              11 File(s)         41,632 bytes
-               2 Dir(s)  62,372,220,928 bytes free
+03/13/2022  02:06 PM               873 ls.txt
+              11 File(s)         42,396 bytes
+               2 Dir(s)  62,281,928,704 bytes free
