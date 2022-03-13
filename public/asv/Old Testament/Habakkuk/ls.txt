@@ -1,3 +1,13 @@
-Habakkuk1.txt
-Habakkuk2.txt
-Habakkuk3.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Habakkuk
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,350 Habakkuk1.txt
+03/12/2022  11:18 AM             2,996 Habakkuk2.txt
+03/12/2022  11:18 AM             2,627 Habakkuk3.txt
+03/12/2022  11:18 AM                43 ls.txt
+               4 File(s)          8,016 bytes
+               2 Dir(s)  62,372,216,832 bytes free

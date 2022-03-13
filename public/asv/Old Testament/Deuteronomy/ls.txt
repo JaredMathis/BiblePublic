@@ -1,34 +1,44 @@
-Deuteronomy1.txt
-Deuteronomy10.txt
-Deuteronomy11.txt
-Deuteronomy12.txt
-Deuteronomy13.txt
-Deuteronomy14.txt
-Deuteronomy15.txt
-Deuteronomy16.txt
-Deuteronomy17.txt
-Deuteronomy18.txt
-Deuteronomy19.txt
-Deuteronomy2.txt
-Deuteronomy20.txt
-Deuteronomy21.txt
-Deuteronomy22.txt
-Deuteronomy23.txt
-Deuteronomy24.txt
-Deuteronomy25.txt
-Deuteronomy26.txt
-Deuteronomy27.txt
-Deuteronomy28.txt
-Deuteronomy29.txt
-Deuteronomy3.txt
-Deuteronomy30.txt
-Deuteronomy31.txt
-Deuteronomy32.txt
-Deuteronomy33.txt
-Deuteronomy34.txt
-Deuteronomy4.txt
-Deuteronomy5.txt
-Deuteronomy6.txt
-Deuteronomy7.txt
-Deuteronomy8.txt
-Deuteronomy9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Deuteronomy
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             6,643 Deuteronomy1.txt
+03/12/2022  11:18 AM             3,127 Deuteronomy10.txt
+03/12/2022  11:18 AM             4,965 Deuteronomy11.txt
+03/12/2022  11:18 AM             5,670 Deuteronomy12.txt
+03/12/2022  11:18 AM             3,281 Deuteronomy13.txt
+03/12/2022  11:18 AM             3,715 Deuteronomy14.txt
+03/12/2022  11:18 AM             3,647 Deuteronomy15.txt
+03/12/2022  11:18 AM             3,856 Deuteronomy16.txt
+03/12/2022  11:18 AM             3,781 Deuteronomy17.txt
+03/12/2022  11:18 AM             3,210 Deuteronomy18.txt
+03/12/2022  11:18 AM             3,270 Deuteronomy19.txt
+03/12/2022  11:18 AM             5,421 Deuteronomy2.txt
+03/12/2022  11:18 AM             3,408 Deuteronomy20.txt
+03/12/2022  11:18 AM             3,821 Deuteronomy21.txt
+03/12/2022  11:18 AM             4,643 Deuteronomy22.txt
+03/12/2022  11:18 AM             3,711 Deuteronomy23.txt
+03/12/2022  11:18 AM             3,516 Deuteronomy24.txt
+03/12/2022  11:18 AM             2,924 Deuteronomy25.txt
+03/12/2022  11:18 AM             3,568 Deuteronomy26.txt
+03/12/2022  11:18 AM             3,289 Deuteronomy27.txt
+03/12/2022  11:18 AM            11,220 Deuteronomy28.txt
+03/12/2022  11:18 AM             4,445 Deuteronomy29.txt
+03/12/2022  11:18 AM             4,449 Deuteronomy3.txt
+03/12/2022  11:18 AM             3,381 Deuteronomy30.txt
+03/12/2022  11:18 AM             5,344 Deuteronomy31.txt
+03/12/2022  11:18 AM             7,080 Deuteronomy32.txt
+03/12/2022  11:18 AM             4,283 Deuteronomy33.txt
+03/12/2022  11:18 AM             1,625 Deuteronomy34.txt
+03/12/2022  11:18 AM             7,951 Deuteronomy4.txt
+03/12/2022  11:18 AM             4,745 Deuteronomy5.txt
+03/12/2022  11:18 AM             3,412 Deuteronomy6.txt
+03/12/2022  11:18 AM             4,602 Deuteronomy7.txt
+03/12/2022  11:18 AM             3,015 Deuteronomy8.txt
+03/12/2022  11:18 AM             5,133 Deuteronomy9.txt
+03/12/2022  11:18 AM               635 ls.txt
+              35 File(s)        150,786 bytes
+               2 Dir(s)  62,372,241,408 bytes free

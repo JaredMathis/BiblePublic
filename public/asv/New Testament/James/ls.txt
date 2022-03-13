@@ -1,5 +1,15 @@
-James1.txt
-James2.txt
-James3.txt
-James4.txt
-James5.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\James
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             3,034 James1.txt
+03/12/2022  11:18 AM             2,881 James2.txt
+03/12/2022  11:18 AM             2,070 James3.txt
+03/12/2022  11:18 AM             2,001 James4.txt
+03/12/2022  11:18 AM             2,593 James5.txt
+03/12/2022  11:18 AM                58 ls.txt
+               6 File(s)         12,637 bytes
+               2 Dir(s)  62,372,302,848 bytes free

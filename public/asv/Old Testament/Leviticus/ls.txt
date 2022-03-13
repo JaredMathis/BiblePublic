@@ -1,27 +1,37 @@
-Leviticus1.txt
-Leviticus10.txt
-Leviticus11.txt
-Leviticus12.txt
-Leviticus13.txt
-Leviticus14.txt
-Leviticus15.txt
-Leviticus16.txt
-Leviticus17.txt
-Leviticus18.txt
-Leviticus19.txt
-Leviticus2.txt
-Leviticus20.txt
-Leviticus21.txt
-Leviticus22.txt
-Leviticus23.txt
-Leviticus24.txt
-Leviticus25.txt
-Leviticus26.txt
-Leviticus27.txt
-Leviticus3.txt
-Leviticus4.txt
-Leviticus5.txt
-Leviticus6.txt
-Leviticus7.txt
-Leviticus8.txt
-Leviticus9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Leviticus
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,652 Leviticus1.txt
+03/12/2022  11:18 AM             3,442 Leviticus10.txt
+03/12/2022  11:18 AM             6,089 Leviticus11.txt
+03/12/2022  11:18 AM             1,358 Leviticus12.txt
+03/12/2022  11:18 AM             9,546 Leviticus13.txt
+03/12/2022  11:18 AM             8,715 Leviticus14.txt
+03/12/2022  11:18 AM             4,951 Leviticus15.txt
+03/12/2022  11:18 AM             5,941 Leviticus16.txt
+03/12/2022  11:18 AM             2,882 Leviticus17.txt
+03/12/2022  11:18 AM             3,791 Leviticus18.txt
+03/12/2022  11:18 AM             4,844 Leviticus19.txt
+03/12/2022  11:18 AM             2,578 Leviticus2.txt
+03/12/2022  11:18 AM             4,496 Leviticus20.txt
+03/12/2022  11:18 AM             3,085 Leviticus21.txt
+03/12/2022  11:18 AM             4,712 Leviticus22.txt
+03/12/2022  11:18 AM             6,505 Leviticus23.txt
+03/12/2022  11:18 AM             2,932 Leviticus24.txt
+03/12/2022  11:18 AM             8,020 Leviticus25.txt
+03/12/2022  11:18 AM             6,649 Leviticus26.txt
+03/12/2022  11:18 AM             4,969 Leviticus27.txt
+03/12/2022  11:18 AM             2,580 Leviticus3.txt
+03/12/2022  11:18 AM             5,759 Leviticus4.txt
+03/12/2022  11:18 AM             3,749 Leviticus5.txt
+03/12/2022  11:18 AM             4,645 Leviticus6.txt
+03/12/2022  11:18 AM             5,595 Leviticus7.txt
+03/12/2022  11:18 AM             5,179 Leviticus8.txt
+03/12/2022  11:18 AM             3,339 Leviticus9.txt
+03/12/2022  11:18 AM               448 ls.txt
+              28 File(s)        129,451 bytes
+               2 Dir(s)  62,372,200,448 bytes free

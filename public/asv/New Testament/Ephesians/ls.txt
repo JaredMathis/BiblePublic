@@ -1,6 +1,16 @@
-Ephesians1.txt
-Ephesians2.txt
-Ephesians3.txt
-Ephesians4.txt
-Ephesians5.txt
-Ephesians6.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\Ephesians
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,804 Ephesians1.txt
+03/12/2022  11:18 AM             2,516 Ephesians2.txt
+03/12/2022  11:18 AM             2,303 Ephesians3.txt
+03/12/2022  11:18 AM             3,445 Ephesians4.txt
+03/12/2022  11:18 AM             3,222 Ephesians5.txt
+03/12/2022  11:18 AM             2,737 Ephesians6.txt
+03/12/2022  11:18 AM                94 ls.txt
+               7 File(s)         17,121 bytes
+               2 Dir(s)  62,372,306,944 bytes free

@@ -1,28 +1,38 @@
-Matthew1.txt
-Matthew10.txt
-Matthew11.txt
-Matthew12.txt
-Matthew13.txt
-Matthew14.txt
-Matthew15.txt
-Matthew16.txt
-Matthew17.txt
-Matthew18.txt
-Matthew19.txt
-Matthew2.txt
-Matthew20.txt
-Matthew21.txt
-Matthew22.txt
-Matthew23.txt
-Matthew24.txt
-Matthew25.txt
-Matthew26.txt
-Matthew27.txt
-Matthew28.txt
-Matthew3.txt
-Matthew4.txt
-Matthew5.txt
-Matthew6.txt
-Matthew7.txt
-Matthew8.txt
-Matthew9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\Matthew
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM               409 ls.txt
+03/12/2022  11:18 AM             2,745 Matthew1.txt
+03/12/2022  11:18 AM             4,822 Matthew10.txt
+03/12/2022  11:18 AM             3,556 Matthew11.txt
+03/12/2022  11:18 AM             6,182 Matthew12.txt
+03/12/2022  11:18 AM             7,392 Matthew13.txt
+03/12/2022  11:18 AM             3,907 Matthew14.txt
+03/12/2022  11:18 AM             4,308 Matthew15.txt
+03/12/2022  11:18 AM             3,513 Matthew16.txt
+03/12/2022  11:18 AM             3,352 Matthew17.txt
+03/12/2022  11:18 AM             4,583 Matthew18.txt
+03/12/2022  11:18 AM             3,877 Matthew19.txt
+03/12/2022  11:18 AM             3,306 Matthew2.txt
+03/12/2022  11:18 AM             3,951 Matthew20.txt
+03/12/2022  11:18 AM             6,172 Matthew21.txt
+03/12/2022  11:18 AM             4,607 Matthew22.txt
+03/12/2022  11:18 AM             4,732 Matthew23.txt
+03/12/2022  11:18 AM             5,667 Matthew24.txt
+03/12/2022  11:18 AM             5,275 Matthew25.txt
+03/12/2022  11:18 AM             8,575 Matthew26.txt
+03/12/2022  11:18 AM             7,384 Matthew27.txt
+03/12/2022  11:18 AM             2,270 Matthew28.txt
+03/12/2022  11:18 AM             2,139 Matthew3.txt
+03/12/2022  11:18 AM             3,009 Matthew4.txt
+03/12/2022  11:18 AM             5,646 Matthew5.txt
+03/12/2022  11:18 AM             4,236 Matthew6.txt
+03/12/2022  11:18 AM             3,325 Matthew7.txt
+03/12/2022  11:18 AM             4,130 Matthew8.txt
+03/12/2022  11:18 AM             4,533 Matthew9.txt
+              29 File(s)        127,603 bytes
+               2 Dir(s)  62,372,290,560 bytes free

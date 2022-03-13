@@ -1,40 +1,50 @@
-Exodus1.txt
-Exodus10.txt
-Exodus11.txt
-Exodus12.txt
-Exodus13.txt
-Exodus14.txt
-Exodus15.txt
-Exodus16.txt
-Exodus17.txt
-Exodus18.txt
-Exodus19.txt
-Exodus2.txt
-Exodus20.txt
-Exodus21.txt
-Exodus22.txt
-Exodus23.txt
-Exodus24.txt
-Exodus25.txt
-Exodus26.txt
-Exodus27.txt
-Exodus28.txt
-Exodus29.txt
-Exodus3.txt
-Exodus30.txt
-Exodus31.txt
-Exodus32.txt
-Exodus33.txt
-Exodus34.txt
-Exodus35.txt
-Exodus36.txt
-Exodus37.txt
-Exodus38.txt
-Exodus39.txt
-Exodus4.txt
-Exodus40.txt
-Exodus5.txt
-Exodus6.txt
-Exodus7.txt
-Exodus8.txt
-Exodus9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Exodus
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,561 Exodus1.txt
+03/12/2022  11:18 AM             4,635 Exodus10.txt
+03/12/2022  11:18 AM             1,691 Exodus11.txt
+03/12/2022  11:18 AM             7,809 Exodus12.txt
+03/12/2022  11:18 AM             3,511 Exodus13.txt
+03/12/2022  11:18 AM             4,993 Exodus14.txt
+03/12/2022  11:18 AM             3,797 Exodus15.txt
+03/12/2022  11:18 AM             5,529 Exodus16.txt
+03/12/2022  11:18 AM             2,429 Exodus17.txt
+03/12/2022  11:18 AM             4,017 Exodus18.txt
+03/12/2022  11:18 AM             3,675 Exodus19.txt
+03/12/2022  11:18 AM             3,399 Exodus2.txt
+03/12/2022  11:18 AM             3,014 Exodus20.txt
+03/12/2022  11:18 AM             4,454 Exodus21.txt
+03/12/2022  11:18 AM             4,007 Exodus22.txt
+03/12/2022  11:18 AM             4,488 Exodus23.txt
+03/12/2022  11:18 AM             2,531 Exodus24.txt
+03/12/2022  11:18 AM             4,969 Exodus25.txt
+03/12/2022  11:18 AM             5,177 Exodus26.txt
+03/12/2022  11:18 AM             3,116 Exodus27.txt
+03/12/2022  11:18 AM             6,724 Exodus28.txt
+03/12/2022  11:18 AM             6,952 Exodus29.txt
+03/12/2022  11:18 AM             4,035 Exodus3.txt
+03/12/2022  11:18 AM             5,333 Exodus30.txt
+03/12/2022  11:18 AM             2,386 Exodus31.txt
+03/12/2022  11:18 AM             5,653 Exodus32.txt
+03/12/2022  11:18 AM             3,587 Exodus33.txt
+03/12/2022  11:18 AM             5,456 Exodus34.txt
+03/12/2022  11:18 AM             4,532 Exodus35.txt
+03/12/2022  11:18 AM             5,031 Exodus36.txt
+03/12/2022  11:18 AM             3,875 Exodus37.txt
+03/12/2022  11:18 AM             4,672 Exodus38.txt
+03/12/2022  11:18 AM             5,733 Exodus39.txt
+03/12/2022  11:18 AM             4,527 Exodus4.txt
+03/12/2022  11:18 AM             4,388 Exodus40.txt
+03/12/2022  11:18 AM             3,236 Exodus5.txt
+03/12/2022  11:18 AM             4,022 Exodus6.txt
+03/12/2022  11:18 AM             3,704 Exodus7.txt
+03/12/2022  11:18 AM             4,963 Exodus8.txt
+03/12/2022  11:18 AM             5,102 Exodus9.txt
+03/12/2022  11:18 AM               549 ls.txt
+              41 File(s)        174,262 bytes
+               2 Dir(s)  62,372,229,120 bytes free

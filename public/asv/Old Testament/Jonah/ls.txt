@@ -1,4 +1,14 @@
-Jonah1.txt
-Jonah2.txt
-Jonah3.txt
-Jonah4.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Jonah
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,639 Jonah1.txt
+03/12/2022  11:18 AM             1,130 Jonah2.txt
+03/12/2022  11:18 AM             1,393 Jonah3.txt
+03/12/2022  11:18 AM             1,724 Jonah4.txt
+03/12/2022  11:18 AM                46 ls.txt
+               5 File(s)          6,932 bytes
+               2 Dir(s)  62,372,208,640 bytes free

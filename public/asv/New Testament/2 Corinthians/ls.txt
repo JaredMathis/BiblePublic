@@ -1,13 +1,23 @@
-2 Corinthians1.txt
-2 Corinthians10.txt
-2 Corinthians11.txt
-2 Corinthians12.txt
-2 Corinthians13.txt
-2 Corinthians2.txt
-2 Corinthians3.txt
-2 Corinthians4.txt
-2 Corinthians5.txt
-2 Corinthians6.txt
-2 Corinthians7.txt
-2 Corinthians8.txt
-2 Corinthians9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\2 Corinthians
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             3,221 2 Corinthians1.txt
+03/12/2022  11:18 AM             2,489 2 Corinthians10.txt
+03/12/2022  11:18 AM             3,989 2 Corinthians11.txt
+03/12/2022  11:18 AM             3,213 2 Corinthians12.txt
+03/12/2022  11:18 AM             1,685 2 Corinthians13.txt
+03/12/2022  11:18 AM             2,089 2 Corinthians2.txt
+03/12/2022  11:18 AM             2,196 2 Corinthians3.txt
+03/12/2022  11:18 AM             2,277 2 Corinthians4.txt
+03/12/2022  11:18 AM             2,715 2 Corinthians5.txt
+03/12/2022  11:18 AM             2,015 2 Corinthians6.txt
+03/12/2022  11:18 AM             2,524 2 Corinthians7.txt
+03/12/2022  11:18 AM             3,158 2 Corinthians8.txt
+03/12/2022  11:18 AM             2,123 2 Corinthians9.txt
+03/12/2022  11:18 AM               262 ls.txt
+              14 File(s)         33,956 bytes
+               2 Dir(s)  62,372,311,040 bytes free

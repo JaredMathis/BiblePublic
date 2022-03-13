@@ -1,4 +1,14 @@
-Philippians1.txt
-Philippians2.txt
-Philippians3.txt
-Philippians4.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\Philippians
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM                70 ls.txt
+03/12/2022  11:18 AM             3,494 Philippians1.txt
+03/12/2022  11:18 AM             3,268 Philippians2.txt
+03/12/2022  11:18 AM             2,680 Philippians3.txt
+03/12/2022  11:18 AM             2,689 Philippians4.txt
+               5 File(s)         12,201 bytes
+               2 Dir(s)  62,372,286,464 bytes free

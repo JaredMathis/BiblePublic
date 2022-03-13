@@ -1,13 +1,23 @@
-Nehemiah1.txt
-Nehemiah10.txt
-Nehemiah11.txt
-Nehemiah12.txt
-Nehemiah13.txt
-Nehemiah2.txt
-Nehemiah3.txt
-Nehemiah4.txt
-Nehemiah5.txt
-Nehemiah6.txt
-Nehemiah7.txt
-Nehemiah8.txt
-Nehemiah9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Nehemiah
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM               197 ls.txt
+03/12/2022  11:18 AM             2,176 Nehemiah1.txt
+03/12/2022  11:18 AM             3,820 Nehemiah10.txt
+03/12/2022  11:18 AM             4,417 Nehemiah11.txt
+03/12/2022  11:18 AM             5,656 Nehemiah12.txt
+03/12/2022  11:18 AM             5,298 Nehemiah13.txt
+03/12/2022  11:18 AM             3,659 Nehemiah2.txt
+03/12/2022  11:18 AM             5,097 Nehemiah3.txt
+03/12/2022  11:18 AM             3,775 Nehemiah4.txt
+03/12/2022  11:18 AM             3,401 Nehemiah5.txt
+03/12/2022  11:18 AM             3,203 Nehemiah6.txt
+03/12/2022  11:18 AM             7,125 Nehemiah7.txt
+03/12/2022  11:18 AM             3,807 Nehemiah8.txt
+03/12/2022  11:18 AM             7,616 Nehemiah9.txt
+              14 File(s)         59,247 bytes
+               2 Dir(s)  62,372,196,352 bytes free

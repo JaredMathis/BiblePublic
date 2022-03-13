@@ -1,14 +1,24 @@
-Zechariah1.txt
-Zechariah10.txt
-Zechariah11.txt
-Zechariah12.txt
-Zechariah13.txt
-Zechariah14.txt
-Zechariah2.txt
-Zechariah3.txt
-Zechariah4.txt
-Zechariah5.txt
-Zechariah6.txt
-Zechariah7.txt
-Zechariah8.txt
-Zechariah9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Zechariah
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM               227 ls.txt
+03/12/2022  11:18 AM             3,301 Zechariah1.txt
+03/12/2022  11:18 AM             2,121 Zechariah10.txt
+03/12/2022  11:18 AM             2,583 Zechariah11.txt
+03/12/2022  11:18 AM             2,525 Zechariah12.txt
+03/12/2022  11:18 AM             1,711 Zechariah13.txt
+03/12/2022  11:18 AM             3,954 Zechariah14.txt
+03/12/2022  11:18 AM             1,640 Zechariah2.txt
+03/12/2022  11:18 AM             1,573 Zechariah3.txt
+03/12/2022  11:18 AM             1,946 Zechariah4.txt
+03/12/2022  11:18 AM             1,706 Zechariah5.txt
+03/12/2022  11:18 AM             2,245 Zechariah6.txt
+03/12/2022  11:18 AM             2,049 Zechariah7.txt
+03/12/2022  11:18 AM             3,630 Zechariah8.txt
+03/12/2022  11:18 AM             2,743 Zechariah9.txt
+              15 File(s)         33,954 bytes
+               2 Dir(s)  62,372,171,776 bytes free

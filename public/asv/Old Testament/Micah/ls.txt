@@ -1,7 +1,17 @@
-Micah1.txt
-Micah2.txt
-Micah3.txt
-Micah4.txt
-Micah5.txt
-Micah6.txt
-Micah7.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Micah
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM                82 ls.txt
+03/12/2022  11:18 AM             2,496 Micah1.txt
+03/12/2022  11:18 AM             2,083 Micah2.txt
+03/12/2022  11:18 AM             1,868 Micah3.txt
+03/12/2022  11:18 AM             2,492 Micah4.txt
+03/12/2022  11:18 AM             2,337 Micah5.txt
+03/12/2022  11:18 AM             2,360 Micah6.txt
+03/12/2022  11:18 AM             3,135 Micah7.txt
+               8 File(s)         16,853 bytes
+               2 Dir(s)  62,372,196,352 bytes free

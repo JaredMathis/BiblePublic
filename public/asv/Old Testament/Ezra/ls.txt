@@ -1,10 +1,20 @@
-Ezra1.txt
-Ezra10.txt
-Ezra2.txt
-Ezra3.txt
-Ezra4.txt
-Ezra5.txt
-Ezra6.txt
-Ezra7.txt
-Ezra8.txt
-Ezra9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Ezra
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,029 Ezra1.txt
+03/12/2022  11:18 AM             5,408 Ezra10.txt
+03/12/2022  11:18 AM             6,144 Ezra2.txt
+03/12/2022  11:18 AM             3,013 Ezra3.txt
+03/12/2022  11:18 AM             4,191 Ezra4.txt
+03/12/2022  11:18 AM             3,151 Ezra5.txt
+03/12/2022  11:18 AM             4,320 Ezra6.txt
+03/12/2022  11:18 AM             4,601 Ezra7.txt
+03/12/2022  11:18 AM             5,320 Ezra8.txt
+03/12/2022  11:18 AM             3,346 Ezra9.txt
+03/12/2022  11:18 AM               109 ls.txt
+              11 File(s)         41,632 bytes
+               2 Dir(s)  62,372,220,928 bytes free

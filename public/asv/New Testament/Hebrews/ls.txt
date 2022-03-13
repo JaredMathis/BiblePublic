@@ -1,13 +1,23 @@
-Hebrews1.txt
-Hebrews10.txt
-Hebrews11.txt
-Hebrews12.txt
-Hebrews13.txt
-Hebrews2.txt
-Hebrews3.txt
-Hebrews4.txt
-Hebrews5.txt
-Hebrews6.txt
-Hebrews7.txt
-Hebrews8.txt
-Hebrews9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\Hebrews
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             1,829 Hebrews1.txt
+03/12/2022  11:18 AM             4,482 Hebrews10.txt
+03/12/2022  11:18 AM             5,351 Hebrews11.txt
+03/12/2022  11:18 AM             4,012 Hebrews12.txt
+03/12/2022  11:18 AM             2,925 Hebrews13.txt
+03/12/2022  11:18 AM             2,576 Hebrews2.txt
+03/12/2022  11:18 AM             2,018 Hebrews3.txt
+03/12/2022  11:18 AM             2,249 Hebrews4.txt
+03/12/2022  11:18 AM             1,710 Hebrews5.txt
+03/12/2022  11:18 AM             2,386 Hebrews6.txt
+03/12/2022  11:18 AM             3,516 Hebrews7.txt
+03/12/2022  11:18 AM             2,109 Hebrews8.txt
+03/12/2022  11:18 AM             4,036 Hebrews9.txt
+03/12/2022  11:18 AM               184 ls.txt
+              14 File(s)         39,383 bytes
+               2 Dir(s)  62,372,306,944 bytes free

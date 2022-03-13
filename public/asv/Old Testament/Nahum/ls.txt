@@ -1,3 +1,13 @@
-Nahum1.txt
-Nahum2.txt
-Nahum3.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Nahum
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM                34 ls.txt
+03/12/2022  11:18 AM             2,122 Nahum1.txt
+03/12/2022  11:18 AM             1,919 Nahum2.txt
+03/12/2022  11:18 AM             2,863 Nahum3.txt
+               4 File(s)          6,938 bytes
+               2 Dir(s)  62,372,196,352 bytes free

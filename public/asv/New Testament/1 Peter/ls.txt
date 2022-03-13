@@ -1,5 +1,15 @@
-1 Peter1.txt
-1 Peter2.txt
-1 Peter3.txt
-1 Peter4.txt
-1 Peter5.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\1 Peter
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             3,443 1 Peter1.txt
+03/12/2022  11:18 AM             3,096 1 Peter2.txt
+03/12/2022  11:18 AM             3,024 1 Peter3.txt
+03/12/2022  11:18 AM             2,491 1 Peter4.txt
+03/12/2022  11:18 AM             1,733 1 Peter5.txt
+03/12/2022  11:18 AM                68 ls.txt
+               6 File(s)         13,855 bytes
+               2 Dir(s)  62,372,311,040 bytes free

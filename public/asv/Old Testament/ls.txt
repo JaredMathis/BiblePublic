@@ -1,39 +1,49 @@
-1 Chronicles
-1 Kings
-1 Samuel
-2 Chronicles
-2 Kings
-2 Samuel
-Amos
-Daniel
-Deuteronomy
-Ecclesiastes
-Esther
-Exodus
-Ezekiel
-Ezra
-Genesis
-Habakkuk
-Haggai
-Hosea
-Isaiah
-Jeremiah
-Job
-Joel
-Jonah
-Joshua
-Judges
-Lamentations
-Leviticus
-Malachi
-Micah
-Nahum
-Nehemiah
-Numbers
-Obadiah
-Proverbs
-Psalms
-Ruth
-Song of Solomon
-Zechariah
-Zephaniah
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM    <DIR>          1 Chronicles
+03/12/2022  11:18 AM    <DIR>          1 Kings
+03/12/2022  11:18 AM    <DIR>          1 Samuel
+03/12/2022  11:18 AM    <DIR>          2 Chronicles
+03/12/2022  11:18 AM    <DIR>          2 Kings
+03/12/2022  11:18 AM    <DIR>          2 Samuel
+03/12/2022  11:18 AM    <DIR>          Amos
+03/12/2022  11:18 AM    <DIR>          Daniel
+03/12/2022  11:18 AM    <DIR>          Deuteronomy
+03/12/2022  11:18 AM    <DIR>          Ecclesiastes
+03/12/2022  11:18 AM    <DIR>          Esther
+03/12/2022  11:18 AM    <DIR>          Exodus
+03/12/2022  11:18 AM    <DIR>          Ezekiel
+03/12/2022  11:18 AM    <DIR>          Ezra
+03/12/2022  11:18 AM    <DIR>          Genesis
+03/12/2022  11:18 AM    <DIR>          Habakkuk
+03/12/2022  11:18 AM    <DIR>          Haggai
+03/12/2022  11:18 AM    <DIR>          Hosea
+03/12/2022  11:18 AM    <DIR>          Isaiah
+03/12/2022  11:18 AM    <DIR>          Jeremiah
+03/12/2022  11:18 AM    <DIR>          Job
+03/12/2022  11:18 AM    <DIR>          Joel
+03/12/2022  11:18 AM    <DIR>          Jonah
+03/12/2022  11:18 AM    <DIR>          Joshua
+03/12/2022  11:18 AM    <DIR>          Judges
+03/12/2022  11:18 AM    <DIR>          Lamentations
+03/12/2022  11:18 AM    <DIR>          Leviticus
+03/12/2022  11:18 AM               361 ls.txt
+03/12/2022  11:18 AM    <DIR>          Malachi
+03/12/2022  11:18 AM    <DIR>          Micah
+03/12/2022  11:18 AM    <DIR>          Nahum
+03/12/2022  11:18 AM    <DIR>          Nehemiah
+03/12/2022  11:18 AM    <DIR>          Numbers
+03/12/2022  11:18 AM    <DIR>          Obadiah
+03/12/2022  11:18 AM    <DIR>          Proverbs
+03/12/2022  11:18 AM    <DIR>          Psalms
+03/12/2022  11:18 AM    <DIR>          Ruth
+03/12/2022  11:18 AM    <DIR>          Song of Solomon
+03/12/2022  11:18 AM    <DIR>          Zechariah
+03/12/2022  11:18 AM    <DIR>          Zephaniah
+               1 File(s)            361 bytes
+              41 Dir(s)  62,372,278,272 bytes free

@@ -1,25 +1,35 @@
-2 Kings1.txt
-2 Kings10.txt
-2 Kings11.txt
-2 Kings12.txt
-2 Kings13.txt
-2 Kings14.txt
-2 Kings15.txt
-2 Kings16.txt
-2 Kings17.txt
-2 Kings18.txt
-2 Kings19.txt
-2 Kings2.txt
-2 Kings20.txt
-2 Kings21.txt
-2 Kings22.txt
-2 Kings23.txt
-2 Kings24.txt
-2 Kings25.txt
-2 Kings3.txt
-2 Kings4.txt
-2 Kings5.txt
-2 Kings6.txt
-2 Kings7.txt
-2 Kings8.txt
-2 Kings9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\2 Kings
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             3,375 2 Kings1.txt
+03/12/2022  11:18 AM             6,384 2 Kings10.txt
+03/12/2022  11:18 AM             3,837 2 Kings11.txt
+03/12/2022  11:18 AM             3,750 2 Kings12.txt
+03/12/2022  11:18 AM             4,135 2 Kings13.txt
+03/12/2022  11:18 AM             4,685 2 Kings14.txt
+03/12/2022  11:18 AM             5,798 2 Kings15.txt
+03/12/2022  11:18 AM             3,523 2 Kings16.txt
+03/12/2022  11:18 AM             6,833 2 Kings17.txt
+03/12/2022  11:18 AM             6,443 2 Kings18.txt
+03/12/2022  11:18 AM             6,170 2 Kings19.txt
+03/12/2022  11:18 AM             4,336 2 Kings2.txt
+03/12/2022  11:18 AM             3,444 2 Kings20.txt
+03/12/2022  11:18 AM             3,995 2 Kings21.txt
+03/12/2022  11:18 AM             3,787 2 Kings22.txt
+03/12/2022  11:18 AM             7,819 2 Kings23.txt
+03/12/2022  11:18 AM             3,231 2 Kings24.txt
+03/12/2022  11:18 AM             5,310 2 Kings25.txt
+03/12/2022  11:18 AM             4,514 2 Kings3.txt
+03/12/2022  11:18 AM             6,764 2 Kings4.txt
+03/12/2022  11:18 AM             5,036 2 Kings5.txt
+03/12/2022  11:18 AM             5,244 2 Kings6.txt
+03/12/2022  11:18 AM             4,183 2 Kings7.txt
+03/12/2022  11:18 AM             5,018 2 Kings8.txt
+03/12/2022  11:18 AM             6,210 2 Kings9.txt
+03/12/2022  11:18 AM               364 ls.txt
+              26 File(s)        124,188 bytes
+               2 Dir(s)  62,372,257,792 bytes free

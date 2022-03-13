@@ -1,16 +1,26 @@
-Romans1.txt
-Romans10.txt
-Romans11.txt
-Romans12.txt
-Romans13.txt
-Romans14.txt
-Romans15.txt
-Romans16.txt
-Romans2.txt
-Romans3.txt
-Romans4.txt
-Romans5.txt
-Romans6.txt
-Romans7.txt
-Romans8.txt
-Romans9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\Romans
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM               213 ls.txt
+03/12/2022  11:18 AM             4,070 Romans1.txt
+03/12/2022  11:18 AM             2,461 Romans10.txt
+03/12/2022  11:18 AM             4,329 Romans11.txt
+03/12/2022  11:18 AM             2,377 Romans12.txt
+03/12/2022  11:18 AM             1,982 Romans13.txt
+03/12/2022  11:18 AM             2,746 Romans14.txt
+03/12/2022  11:18 AM             4,135 Romans15.txt
+03/12/2022  11:18 AM             2,995 Romans16.txt
+03/12/2022  11:18 AM             3,494 Romans2.txt
+03/12/2022  11:18 AM             3,289 Romans3.txt
+03/12/2022  11:18 AM             3,147 Romans4.txt
+03/12/2022  11:18 AM             2,817 Romans5.txt
+03/12/2022  11:18 AM             2,695 Romans6.txt
+03/12/2022  11:18 AM             3,111 Romans7.txt
+03/12/2022  11:18 AM             4,802 Romans8.txt
+03/12/2022  11:18 AM             3,822 Romans9.txt
+              17 File(s)         52,485 bytes
+               2 Dir(s)  62,372,282,368 bytes free

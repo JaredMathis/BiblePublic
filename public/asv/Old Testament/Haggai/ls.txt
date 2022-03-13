@@ -1,2 +1,12 @@
-Haggai1.txt
-Haggai2.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Haggai
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,377 Haggai1.txt
+03/12/2022  11:18 AM             3,502 Haggai2.txt
+03/12/2022  11:18 AM                24 ls.txt
+               3 File(s)          5,903 bytes
+               2 Dir(s)  62,372,216,832 bytes free

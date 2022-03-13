@@ -1,3 +1,13 @@
-New Testament
-Old Testament
-README
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv
+
+03/12/2022  11:18 AM    <DIR>          .
+03/13/2022  02:00 PM    <DIR>          ..
+03/12/2022  11:18 AM                36 ls.txt
+03/12/2022  11:18 AM    <DIR>          New Testament
+03/12/2022  11:18 AM    <DIR>          Old Testament
+03/12/2022  11:18 AM                66 README
+               2 File(s)            102 bytes
+               4 Dir(s)  62,372,319,232 bytes free

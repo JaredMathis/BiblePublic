@@ -1,12 +1,22 @@
-Daniel1.txt
-Daniel10.txt
-Daniel11.txt
-Daniel12.txt
-Daniel2.txt
-Daniel3.txt
-Daniel4.txt
-Daniel5.txt
-Daniel6.txt
-Daniel7.txt
-Daniel8.txt
-Daniel9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Daniel
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             3,308 Daniel1.txt
+03/12/2022  11:18 AM             3,360 Daniel10.txt
+03/12/2022  11:18 AM             8,404 Daniel11.txt
+03/12/2022  11:18 AM             2,189 Daniel12.txt
+03/12/2022  11:18 AM             8,300 Daniel2.txt
+03/12/2022  11:18 AM             5,762 Daniel3.txt
+03/12/2022  11:18 AM             6,966 Daniel4.txt
+03/12/2022  11:18 AM             5,603 Daniel5.txt
+03/12/2022  11:18 AM             5,033 Daniel6.txt
+03/12/2022  11:18 AM             4,996 Daniel7.txt
+03/12/2022  11:18 AM             4,645 Daniel8.txt
+03/12/2022  11:18 AM             5,415 Daniel9.txt
+03/12/2022  11:18 AM               157 ls.txt
+              13 File(s)         64,138 bytes
+               2 Dir(s)  62,372,245,504 bytes free

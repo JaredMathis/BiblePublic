@@ -1,8 +1,18 @@
-Song of Solomon1.txt
-Song of Solomon2.txt
-Song of Solomon3.txt
-Song of Solomon4.txt
-Song of Solomon5.txt
-Song of Solomon6.txt
-Song of Solomon7.txt
-Song of Solomon8.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Song of Solomon
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM               174 ls.txt
+03/12/2022  11:18 AM             1,759 Song of Solomon1.txt
+03/12/2022  11:18 AM             1,837 Song of Solomon2.txt
+03/12/2022  11:18 AM             1,518 Song of Solomon3.txt
+03/12/2022  11:18 AM             2,076 Song of Solomon4.txt
+03/12/2022  11:18 AM             2,085 Song of Solomon5.txt
+03/12/2022  11:18 AM             1,567 Song of Solomon6.txt
+03/12/2022  11:18 AM             1,550 Song of Solomon7.txt
+03/12/2022  11:18 AM             1,912 Song of Solomon8.txt
+               9 File(s)         14,478 bytes
+               2 Dir(s)  62,372,175,872 bytes free

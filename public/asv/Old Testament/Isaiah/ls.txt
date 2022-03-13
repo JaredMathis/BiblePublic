@@ -1,66 +1,76 @@
-Isaiah1.txt
-Isaiah10.txt
-Isaiah11.txt
-Isaiah12.txt
-Isaiah13.txt
-Isaiah14.txt
-Isaiah15.txt
-Isaiah16.txt
-Isaiah17.txt
-Isaiah18.txt
-Isaiah19.txt
-Isaiah2.txt
-Isaiah20.txt
-Isaiah21.txt
-Isaiah22.txt
-Isaiah23.txt
-Isaiah24.txt
-Isaiah25.txt
-Isaiah26.txt
-Isaiah27.txt
-Isaiah28.txt
-Isaiah29.txt
-Isaiah3.txt
-Isaiah30.txt
-Isaiah31.txt
-Isaiah32.txt
-Isaiah33.txt
-Isaiah34.txt
-Isaiah35.txt
-Isaiah36.txt
-Isaiah37.txt
-Isaiah38.txt
-Isaiah39.txt
-Isaiah4.txt
-Isaiah40.txt
-Isaiah41.txt
-Isaiah42.txt
-Isaiah43.txt
-Isaiah44.txt
-Isaiah45.txt
-Isaiah46.txt
-Isaiah47.txt
-Isaiah48.txt
-Isaiah49.txt
-Isaiah5.txt
-Isaiah50.txt
-Isaiah51.txt
-Isaiah52.txt
-Isaiah53.txt
-Isaiah54.txt
-Isaiah55.txt
-Isaiah56.txt
-Isaiah57.txt
-Isaiah58.txt
-Isaiah59.txt
-Isaiah6.txt
-Isaiah60.txt
-Isaiah61.txt
-Isaiah62.txt
-Isaiah63.txt
-Isaiah64.txt
-Isaiah65.txt
-Isaiah66.txt
-Isaiah7.txt
-Isaiah8.txt
-Isaiah9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Isaiah
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             4,117 Isaiah1.txt
+03/12/2022  11:18 AM             4,905 Isaiah10.txt
+03/12/2022  11:18 AM             2,741 Isaiah11.txt
+03/12/2022  11:18 AM               747 Isaiah12.txt
+03/12/2022  11:18 AM             3,141 Isaiah13.txt
+03/12/2022  11:18 AM             4,622 Isaiah14.txt
+03/12/2022  11:18 AM             1,371 Isaiah15.txt
+03/12/2022  11:18 AM             2,301 Isaiah16.txt
+03/12/2022  11:18 AM             2,299 Isaiah17.txt
+03/12/2022  11:18 AM             1,385 Isaiah18.txt
+03/12/2022  11:18 AM             3,912 Isaiah19.txt
+03/12/2022  11:18 AM             3,044 Isaiah2.txt
+03/12/2022  11:18 AM               961 Isaiah20.txt
+03/12/2022  11:18 AM             2,273 Isaiah21.txt
+03/12/2022  11:18 AM             3,553 Isaiah22.txt
+03/12/2022  11:18 AM             2,589 Isaiah23.txt
+03/12/2022  11:18 AM             3,198 Isaiah24.txt
+03/12/2022  11:18 AM             1,947 Isaiah25.txt
+03/12/2022  11:18 AM             2,942 Isaiah26.txt
+03/12/2022  11:18 AM             2,178 Isaiah27.txt
+03/12/2022  11:18 AM             4,396 Isaiah28.txt
+03/12/2022  11:18 AM             3,981 Isaiah29.txt
+03/12/2022  11:18 AM             3,193 Isaiah3.txt
+03/12/2022  11:18 AM             5,550 Isaiah30.txt
+03/12/2022  11:18 AM             1,676 Isaiah31.txt
+03/12/2022  11:18 AM             2,403 Isaiah32.txt
+03/12/2022  11:18 AM             3,355 Isaiah33.txt
+03/12/2022  11:18 AM             2,776 Isaiah34.txt
+03/12/2022  11:18 AM             1,525 Isaiah35.txt
+03/12/2022  11:18 AM             3,643 Isaiah36.txt
+03/12/2022  11:18 AM             6,122 Isaiah37.txt
+03/12/2022  11:18 AM             3,006 Isaiah38.txt
+03/12/2022  11:18 AM             1,433 Isaiah39.txt
+03/12/2022  11:18 AM             1,080 Isaiah4.txt
+03/12/2022  11:18 AM             4,368 Isaiah40.txt
+03/12/2022  11:18 AM             4,345 Isaiah41.txt
+03/12/2022  11:18 AM             3,571 Isaiah42.txt
+03/12/2022  11:18 AM             3,807 Isaiah43.txt
+03/12/2022  11:18 AM             4,785 Isaiah44.txt
+03/12/2022  11:18 AM             4,127 Isaiah45.txt
+03/12/2022  11:18 AM             1,796 Isaiah46.txt
+03/12/2022  11:18 AM             2,597 Isaiah47.txt
+03/12/2022  11:18 AM             3,252 Isaiah48.txt
+03/12/2022  11:18 AM             4,573 Isaiah49.txt
+03/12/2022  11:18 AM             4,713 Isaiah5.txt
+03/12/2022  11:18 AM             1,935 Isaiah50.txt
+03/12/2022  11:18 AM             4,032 Isaiah51.txt
+03/12/2022  11:18 AM             2,250 Isaiah52.txt
+03/12/2022  11:18 AM             2,076 Isaiah53.txt
+03/12/2022  11:18 AM             2,697 Isaiah54.txt
+03/12/2022  11:18 AM             2,078 Isaiah55.txt
+03/12/2022  11:18 AM             1,947 Isaiah56.txt
+03/12/2022  11:18 AM             3,109 Isaiah57.txt
+03/12/2022  11:18 AM             2,772 Isaiah58.txt
+03/12/2022  11:18 AM             3,328 Isaiah59.txt
+03/12/2022  11:18 AM             1,848 Isaiah6.txt
+03/12/2022  11:18 AM             3,560 Isaiah60.txt
+03/12/2022  11:18 AM             2,115 Isaiah61.txt
+03/12/2022  11:18 AM             1,891 Isaiah62.txt
+03/12/2022  11:18 AM             2,986 Isaiah63.txt
+03/12/2022  11:18 AM             1,719 Isaiah64.txt
+03/12/2022  11:18 AM             4,006 Isaiah65.txt
+03/12/2022  11:18 AM             4,418 Isaiah66.txt
+03/12/2022  11:18 AM             3,610 Isaiah7.txt
+03/12/2022  11:18 AM             3,096 Isaiah8.txt
+03/12/2022  11:18 AM             3,248 Isaiah9.txt
+03/12/2022  11:18 AM               913 ls.txt
+              67 File(s)        199,933 bytes
+               2 Dir(s)  62,372,212,736 bytes free

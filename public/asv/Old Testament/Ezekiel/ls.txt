@@ -1,48 +1,58 @@
-Ezekiel1.txt
-Ezekiel10.txt
-Ezekiel11.txt
-Ezekiel12.txt
-Ezekiel13.txt
-Ezekiel14.txt
-Ezekiel15.txt
-Ezekiel16.txt
-Ezekiel17.txt
-Ezekiel18.txt
-Ezekiel19.txt
-Ezekiel2.txt
-Ezekiel20.txt
-Ezekiel21.txt
-Ezekiel22.txt
-Ezekiel23.txt
-Ezekiel24.txt
-Ezekiel25.txt
-Ezekiel26.txt
-Ezekiel27.txt
-Ezekiel28.txt
-Ezekiel29.txt
-Ezekiel3.txt
-Ezekiel30.txt
-Ezekiel31.txt
-Ezekiel32.txt
-Ezekiel33.txt
-Ezekiel34.txt
-Ezekiel35.txt
-Ezekiel36.txt
-Ezekiel37.txt
-Ezekiel38.txt
-Ezekiel39.txt
-Ezekiel4.txt
-Ezekiel40.txt
-Ezekiel41.txt
-Ezekiel42.txt
-Ezekiel43.txt
-Ezekiel44.txt
-Ezekiel45.txt
-Ezekiel46.txt
-Ezekiel47.txt
-Ezekiel48.txt
-Ezekiel5.txt
-Ezekiel6.txt
-Ezekiel7.txt
-Ezekiel8.txt
-Ezekiel9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Ezekiel
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             4,612 Ezekiel1.txt
+03/12/2022  11:18 AM             3,466 Ezekiel10.txt
+03/12/2022  11:18 AM             3,816 Ezekiel11.txt
+03/12/2022  11:18 AM             4,210 Ezekiel12.txt
+03/12/2022  11:18 AM             3,968 Ezekiel13.txt
+03/12/2022  11:18 AM             3,980 Ezekiel14.txt
+03/12/2022  11:18 AM             1,030 Ezekiel15.txt
+03/12/2022  11:18 AM            10,246 Ezekiel16.txt
+03/12/2022  11:18 AM             4,099 Ezekiel17.txt
+03/12/2022  11:18 AM             5,061 Ezekiel18.txt
+03/12/2022  11:18 AM             1,914 Ezekiel19.txt
+03/12/2022  11:18 AM             1,489 Ezekiel2.txt
+03/12/2022  11:18 AM             8,464 Ezekiel20.txt
+03/12/2022  11:18 AM             5,088 Ezekiel21.txt
+03/12/2022  11:18 AM             4,658 Ezekiel22.txt
+03/12/2022  11:18 AM             7,500 Ezekiel23.txt
+03/12/2022  11:18 AM             4,003 Ezekiel24.txt
+03/12/2022  11:18 AM             2,880 Ezekiel25.txt
+03/12/2022  11:18 AM             3,829 Ezekiel26.txt
+03/12/2022  11:18 AM             4,994 Ezekiel27.txt
+03/12/2022  11:18 AM             4,332 Ezekiel28.txt
+03/12/2022  11:18 AM             3,766 Ezekiel29.txt
+03/12/2022  11:18 AM             4,197 Ezekiel3.txt
+03/12/2022  11:18 AM             3,983 Ezekiel30.txt
+03/12/2022  11:18 AM             3,515 Ezekiel31.txt
+03/12/2022  11:18 AM             5,742 Ezekiel32.txt
+03/12/2022  11:18 AM             5,633 Ezekiel33.txt
+03/12/2022  11:18 AM             5,142 Ezekiel34.txt
+03/12/2022  11:18 AM             2,198 Ezekiel35.txt
+03/12/2022  11:18 AM             6,408 Ezekiel36.txt
+03/12/2022  11:18 AM             4,597 Ezekiel37.txt
+03/12/2022  11:18 AM             4,163 Ezekiel38.txt
+03/12/2022  11:18 AM             4,958 Ezekiel39.txt
+03/12/2022  11:18 AM             2,764 Ezekiel4.txt
+03/12/2022  11:18 AM             8,278 Ezekiel40.txt
+03/12/2022  11:18 AM             4,497 Ezekiel41.txt
+03/12/2022  11:18 AM             3,277 Ezekiel42.txt
+03/12/2022  11:18 AM             4,852 Ezekiel43.txt
+03/12/2022  11:18 AM             5,575 Ezekiel44.txt
+03/12/2022  11:18 AM             4,753 Ezekiel45.txt
+03/12/2022  11:18 AM             4,577 Ezekiel46.txt
+03/12/2022  11:18 AM             4,360 Ezekiel47.txt
+03/12/2022  11:18 AM             5,785 Ezekiel48.txt
+03/12/2022  11:18 AM             3,419 Ezekiel5.txt
+03/12/2022  11:18 AM             2,544 Ezekiel6.txt
+03/12/2022  11:18 AM             4,168 Ezekiel7.txt
+03/12/2022  11:18 AM             3,344 Ezekiel8.txt
+03/12/2022  11:18 AM             2,091 Ezekiel9.txt
+03/12/2022  11:18 AM               709 ls.txt
+              49 File(s)        212,934 bytes
+               2 Dir(s)  62,372,225,024 bytes free

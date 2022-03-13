@@ -1,24 +1,34 @@
-2 Samuel1.txt
-2 Samuel10.txt
-2 Samuel11.txt
-2 Samuel12.txt
-2 Samuel13.txt
-2 Samuel14.txt
-2 Samuel15.txt
-2 Samuel16.txt
-2 Samuel17.txt
-2 Samuel18.txt
-2 Samuel19.txt
-2 Samuel2.txt
-2 Samuel20.txt
-2 Samuel21.txt
-2 Samuel22.txt
-2 Samuel23.txt
-2 Samuel24.txt
-2 Samuel3.txt
-2 Samuel4.txt
-2 Samuel5.txt
-2 Samuel6.txt
-2 Samuel7.txt
-2 Samuel8.txt
-2 Samuel9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\2 Samuel
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             3,718 2 Samuel1.txt
+03/12/2022  11:18 AM             3,330 2 Samuel10.txt
+03/12/2022  11:18 AM             4,267 2 Samuel11.txt
+03/12/2022  11:18 AM             5,219 2 Samuel12.txt
+03/12/2022  11:18 AM             6,085 2 Samuel13.txt
+03/12/2022  11:18 AM             5,665 2 Samuel14.txt
+03/12/2022  11:18 AM             5,977 2 Samuel15.txt
+03/12/2022  11:18 AM             3,879 2 Samuel16.txt
+03/12/2022  11:18 AM             5,054 2 Samuel17.txt
+03/12/2022  11:18 AM             5,864 2 Samuel18.txt
+03/12/2022  11:18 AM             7,621 2 Samuel19.txt
+03/12/2022  11:18 AM             4,936 2 Samuel2.txt
+03/12/2022  11:18 AM             4,512 2 Samuel20.txt
+03/12/2022  11:18 AM             4,156 2 Samuel21.txt
+03/12/2022  11:18 AM             5,115 2 Samuel22.txt
+03/12/2022  11:18 AM             4,788 2 Samuel23.txt
+03/12/2022  11:18 AM             4,528 2 Samuel24.txt
+03/12/2022  11:18 AM             6,015 2 Samuel3.txt
+03/12/2022  11:18 AM             2,307 2 Samuel4.txt
+03/12/2022  11:18 AM             3,464 2 Samuel5.txt
+03/12/2022  11:18 AM             3,735 2 Samuel6.txt
+03/12/2022  11:18 AM             4,559 2 Samuel7.txt
+03/12/2022  11:18 AM             2,571 2 Samuel8.txt
+03/12/2022  11:18 AM             2,137 2 Samuel9.txt
+03/12/2022  11:18 AM               373 ls.txt
+              25 File(s)        109,875 bytes
+               2 Dir(s)  62,372,253,696 bytes free

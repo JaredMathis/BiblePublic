@@ -1,21 +1,31 @@
-John1.txt
-John10.txt
-John11.txt
-John12.txt
-John13.txt
-John14.txt
-John15.txt
-John16.txt
-John17.txt
-John18.txt
-John19.txt
-John2.txt
-John20.txt
-John21.txt
-John3.txt
-John4.txt
-John5.txt
-John6.txt
-John7.txt
-John8.txt
-John9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\John
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             5,471 John1.txt
+03/12/2022  11:18 AM             4,263 John10.txt
+03/12/2022  11:18 AM             6,313 John11.txt
+03/12/2022  11:18 AM             5,875 John12.txt
+03/12/2022  11:18 AM             4,353 John13.txt
+03/12/2022  11:18 AM             3,599 John14.txt
+03/12/2022  11:18 AM             3,127 John15.txt
+03/12/2022  11:18 AM             4,158 John16.txt
+03/12/2022  11:18 AM             3,194 John17.txt
+03/12/2022  11:18 AM             5,259 John18.txt
+03/12/2022  11:18 AM             5,652 John19.txt
+03/12/2022  11:18 AM             2,772 John2.txt
+03/12/2022  11:18 AM             4,006 John20.txt
+03/12/2022  11:18 AM             3,822 John21.txt
+03/12/2022  11:18 AM             4,143 John3.txt
+03/12/2022  11:18 AM             5,946 John4.txt
+03/12/2022  11:18 AM             5,327 John5.txt
+03/12/2022  11:18 AM             7,974 John6.txt
+03/12/2022  11:18 AM             5,412 John7.txt
+03/12/2022  11:18 AM             6,665 John8.txt
+03/12/2022  11:18 AM             4,423 John9.txt
+03/12/2022  11:18 AM               241 ls.txt
+              22 File(s)        101,995 bytes
+               2 Dir(s)  62,372,302,848 bytes free

@@ -1,4 +1,14 @@
-Malachi1.txt
-Malachi2.txt
-Malachi3.txt
-Malachi4.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Malachi
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM                54 ls.txt
+03/12/2022  11:18 AM             2,573 Malachi1.txt
+03/12/2022  11:18 AM             2,912 Malachi2.txt
+03/12/2022  11:18 AM             2,933 Malachi3.txt
+03/12/2022  11:18 AM               919 Malachi4.txt
+               5 File(s)          9,391 bytes
+               2 Dir(s)  62,372,196,352 bytes free

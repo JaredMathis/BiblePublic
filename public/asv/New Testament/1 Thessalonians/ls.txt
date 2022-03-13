@@ -1,5 +1,15 @@
-1 Thessalonians1.txt
-1 Thessalonians2.txt
-1 Thessalonians3.txt
-1 Thessalonians4.txt
-1 Thessalonians5.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\1 Thessalonians
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             1,304 1 Thessalonians1.txt
+03/12/2022  11:18 AM             2,632 1 Thessalonians2.txt
+03/12/2022  11:18 AM             1,613 1 Thessalonians3.txt
+03/12/2022  11:18 AM             2,143 1 Thessalonians4.txt
+03/12/2022  11:18 AM             2,309 1 Thessalonians5.txt
+03/12/2022  11:18 AM               108 ls.txt
+               6 File(s)         10,109 bytes
+               2 Dir(s)  62,372,311,040 bytes free

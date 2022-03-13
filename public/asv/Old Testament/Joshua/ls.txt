@@ -1,24 +1,34 @@
-Joshua1.txt
-Joshua10.txt
-Joshua11.txt
-Joshua12.txt
-Joshua13.txt
-Joshua14.txt
-Joshua15.txt
-Joshua16.txt
-Joshua17.txt
-Joshua18.txt
-Joshua19.txt
-Joshua2.txt
-Joshua20.txt
-Joshua21.txt
-Joshua22.txt
-Joshua23.txt
-Joshua24.txt
-Joshua3.txt
-Joshua4.txt
-Joshua5.txt
-Joshua6.txt
-Joshua7.txt
-Joshua8.txt
-Joshua9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Joshua
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             3,101 Joshua1.txt
+03/12/2022  11:18 AM             7,507 Joshua10.txt
+03/12/2022  11:18 AM             3,858 Joshua11.txt
+03/12/2022  11:18 AM             2,589 Joshua12.txt
+03/12/2022  11:18 AM             4,778 Joshua13.txt
+03/12/2022  11:18 AM             2,601 Joshua14.txt
+03/12/2022  11:18 AM             6,125 Joshua15.txt
+03/12/2022  11:18 AM             1,540 Joshua16.txt
+03/12/2022  11:18 AM             3,712 Joshua17.txt
+03/12/2022  11:18 AM             4,381 Joshua18.txt
+03/12/2022  11:18 AM             5,757 Joshua19.txt
+03/12/2022  11:18 AM             4,010 Joshua2.txt
+03/12/2022  11:18 AM             1,708 Joshua20.txt
+03/12/2022  11:18 AM             5,779 Joshua21.txt
+03/12/2022  11:18 AM             7,169 Joshua22.txt
+03/12/2022  11:18 AM             2,947 Joshua23.txt
+03/12/2022  11:18 AM             5,463 Joshua24.txt
+03/12/2022  11:18 AM             3,027 Joshua3.txt
+03/12/2022  11:18 AM             3,801 Joshua4.txt
+03/12/2022  11:18 AM             2,940 Joshua5.txt
+03/12/2022  11:18 AM             4,749 Joshua6.txt
+03/12/2022  11:18 AM             4,974 Joshua7.txt
+03/12/2022  11:18 AM             6,228 Joshua8.txt
+03/12/2022  11:18 AM             4,254 Joshua9.txt
+03/12/2022  11:18 AM               325 ls.txt
+              25 File(s)        103,323 bytes
+               2 Dir(s)  62,372,208,640 bytes free

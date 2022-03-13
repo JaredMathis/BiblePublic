@@ -1,52 +1,62 @@
-Jeremiah1.txt
-Jeremiah10.txt
-Jeremiah11.txt
-Jeremiah12.txt
-Jeremiah13.txt
-Jeremiah14.txt
-Jeremiah15.txt
-Jeremiah16.txt
-Jeremiah17.txt
-Jeremiah18.txt
-Jeremiah19.txt
-Jeremiah2.txt
-Jeremiah20.txt
-Jeremiah21.txt
-Jeremiah22.txt
-Jeremiah23.txt
-Jeremiah24.txt
-Jeremiah25.txt
-Jeremiah26.txt
-Jeremiah27.txt
-Jeremiah28.txt
-Jeremiah29.txt
-Jeremiah3.txt
-Jeremiah30.txt
-Jeremiah31.txt
-Jeremiah32.txt
-Jeremiah33.txt
-Jeremiah34.txt
-Jeremiah35.txt
-Jeremiah36.txt
-Jeremiah37.txt
-Jeremiah38.txt
-Jeremiah39.txt
-Jeremiah4.txt
-Jeremiah40.txt
-Jeremiah41.txt
-Jeremiah42.txt
-Jeremiah43.txt
-Jeremiah44.txt
-Jeremiah45.txt
-Jeremiah46.txt
-Jeremiah47.txt
-Jeremiah48.txt
-Jeremiah49.txt
-Jeremiah5.txt
-Jeremiah50.txt
-Jeremiah51.txt
-Jeremiah52.txt
-Jeremiah6.txt
-Jeremiah7.txt
-Jeremiah8.txt
-Jeremiah9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Jeremiah
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,764 Jeremiah1.txt
+03/12/2022  11:18 AM             3,621 Jeremiah10.txt
+03/12/2022  11:18 AM             3,965 Jeremiah11.txt
+03/12/2022  11:18 AM             2,995 Jeremiah12.txt
+03/12/2022  11:18 AM             4,010 Jeremiah13.txt
+03/12/2022  11:18 AM             3,768 Jeremiah14.txt
+03/12/2022  11:18 AM             3,667 Jeremiah15.txt
+03/12/2022  11:18 AM             3,826 Jeremiah16.txt
+03/12/2022  11:18 AM             4,483 Jeremiah17.txt
+03/12/2022  11:18 AM             3,416 Jeremiah18.txt
+03/12/2022  11:18 AM             2,881 Jeremiah19.txt
+03/12/2022  11:18 AM             5,629 Jeremiah2.txt
+03/12/2022  11:18 AM             3,236 Jeremiah20.txt
+03/12/2022  11:18 AM             2,620 Jeremiah21.txt
+03/12/2022  11:18 AM             4,563 Jeremiah22.txt
+03/12/2022  11:18 AM             6,328 Jeremiah23.txt
+03/12/2022  11:18 AM             1,812 Jeremiah24.txt
+03/12/2022  11:18 AM             6,150 Jeremiah25.txt
+03/12/2022  11:18 AM             4,191 Jeremiah26.txt
+03/12/2022  11:18 AM             4,064 Jeremiah27.txt
+03/12/2022  11:18 AM             2,890 Jeremiah28.txt
+03/12/2022  11:18 AM             5,504 Jeremiah29.txt
+03/12/2022  11:18 AM             4,431 Jeremiah3.txt
+03/12/2022  11:18 AM             3,824 Jeremiah30.txt
+03/12/2022  11:18 AM             6,883 Jeremiah31.txt
+03/12/2022  11:18 AM             7,637 Jeremiah32.txt
+03/12/2022  11:18 AM             4,543 Jeremiah33.txt
+03/12/2022  11:18 AM             4,498 Jeremiah34.txt
+03/12/2022  11:18 AM             3,499 Jeremiah35.txt
+03/12/2022  11:18 AM             5,846 Jeremiah36.txt
+03/12/2022  11:18 AM             3,396 Jeremiah37.txt
+03/12/2022  11:18 AM             5,158 Jeremiah38.txt
+03/12/2022  11:18 AM             3,019 Jeremiah39.txt
+03/12/2022  11:18 AM             4,735 Jeremiah4.txt
+03/12/2022  11:18 AM             3,621 Jeremiah40.txt
+03/12/2022  11:18 AM             3,594 Jeremiah41.txt
+03/12/2022  11:18 AM             3,874 Jeremiah42.txt
+03/12/2022  11:18 AM             2,403 Jeremiah43.txt
+03/12/2022  11:18 AM             6,496 Jeremiah44.txt
+03/12/2022  11:18 AM               780 Jeremiah45.txt
+03/12/2022  11:18 AM             4,486 Jeremiah46.txt
+03/12/2022  11:18 AM             1,170 Jeremiah47.txt
+03/12/2022  11:18 AM             6,436 Jeremiah48.txt
+03/12/2022  11:18 AM             6,553 Jeremiah49.txt
+03/12/2022  11:18 AM             4,692 Jeremiah5.txt
+03/12/2022  11:18 AM             8,020 Jeremiah50.txt
+03/12/2022  11:18 AM            10,162 Jeremiah51.txt
+03/12/2022  11:18 AM             5,851 Jeremiah52.txt
+03/12/2022  11:18 AM             4,606 Jeremiah6.txt
+03/12/2022  11:18 AM             5,222 Jeremiah7.txt
+03/12/2022  11:18 AM             3,777 Jeremiah8.txt
+03/12/2022  11:18 AM             4,282 Jeremiah9.txt
+03/12/2022  11:18 AM               821 ls.txt
+              53 File(s)        230,698 bytes
+               2 Dir(s)  62,372,212,736 bytes free

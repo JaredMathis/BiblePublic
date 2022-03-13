@@ -1,31 +1,41 @@
-1 Samuel1.txt
-1 Samuel10.txt
-1 Samuel11.txt
-1 Samuel12.txt
-1 Samuel13.txt
-1 Samuel14.txt
-1 Samuel15.txt
-1 Samuel16.txt
-1 Samuel17.txt
-1 Samuel18.txt
-1 Samuel19.txt
-1 Samuel2.txt
-1 Samuel20.txt
-1 Samuel21.txt
-1 Samuel22.txt
-1 Samuel23.txt
-1 Samuel24.txt
-1 Samuel25.txt
-1 Samuel26.txt
-1 Samuel27.txt
-1 Samuel28.txt
-1 Samuel29.txt
-1 Samuel3.txt
-1 Samuel30.txt
-1 Samuel31.txt
-1 Samuel4.txt
-1 Samuel5.txt
-1 Samuel6.txt
-1 Samuel7.txt
-1 Samuel8.txt
-1 Samuel9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\1 Samuel
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             4,050 1 Samuel1.txt
+03/12/2022  11:18 AM             4,582 1 Samuel10.txt
+03/12/2022  11:18 AM             2,631 1 Samuel11.txt
+03/12/2022  11:18 AM             4,041 1 Samuel12.txt
+03/12/2022  11:18 AM             3,960 1 Samuel13.txt
+03/12/2022  11:18 AM             8,683 1 Samuel14.txt
+03/12/2022  11:18 AM             5,203 1 Samuel15.txt
+03/12/2022  11:18 AM             3,593 1 Samuel16.txt
+03/12/2022  11:18 AM             9,148 1 Samuel17.txt
+03/12/2022  11:18 AM             4,457 1 Samuel18.txt
+03/12/2022  11:18 AM             3,731 1 Samuel19.txt
+03/12/2022  11:18 AM             5,763 1 Samuel2.txt
+03/12/2022  11:18 AM             6,706 1 Samuel20.txt
+03/12/2022  11:18 AM             2,591 1 Samuel21.txt
+03/12/2022  11:18 AM             4,007 1 Samuel22.txt
+03/12/2022  11:18 AM             4,488 1 Samuel23.txt
+03/12/2022  11:18 AM             3,461 1 Samuel24.txt
+03/12/2022  11:18 AM             7,564 1 Samuel25.txt
+03/12/2022  11:18 AM             4,510 1 Samuel26.txt
+03/12/2022  11:18 AM             2,100 1 Samuel27.txt
+03/12/2022  11:18 AM             4,462 1 Samuel28.txt
+03/12/2022  11:18 AM             2,256 1 Samuel29.txt
+03/12/2022  11:18 AM             2,808 1 Samuel3.txt
+03/12/2022  11:18 AM             5,121 1 Samuel30.txt
+03/12/2022  11:18 AM             1,978 1 Samuel31.txt
+03/12/2022  11:18 AM             3,863 1 Samuel4.txt
+03/12/2022  11:18 AM             2,236 1 Samuel5.txt
+03/12/2022  11:18 AM             3,961 1 Samuel6.txt
+03/12/2022  11:18 AM             2,820 1 Samuel7.txt
+03/12/2022  11:18 AM             2,907 1 Samuel8.txt
+03/12/2022  11:18 AM             5,026 1 Samuel9.txt
+03/12/2022  11:18 AM               485 ls.txt
+              32 File(s)        133,192 bytes
+               2 Dir(s)  62,372,265,984 bytes free

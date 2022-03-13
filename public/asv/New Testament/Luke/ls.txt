@@ -1,24 +1,34 @@
-Luke1.txt
-Luke10.txt
-Luke11.txt
-Luke12.txt
-Luke13.txt
-Luke14.txt
-Luke15.txt
-Luke16.txt
-Luke17.txt
-Luke18.txt
-Luke19.txt
-Luke2.txt
-Luke20.txt
-Luke21.txt
-Luke22.txt
-Luke23.txt
-Luke24.txt
-Luke3.txt
-Luke4.txt
-Luke5.txt
-Luke6.txt
-Luke7.txt
-Luke8.txt
-Luke9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\Luke
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM               277 ls.txt
+03/12/2022  11:18 AM             8,616 Luke1.txt
+03/12/2022  11:18 AM             5,322 Luke10.txt
+03/12/2022  11:18 AM             6,897 Luke11.txt
+03/12/2022  11:18 AM             7,510 Luke12.txt
+03/12/2022  11:18 AM             4,642 Luke13.txt
+03/12/2022  11:18 AM             4,359 Luke14.txt
+03/12/2022  11:18 AM             3,851 Luke15.txt
+03/12/2022  11:18 AM             4,171 Luke16.txt
+03/12/2022  11:18 AM             4,314 Luke17.txt
+03/12/2022  11:18 AM             4,744 Luke18.txt
+03/12/2022  11:18 AM             5,459 Luke19.txt
+03/12/2022  11:18 AM             6,024 Luke2.txt
+03/12/2022  11:18 AM             5,171 Luke20.txt
+03/12/2022  11:18 AM             4,335 Luke21.txt
+03/12/2022  11:18 AM             7,618 Luke22.txt
+03/12/2022  11:18 AM             6,053 Luke23.txt
+03/12/2022  11:18 AM             5,722 Luke24.txt
+03/12/2022  11:18 AM             4,775 Luke3.txt
+03/12/2022  11:18 AM             5,430 Luke4.txt
+03/12/2022  11:18 AM             5,052 Luke5.txt
+03/12/2022  11:18 AM             6,346 Luke6.txt
+03/12/2022  11:18 AM             6,320 Luke7.txt
+03/12/2022  11:18 AM             7,616 Luke8.txt
+03/12/2022  11:18 AM             7,700 Luke9.txt
+              25 File(s)        138,324 bytes
+               2 Dir(s)  62,372,298,752 bytes free

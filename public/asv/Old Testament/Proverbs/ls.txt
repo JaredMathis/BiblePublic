@@ -1,31 +1,41 @@
-Proverbs1.txt
-Proverbs10.txt
-Proverbs11.txt
-Proverbs12.txt
-Proverbs13.txt
-Proverbs14.txt
-Proverbs15.txt
-Proverbs16.txt
-Proverbs17.txt
-Proverbs18.txt
-Proverbs19.txt
-Proverbs2.txt
-Proverbs20.txt
-Proverbs21.txt
-Proverbs22.txt
-Proverbs23.txt
-Proverbs24.txt
-Proverbs25.txt
-Proverbs26.txt
-Proverbs27.txt
-Proverbs28.txt
-Proverbs29.txt
-Proverbs3.txt
-Proverbs30.txt
-Proverbs31.txt
-Proverbs4.txt
-Proverbs5.txt
-Proverbs6.txt
-Proverbs7.txt
-Proverbs8.txt
-Proverbs9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Proverbs
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM               485 ls.txt
+03/12/2022  11:18 AM             2,948 Proverbs1.txt
+03/12/2022  11:18 AM             3,031 Proverbs10.txt
+03/12/2022  11:18 AM             3,162 Proverbs11.txt
+03/12/2022  11:18 AM             2,730 Proverbs12.txt
+03/12/2022  11:18 AM             2,384 Proverbs13.txt
+03/12/2022  11:18 AM             3,278 Proverbs14.txt
+03/12/2022  11:18 AM             3,077 Proverbs15.txt
+03/12/2022  11:18 AM             3,050 Proverbs16.txt
+03/12/2022  11:18 AM             2,763 Proverbs17.txt
+03/12/2022  11:18 AM             2,165 Proverbs18.txt
+03/12/2022  11:18 AM             2,839 Proverbs19.txt
+03/12/2022  11:18 AM             1,802 Proverbs2.txt
+03/12/2022  11:18 AM             2,743 Proverbs20.txt
+03/12/2022  11:18 AM             2,893 Proverbs21.txt
+03/12/2022  11:18 AM             2,708 Proverbs22.txt
+03/12/2022  11:18 AM             3,072 Proverbs23.txt
+03/12/2022  11:18 AM             3,190 Proverbs24.txt
+03/12/2022  11:18 AM             2,812 Proverbs25.txt
+03/12/2022  11:18 AM             2,507 Proverbs26.txt
+03/12/2022  11:18 AM             2,594 Proverbs27.txt
+03/12/2022  11:18 AM             2,946 Proverbs28.txt
+03/12/2022  11:18 AM             2,539 Proverbs29.txt
+03/12/2022  11:18 AM             2,948 Proverbs3.txt
+03/12/2022  11:18 AM             3,439 Proverbs30.txt
+03/12/2022  11:18 AM             2,608 Proverbs31.txt
+03/12/2022  11:18 AM             2,266 Proverbs4.txt
+03/12/2022  11:18 AM             1,959 Proverbs5.txt
+03/12/2022  11:18 AM             3,114 Proverbs6.txt
+03/12/2022  11:18 AM             2,282 Proverbs7.txt
+03/12/2022  11:18 AM             3,116 Proverbs8.txt
+03/12/2022  11:18 AM             1,619 Proverbs9.txt
+              32 File(s)         85,069 bytes
+               2 Dir(s)  62,372,188,160 bytes free

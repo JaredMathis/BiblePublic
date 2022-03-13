@@ -1,4 +1,14 @@
-Ruth1.txt
-Ruth2.txt
-Ruth3.txt
-Ruth4.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Ruth
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM                42 ls.txt
+03/12/2022  11:18 AM             3,356 Ruth1.txt
+03/12/2022  11:18 AM             3,976 Ruth2.txt
+03/12/2022  11:18 AM             2,728 Ruth3.txt
+03/12/2022  11:18 AM             3,293 Ruth4.txt
+               5 File(s)         13,395 bytes
+               2 Dir(s)  62,372,175,872 bytes free

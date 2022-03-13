@@ -1,16 +1,26 @@
-Mark1.txt
-Mark10.txt
-Mark11.txt
-Mark12.txt
-Mark13.txt
-Mark14.txt
-Mark15.txt
-Mark16.txt
-Mark2.txt
-Mark3.txt
-Mark4.txt
-Mark5.txt
-Mark6.txt
-Mark7.txt
-Mark8.txt
-Mark9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\Mark
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM               181 ls.txt
+03/12/2022  11:18 AM             5,056 Mark1.txt
+03/12/2022  11:18 AM             6,490 Mark10.txt
+03/12/2022  11:18 AM             4,066 Mark11.txt
+03/12/2022  11:18 AM             5,518 Mark12.txt
+03/12/2022  11:18 AM             4,369 Mark13.txt
+03/12/2022  11:18 AM             8,556 Mark14.txt
+03/12/2022  11:18 AM             5,108 Mark15.txt
+03/12/2022  11:18 AM             2,465 Mark16.txt
+03/12/2022  11:18 AM             3,741 Mark2.txt
+03/12/2022  11:18 AM             3,699 Mark3.txt
+03/12/2022  11:18 AM             4,768 Mark4.txt
+03/12/2022  11:18 AM             5,093 Mark5.txt
+03/12/2022  11:18 AM             6,948 Mark6.txt
+03/12/2022  11:18 AM             4,368 Mark7.txt
+03/12/2022  11:18 AM             4,420 Mark8.txt
+03/12/2022  11:18 AM             6,128 Mark9.txt
+              17 File(s)         80,974 bytes
+               2 Dir(s)  62,372,294,656 bytes free

@@ -1,150 +1,160 @@
-Psalms1.txt
-Psalms10.txt
-Psalms100.txt
-Psalms101.txt
-Psalms102.txt
-Psalms103.txt
-Psalms104.txt
-Psalms105.txt
-Psalms106.txt
-Psalms107.txt
-Psalms108.txt
-Psalms109.txt
-Psalms11.txt
-Psalms110.txt
-Psalms111.txt
-Psalms112.txt
-Psalms113.txt
-Psalms114.txt
-Psalms115.txt
-Psalms116.txt
-Psalms117.txt
-Psalms118.txt
-Psalms119.txt
-Psalms12.txt
-Psalms120.txt
-Psalms121.txt
-Psalms122.txt
-Psalms123.txt
-Psalms124.txt
-Psalms125.txt
-Psalms126.txt
-Psalms127.txt
-Psalms128.txt
-Psalms129.txt
-Psalms13.txt
-Psalms130.txt
-Psalms131.txt
-Psalms132.txt
-Psalms133.txt
-Psalms134.txt
-Psalms135.txt
-Psalms136.txt
-Psalms137.txt
-Psalms138.txt
-Psalms139.txt
-Psalms14.txt
-Psalms140.txt
-Psalms141.txt
-Psalms142.txt
-Psalms143.txt
-Psalms144.txt
-Psalms145.txt
-Psalms146.txt
-Psalms147.txt
-Psalms148.txt
-Psalms149.txt
-Psalms15.txt
-Psalms150.txt
-Psalms16.txt
-Psalms17.txt
-Psalms18.txt
-Psalms19.txt
-Psalms2.txt
-Psalms20.txt
-Psalms21.txt
-Psalms22.txt
-Psalms23.txt
-Psalms24.txt
-Psalms25.txt
-Psalms26.txt
-Psalms27.txt
-Psalms28.txt
-Psalms29.txt
-Psalms3.txt
-Psalms30.txt
-Psalms31.txt
-Psalms32.txt
-Psalms33.txt
-Psalms34.txt
-Psalms35.txt
-Psalms36.txt
-Psalms37.txt
-Psalms38.txt
-Psalms39.txt
-Psalms4.txt
-Psalms40.txt
-Psalms41.txt
-Psalms42.txt
-Psalms43.txt
-Psalms44.txt
-Psalms45.txt
-Psalms46.txt
-Psalms47.txt
-Psalms48.txt
-Psalms49.txt
-Psalms5.txt
-Psalms50.txt
-Psalms51.txt
-Psalms52.txt
-Psalms53.txt
-Psalms54.txt
-Psalms55.txt
-Psalms56.txt
-Psalms57.txt
-Psalms58.txt
-Psalms59.txt
-Psalms6.txt
-Psalms60.txt
-Psalms61.txt
-Psalms62.txt
-Psalms63.txt
-Psalms64.txt
-Psalms65.txt
-Psalms66.txt
-Psalms67.txt
-Psalms68.txt
-Psalms69.txt
-Psalms7.txt
-Psalms70.txt
-Psalms71.txt
-Psalms72.txt
-Psalms73.txt
-Psalms74.txt
-Psalms75.txt
-Psalms76.txt
-Psalms77.txt
-Psalms78.txt
-Psalms79.txt
-Psalms8.txt
-Psalms80.txt
-Psalms81.txt
-Psalms82.txt
-Psalms83.txt
-Psalms84.txt
-Psalms85.txt
-Psalms86.txt
-Psalms87.txt
-Psalms88.txt
-Psalms89.txt
-Psalms9.txt
-Psalms90.txt
-Psalms91.txt
-Psalms92.txt
-Psalms93.txt
-Psalms94.txt
-Psalms95.txt
-Psalms96.txt
-Psalms97.txt
-Psalms98.txt
-Psalms99.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Psalms
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,140 ls.txt
+03/12/2022  11:18 AM               689 Psalms1.txt
+03/12/2022  11:18 AM             1,967 Psalms10.txt
+03/12/2022  11:18 AM               501 Psalms100.txt
+03/12/2022  11:18 AM               950 Psalms101.txt
+03/12/2022  11:18 AM             2,575 Psalms102.txt
+03/12/2022  11:18 AM             1,965 Psalms103.txt
+03/12/2022  11:18 AM             3,252 Psalms104.txt
+03/12/2022  11:18 AM             3,540 Psalms105.txt
+03/12/2022  11:18 AM             4,431 Psalms106.txt
+03/12/2022  11:18 AM             3,926 Psalms107.txt
+03/12/2022  11:18 AM             1,157 Psalms108.txt
+03/12/2022  11:18 AM             2,972 Psalms109.txt
+03/12/2022  11:18 AM               753 Psalms11.txt
+03/12/2022  11:18 AM               760 Psalms110.txt
+03/12/2022  11:18 AM               985 Psalms111.txt
+03/12/2022  11:18 AM             1,012 Psalms112.txt
+03/12/2022  11:18 AM               739 Psalms113.txt
+03/12/2022  11:18 AM               598 Psalms114.txt
+03/12/2022  11:18 AM             1,460 Psalms115.txt
+03/12/2022  11:18 AM             1,488 Psalms116.txt
+03/12/2022  11:18 AM               174 Psalms117.txt
+03/12/2022  11:18 AM             2,506 Psalms118.txt
+03/12/2022  11:18 AM            14,269 Psalms119.txt
+03/12/2022  11:18 AM               889 Psalms12.txt
+03/12/2022  11:18 AM               511 Psalms120.txt
+03/12/2022  11:18 AM               596 Psalms121.txt
+03/12/2022  11:18 AM               720 Psalms122.txt
+03/12/2022  11:18 AM               502 Psalms123.txt
+03/12/2022  11:18 AM               628 Psalms124.txt
+03/12/2022  11:18 AM               609 Psalms125.txt
+03/12/2022  11:18 AM               570 Psalms126.txt
+03/12/2022  11:18 AM               586 Psalms127.txt
+03/12/2022  11:18 AM               546 Psalms128.txt
+03/12/2022  11:18 AM               681 Psalms129.txt
+03/12/2022  11:18 AM               630 Psalms13.txt
+03/12/2022  11:18 AM               654 Psalms130.txt
+03/12/2022  11:18 AM               362 Psalms131.txt
+03/12/2022  11:18 AM             1,522 Psalms132.txt
+03/12/2022  11:18 AM               394 Psalms133.txt
+03/12/2022  11:18 AM               254 Psalms134.txt
+03/12/2022  11:18 AM             1,805 Psalms135.txt
+03/12/2022  11:18 AM             2,250 Psalms136.txt
+03/12/2022  11:18 AM               880 Psalms137.txt
+03/12/2022  11:18 AM               985 Psalms138.txt
+03/12/2022  11:18 AM             2,277 Psalms139.txt
+03/12/2022  11:18 AM               859 Psalms14.txt
+03/12/2022  11:18 AM             1,391 Psalms140.txt
+03/12/2022  11:18 AM             1,124 Psalms141.txt
+03/12/2022  11:18 AM               819 Psalms142.txt
+03/12/2022  11:18 AM             1,353 Psalms143.txt
+03/12/2022  11:18 AM             1,637 Psalms144.txt
+03/12/2022  11:18 AM             1,846 Psalms145.txt
+03/12/2022  11:18 AM               944 Psalms146.txt
+03/12/2022  11:18 AM             1,694 Psalms147.txt
+03/12/2022  11:18 AM             1,135 Psalms148.txt
+03/12/2022  11:18 AM               788 Psalms149.txt
+03/12/2022  11:18 AM               585 Psalms15.txt
+03/12/2022  11:18 AM               474 Psalms150.txt
+03/12/2022  11:18 AM             1,100 Psalms16.txt
+03/12/2022  11:18 AM             1,666 Psalms17.txt
+03/12/2022  11:18 AM             5,197 Psalms18.txt
+03/12/2022  11:18 AM             1,554 Psalms19.txt
+03/12/2022  11:18 AM             1,100 Psalms2.txt
+03/12/2022  11:18 AM               831 Psalms20.txt
+03/12/2022  11:18 AM             1,344 Psalms21.txt
+03/12/2022  11:18 AM             3,117 Psalms22.txt
+03/12/2022  11:18 AM               639 Psalms23.txt
+03/12/2022  11:18 AM               976 Psalms24.txt
+03/12/2022  11:18 AM             1,903 Psalms25.txt
+03/12/2022  11:18 AM               998 Psalms26.txt
+03/12/2022  11:18 AM             1,737 Psalms27.txt
+03/12/2022  11:18 AM             1,135 Psalms28.txt
+03/12/2022  11:18 AM               998 Psalms29.txt
+03/12/2022  11:18 AM               777 Psalms3.txt
+03/12/2022  11:18 AM             1,270 Psalms30.txt
+03/12/2022  11:18 AM             2,723 Psalms31.txt
+03/12/2022  11:18 AM             1,362 Psalms32.txt
+03/12/2022  11:18 AM             1,931 Psalms33.txt
+03/12/2022  11:18 AM             1,969 Psalms34.txt
+03/12/2022  11:18 AM             3,104 Psalms35.txt
+03/12/2022  11:18 AM             1,312 Psalms36.txt
+03/12/2022  11:18 AM             3,901 Psalms37.txt
+03/12/2022  11:18 AM             1,930 Psalms38.txt
+03/12/2022  11:18 AM             1,442 Psalms39.txt
+03/12/2022  11:18 AM               951 Psalms4.txt
+03/12/2022  11:18 AM             2,207 Psalms40.txt
+03/12/2022  11:18 AM             1,359 Psalms41.txt
+03/12/2022  11:18 AM             1,479 Psalms42.txt
+03/12/2022  11:18 AM               653 Psalms43.txt
+03/12/2022  11:18 AM             2,609 Psalms44.txt
+03/12/2022  11:18 AM             2,007 Psalms45.txt
+03/12/2022  11:18 AM             1,160 Psalms46.txt
+03/12/2022  11:18 AM               808 Psalms47.txt
+03/12/2022  11:18 AM             1,267 Psalms48.txt
+03/12/2022  11:18 AM             1,959 Psalms49.txt
+03/12/2022  11:18 AM             1,430 Psalms5.txt
+03/12/2022  11:18 AM             2,246 Psalms50.txt
+03/12/2022  11:18 AM             1,960 Psalms51.txt
+03/12/2022  11:18 AM             1,116 Psalms52.txt
+03/12/2022  11:18 AM               897 Psalms53.txt
+03/12/2022  11:18 AM               759 Psalms54.txt
+03/12/2022  11:18 AM             2,419 Psalms55.txt
+03/12/2022  11:18 AM             1,341 Psalms56.txt
+03/12/2022  11:18 AM             1,370 Psalms57.txt
+03/12/2022  11:18 AM             1,227 Psalms58.txt
+03/12/2022  11:18 AM             1,991 Psalms59.txt
+03/12/2022  11:18 AM               985 Psalms6.txt
+03/12/2022  11:18 AM             1,311 Psalms60.txt
+03/12/2022  11:18 AM               776 Psalms61.txt
+03/12/2022  11:18 AM             1,306 Psalms62.txt
+03/12/2022  11:18 AM             1,099 Psalms63.txt
+03/12/2022  11:18 AM             1,084 Psalms64.txt
+03/12/2022  11:18 AM             1,578 Psalms65.txt
+03/12/2022  11:18 AM             1,794 Psalms66.txt
+03/12/2022  11:18 AM               651 Psalms67.txt
+03/12/2022  11:18 AM             3,981 Psalms68.txt
+03/12/2022  11:18 AM             3,657 Psalms69.txt
+03/12/2022  11:18 AM             1,863 Psalms7.txt
+03/12/2022  11:18 AM               613 Psalms70.txt
+03/12/2022  11:18 AM             2,525 Psalms71.txt
+03/12/2022  11:18 AM             2,065 Psalms72.txt
+03/12/2022  11:18 AM             2,382 Psalms73.txt
+03/12/2022  11:18 AM             2,388 Psalms74.txt
+03/12/2022  11:18 AM             1,043 Psalms75.txt
+03/12/2022  11:18 AM             1,115 Psalms76.txt
+03/12/2022  11:18 AM             1,884 Psalms77.txt
+03/12/2022  11:18 AM             6,885 Psalms78.txt
+03/12/2022  11:18 AM             1,558 Psalms79.txt
+03/12/2022  11:18 AM               952 Psalms8.txt
+03/12/2022  11:18 AM             1,829 Psalms80.txt
+03/12/2022  11:18 AM             1,574 Psalms81.txt
+03/12/2022  11:18 AM               655 Psalms82.txt
+03/12/2022  11:18 AM             1,548 Psalms83.txt
+03/12/2022  11:18 AM             1,303 Psalms84.txt
+03/12/2022  11:18 AM             1,235 Psalms85.txt
+03/12/2022  11:18 AM             1,711 Psalms86.txt
+03/12/2022  11:18 AM               650 Psalms87.txt
+03/12/2022  11:18 AM             1,785 Psalms88.txt
+03/12/2022  11:18 AM             4,923 Psalms89.txt
+03/12/2022  11:18 AM             2,122 Psalms9.txt
+03/12/2022  11:18 AM             1,777 Psalms90.txt
+03/12/2022  11:18 AM             1,520 Psalms91.txt
+03/12/2022  11:18 AM             1,453 Psalms92.txt
+03/12/2022  11:18 AM               532 Psalms93.txt
+03/12/2022  11:18 AM             2,008 Psalms94.txt
+03/12/2022  11:18 AM               998 Psalms95.txt
+03/12/2022  11:18 AM             1,223 Psalms96.txt
+03/12/2022  11:18 AM             1,115 Psalms97.txt
+03/12/2022  11:18 AM               961 Psalms98.txt
+03/12/2022  11:18 AM               881 Psalms99.txt
+             151 File(s)        242,838 bytes
+               2 Dir(s)  62,372,184,064 bytes free

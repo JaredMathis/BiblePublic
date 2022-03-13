@@ -1,27 +1,37 @@
-1 Corinthians
-1 John
-1 Peter
-1 Thessalonians
-1 Timothy
-2 Corinthians
-2 John
-2 Peter
-2 Thessalonians
-2 Timothy
-3 John
-Acts of the Apostles
-Colossians
-Ephesians
-Galatians
-Hebrews
-James
-John
-Jude
-Luke
-Mark
-Matthew
-Philemon
-Philippians
-Revelation
-Romans
-Titus
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM    <DIR>          1 Corinthians
+03/12/2022  11:18 AM    <DIR>          1 John
+03/12/2022  11:18 AM    <DIR>          1 Peter
+03/12/2022  11:18 AM    <DIR>          1 Thessalonians
+03/12/2022  11:18 AM    <DIR>          1 Timothy
+03/12/2022  11:18 AM    <DIR>          2 Corinthians
+03/12/2022  11:18 AM    <DIR>          2 John
+03/12/2022  11:18 AM    <DIR>          2 Peter
+03/12/2022  11:18 AM    <DIR>          2 Thessalonians
+03/12/2022  11:18 AM    <DIR>          2 Timothy
+03/12/2022  11:18 AM    <DIR>          3 John
+03/12/2022  11:18 AM    <DIR>          Acts of the Apostles
+03/12/2022  11:18 AM    <DIR>          Colossians
+03/12/2022  11:18 AM    <DIR>          Ephesians
+03/12/2022  11:18 AM    <DIR>          Galatians
+03/12/2022  11:18 AM    <DIR>          Hebrews
+03/12/2022  11:18 AM    <DIR>          James
+03/12/2022  11:18 AM    <DIR>          John
+03/12/2022  11:18 AM    <DIR>          Jude
+03/12/2022  11:18 AM               281 ls.txt
+03/12/2022  11:18 AM    <DIR>          Luke
+03/12/2022  11:18 AM    <DIR>          Mark
+03/12/2022  11:18 AM    <DIR>          Matthew
+03/12/2022  11:18 AM    <DIR>          Philemon
+03/12/2022  11:18 AM    <DIR>          Philippians
+03/12/2022  11:18 AM    <DIR>          Revelation
+03/12/2022  11:18 AM    <DIR>          Romans
+03/12/2022  11:18 AM    <DIR>          Titus
+               1 File(s)            281 bytes
+              29 Dir(s)  62,372,319,232 bytes free

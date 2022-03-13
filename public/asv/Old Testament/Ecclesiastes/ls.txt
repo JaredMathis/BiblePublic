@@ -1,12 +1,22 @@
-Ecclesiastes1.txt
-Ecclesiastes10.txt
-Ecclesiastes11.txt
-Ecclesiastes12.txt
-Ecclesiastes2.txt
-Ecclesiastes3.txt
-Ecclesiastes4.txt
-Ecclesiastes5.txt
-Ecclesiastes6.txt
-Ecclesiastes7.txt
-Ecclesiastes8.txt
-Ecclesiastes9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Ecclesiastes
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,119 Ecclesiastes1.txt
+03/12/2022  11:18 AM             2,153 Ecclesiastes10.txt
+03/12/2022  11:18 AM             1,421 Ecclesiastes11.txt
+03/12/2022  11:18 AM             2,020 Ecclesiastes12.txt
+03/12/2022  11:18 AM             3,792 Ecclesiastes2.txt
+03/12/2022  11:18 AM             2,619 Ecclesiastes3.txt
+03/12/2022  11:18 AM             2,042 Ecclesiastes4.txt
+03/12/2022  11:18 AM             2,781 Ecclesiastes5.txt
+03/12/2022  11:18 AM             1,553 Ecclesiastes6.txt
+03/12/2022  11:18 AM             3,382 Ecclesiastes7.txt
+03/12/2022  11:18 AM             2,638 Ecclesiastes8.txt
+03/12/2022  11:18 AM             2,845 Ecclesiastes9.txt
+03/12/2022  11:18 AM               229 ls.txt
+              13 File(s)         29,594 bytes
+               2 Dir(s)  62,372,237,312 bytes free

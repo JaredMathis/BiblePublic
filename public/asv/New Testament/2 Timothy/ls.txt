@@ -1,4 +1,14 @@
-2 Timothy1.txt
-2 Timothy2.txt
-2 Timothy3.txt
-2 Timothy4.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\2 Timothy
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,249 2 Timothy1.txt
+03/12/2022  11:18 AM             2,858 2 Timothy2.txt
+03/12/2022  11:18 AM             1,846 2 Timothy3.txt
+03/12/2022  11:18 AM             2,289 2 Timothy4.txt
+03/12/2022  11:18 AM                62 ls.txt
+               5 File(s)          9,304 bytes
+               2 Dir(s)  62,372,306,944 bytes free

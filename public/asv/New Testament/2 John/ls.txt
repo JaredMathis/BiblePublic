@@ -1,1 +1,11 @@
-2 John1.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\2 John
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             1,618 2 John1.txt
+03/12/2022  11:18 AM                11 ls.txt
+               2 File(s)          1,629 bytes
+               2 Dir(s)  62,372,306,944 bytes free

@@ -1,10 +1,20 @@
-Esther1.txt
-Esther10.txt
-Esther2.txt
-Esther3.txt
-Esther4.txt
-Esther5.txt
-Esther6.txt
-Esther7.txt
-Esther8.txt
-Esther9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Esther
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             3,977 Esther1.txt
+03/12/2022  11:18 AM               503 Esther10.txt
+03/12/2022  11:18 AM             4,490 Esther2.txt
+03/12/2022  11:18 AM             3,133 Esther3.txt
+03/12/2022  11:18 AM             2,869 Esther4.txt
+03/12/2022  11:18 AM             2,570 Esther5.txt
+03/12/2022  11:18 AM             2,586 Esther6.txt
+03/12/2022  11:18 AM             1,843 Esther7.txt
+03/12/2022  11:18 AM             3,591 Esther8.txt
+03/12/2022  11:18 AM             5,579 Esther9.txt
+03/12/2022  11:18 AM               129 ls.txt
+              11 File(s)         31,270 bytes
+               2 Dir(s)  62,372,233,216 bytes free

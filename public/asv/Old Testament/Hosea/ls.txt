@@ -1,14 +1,24 @@
-Hosea1.txt
-Hosea10.txt
-Hosea11.txt
-Hosea12.txt
-Hosea13.txt
-Hosea14.txt
-Hosea2.txt
-Hosea3.txt
-Hosea4.txt
-Hosea5.txt
-Hosea6.txt
-Hosea7.txt
-Hosea8.txt
-Hosea9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Hosea
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             1,816 Hosea1.txt
+03/12/2022  11:18 AM             2,368 Hosea10.txt
+03/12/2022  11:18 AM             1,676 Hosea11.txt
+03/12/2022  11:18 AM             1,701 Hosea12.txt
+03/12/2022  11:18 AM             2,286 Hosea13.txt
+03/12/2022  11:18 AM             1,247 Hosea14.txt
+03/12/2022  11:18 AM             3,532 Hosea2.txt
+03/12/2022  11:18 AM               810 Hosea3.txt
+03/12/2022  11:18 AM             2,732 Hosea4.txt
+03/12/2022  11:18 AM             2,018 Hosea5.txt
+03/12/2022  11:18 AM             1,335 Hosea6.txt
+03/12/2022  11:18 AM             2,245 Hosea7.txt
+03/12/2022  11:18 AM             1,799 Hosea8.txt
+03/12/2022  11:18 AM             2,650 Hosea9.txt
+03/12/2022  11:18 AM               171 ls.txt
+              15 File(s)         28,386 bytes
+               2 Dir(s)  62,372,216,832 bytes free

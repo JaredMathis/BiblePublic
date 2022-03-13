@@ -1,36 +1,46 @@
-Numbers1.txt
-Numbers10.txt
-Numbers11.txt
-Numbers12.txt
-Numbers13.txt
-Numbers14.txt
-Numbers15.txt
-Numbers16.txt
-Numbers17.txt
-Numbers18.txt
-Numbers19.txt
-Numbers2.txt
-Numbers20.txt
-Numbers21.txt
-Numbers22.txt
-Numbers23.txt
-Numbers24.txt
-Numbers25.txt
-Numbers26.txt
-Numbers27.txt
-Numbers28.txt
-Numbers29.txt
-Numbers3.txt
-Numbers30.txt
-Numbers31.txt
-Numbers32.txt
-Numbers33.txt
-Numbers34.txt
-Numbers35.txt
-Numbers36.txt
-Numbers4.txt
-Numbers5.txt
-Numbers6.txt
-Numbers7.txt
-Numbers8.txt
-Numbers9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Numbers
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM               529 ls.txt
+03/12/2022  11:18 AM             7,333 Numbers1.txt
+03/12/2022  11:18 AM             4,781 Numbers10.txt
+03/12/2022  11:18 AM             5,493 Numbers11.txt
+03/12/2022  11:18 AM             2,025 Numbers12.txt
+03/12/2022  11:18 AM             3,965 Numbers13.txt
+03/12/2022  11:18 AM             6,464 Numbers14.txt
+03/12/2022  11:18 AM             5,762 Numbers15.txt
+03/12/2022  11:18 AM             7,173 Numbers16.txt
+03/12/2022  11:18 AM             1,789 Numbers17.txt
+03/12/2022  11:18 AM             5,959 Numbers18.txt
+03/12/2022  11:18 AM             3,664 Numbers19.txt
+03/12/2022  11:18 AM             4,638 Numbers2.txt
+03/12/2022  11:18 AM             4,261 Numbers20.txt
+03/12/2022  11:18 AM             5,012 Numbers21.txt
+03/12/2022  11:18 AM             6,182 Numbers22.txt
+03/12/2022  11:18 AM             3,880 Numbers23.txt
+03/12/2022  11:18 AM             3,434 Numbers24.txt
+03/12/2022  11:18 AM             2,439 Numbers25.txt
+03/12/2022  11:18 AM             8,345 Numbers26.txt
+03/12/2022  11:18 AM             3,292 Numbers27.txt
+03/12/2022  11:18 AM             4,179 Numbers28.txt
+03/12/2022  11:18 AM             5,393 Numbers29.txt
+03/12/2022  11:18 AM             7,125 Numbers3.txt
+03/12/2022  11:18 AM             2,670 Numbers30.txt
+03/12/2022  11:18 AM             6,792 Numbers31.txt
+03/12/2022  11:18 AM             5,713 Numbers32.txt
+03/12/2022  11:18 AM             5,597 Numbers33.txt
+03/12/2022  11:18 AM             3,404 Numbers34.txt
+03/12/2022  11:18 AM             5,150 Numbers35.txt
+03/12/2022  11:18 AM             2,513 Numbers36.txt
+03/12/2022  11:18 AM             7,489 Numbers4.txt
+03/12/2022  11:18 AM             4,895 Numbers5.txt
+03/12/2022  11:18 AM             3,958 Numbers6.txt
+03/12/2022  11:18 AM            10,698 Numbers7.txt
+03/12/2022  11:18 AM             3,893 Numbers8.txt
+03/12/2022  11:18 AM             3,844 Numbers9.txt
+              37 File(s)        179,733 bytes
+               2 Dir(s)  62,372,192,256 bytes free

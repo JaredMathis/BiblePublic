@@ -1,21 +1,31 @@
-Judges1.txt
-Judges10.txt
-Judges11.txt
-Judges12.txt
-Judges13.txt
-Judges14.txt
-Judges15.txt
-Judges16.txt
-Judges17.txt
-Judges18.txt
-Judges19.txt
-Judges2.txt
-Judges20.txt
-Judges21.txt
-Judges3.txt
-Judges4.txt
-Judges5.txt
-Judges6.txt
-Judges7.txt
-Judges8.txt
-Judges9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Judges
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             5,451 Judges1.txt
+03/12/2022  11:18 AM             2,660 Judges10.txt
+03/12/2022  11:18 AM             6,685 Judges11.txt
+03/12/2022  11:18 AM             2,249 Judges12.txt
+03/12/2022  11:18 AM             3,880 Judges13.txt
+03/12/2022  11:18 AM             3,622 Judges14.txt
+03/12/2022  11:18 AM             3,390 Judges15.txt
+03/12/2022  11:18 AM             5,755 Judges16.txt
+03/12/2022  11:18 AM             2,013 Judges17.txt
+03/12/2022  11:18 AM             5,403 Judges18.txt
+03/12/2022  11:18 AM             5,669 Judges19.txt
+03/12/2022  11:18 AM             3,782 Judges2.txt
+03/12/2022  11:18 AM             7,900 Judges20.txt
+03/12/2022  11:18 AM             3,983 Judges21.txt
+03/12/2022  11:18 AM             4,691 Judges3.txt
+03/12/2022  11:18 AM             4,023 Judges4.txt
+03/12/2022  11:18 AM             4,184 Judges5.txt
+03/12/2022  11:18 AM             6,734 Judges6.txt
+03/12/2022  11:18 AM             5,146 Judges7.txt
+03/12/2022  11:18 AM             5,297 Judges8.txt
+03/12/2022  11:18 AM             8,907 Judges9.txt
+03/12/2022  11:18 AM               283 ls.txt
+              22 File(s)        101,707 bytes
+               2 Dir(s)  62,372,204,544 bytes free

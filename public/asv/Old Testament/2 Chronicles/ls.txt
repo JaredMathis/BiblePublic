@@ -1,36 +1,46 @@
-2 Chronicles1.txt
-2 Chronicles10.txt
-2 Chronicles11.txt
-2 Chronicles12.txt
-2 Chronicles13.txt
-2 Chronicles14.txt
-2 Chronicles15.txt
-2 Chronicles16.txt
-2 Chronicles17.txt
-2 Chronicles18.txt
-2 Chronicles19.txt
-2 Chronicles2.txt
-2 Chronicles20.txt
-2 Chronicles21.txt
-2 Chronicles22.txt
-2 Chronicles23.txt
-2 Chronicles24.txt
-2 Chronicles25.txt
-2 Chronicles26.txt
-2 Chronicles27.txt
-2 Chronicles28.txt
-2 Chronicles29.txt
-2 Chronicles3.txt
-2 Chronicles30.txt
-2 Chronicles31.txt
-2 Chronicles32.txt
-2 Chronicles33.txt
-2 Chronicles34.txt
-2 Chronicles35.txt
-2 Chronicles36.txt
-2 Chronicles4.txt
-2 Chronicles5.txt
-2 Chronicles6.txt
-2 Chronicles7.txt
-2 Chronicles8.txt
-2 Chronicles9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\2 Chronicles
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,866 2 Chronicles1.txt
+03/12/2022  11:18 AM             3,045 2 Chronicles10.txt
+03/12/2022  11:18 AM             2,818 2 Chronicles11.txt
+03/12/2022  11:18 AM             2,773 2 Chronicles12.txt
+03/12/2022  11:18 AM             3,577 2 Chronicles13.txt
+03/12/2022  11:18 AM             2,391 2 Chronicles14.txt
+03/12/2022  11:18 AM             2,778 2 Chronicles15.txt
+03/12/2022  11:18 AM             2,520 2 Chronicles16.txt
+03/12/2022  11:18 AM             2,627 2 Chronicles17.txt
+03/12/2022  11:18 AM             5,541 2 Chronicles18.txt
+03/12/2022  11:18 AM             1,940 2 Chronicles19.txt
+03/12/2022  11:18 AM             3,520 2 Chronicles2.txt
+03/12/2022  11:18 AM             6,340 2 Chronicles20.txt
+03/12/2022  11:18 AM             3,362 2 Chronicles21.txt
+03/12/2022  11:18 AM             2,360 2 Chronicles22.txt
+03/12/2022  11:18 AM             4,142 2 Chronicles23.txt
+03/12/2022  11:18 AM             4,974 2 Chronicles24.txt
+03/12/2022  11:18 AM             5,203 2 Chronicles25.txt
+03/12/2022  11:18 AM             4,007 2 Chronicles26.txt
+03/12/2022  11:18 AM             1,320 2 Chronicles27.txt
+03/12/2022  11:18 AM             4,857 2 Chronicles28.txt
+03/12/2022  11:18 AM             6,457 2 Chronicles29.txt
+03/12/2022  11:18 AM             2,655 2 Chronicles3.txt
+03/12/2022  11:18 AM             4,996 2 Chronicles30.txt
+03/12/2022  11:18 AM             4,336 2 Chronicles31.txt
+03/12/2022  11:18 AM             5,910 2 Chronicles32.txt
+03/12/2022  11:18 AM             4,191 2 Chronicles33.txt
+03/12/2022  11:18 AM             6,564 2 Chronicles34.txt
+03/12/2022  11:18 AM             5,183 2 Chronicles35.txt
+03/12/2022  11:18 AM             4,012 2 Chronicles36.txt
+03/12/2022  11:18 AM             3,221 2 Chronicles4.txt
+03/12/2022  11:18 AM             2,641 2 Chronicles5.txt
+03/12/2022  11:18 AM             7,604 2 Chronicles6.txt
+03/12/2022  11:18 AM             4,041 2 Chronicles7.txt
+03/12/2022  11:18 AM             3,015 2 Chronicles8.txt
+03/12/2022  11:18 AM             4,797 2 Chronicles9.txt
+03/12/2022  11:18 AM               709 ls.txt
+              37 File(s)        143,293 bytes
+               2 Dir(s)  62,372,261,888 bytes free

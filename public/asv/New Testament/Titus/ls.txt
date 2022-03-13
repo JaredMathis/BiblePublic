@@ -1,3 +1,13 @@
-Titus1.txt
-Titus2.txt
-Titus3.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\Titus
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM                34 ls.txt
+03/12/2022  11:18 AM             1,989 Titus1.txt
+03/12/2022  11:18 AM             1,620 Titus2.txt
+03/12/2022  11:18 AM             1,736 Titus3.txt
+               4 File(s)          5,379 bytes
+               2 Dir(s)  62,372,278,272 bytes free

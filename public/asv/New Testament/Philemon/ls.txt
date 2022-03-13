@@ -1,1 +1,11 @@
-Philemon1.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\Philemon
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM                13 ls.txt
+03/12/2022  11:18 AM             2,405 Philemon1.txt
+               2 File(s)          2,418 bytes
+               2 Dir(s)  62,372,286,464 bytes free

@@ -1,22 +1,32 @@
-Revelation1.txt
-Revelation10.txt
-Revelation11.txt
-Revelation12.txt
-Revelation13.txt
-Revelation14.txt
-Revelation15.txt
-Revelation16.txt
-Revelation17.txt
-Revelation18.txt
-Revelation19.txt
-Revelation2.txt
-Revelation20.txt
-Revelation21.txt
-Revelation22.txt
-Revelation3.txt
-Revelation4.txt
-Revelation5.txt
-Revelation6.txt
-Revelation7.txt
-Revelation8.txt
-Revelation9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\New Testament\Revelation
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM               385 ls.txt
+03/12/2022  11:18 AM             2,998 Revelation1.txt
+03/12/2022  11:18 AM             1,813 Revelation10.txt
+03/12/2022  11:18 AM             3,200 Revelation11.txt
+03/12/2022  11:18 AM             2,700 Revelation12.txt
+03/12/2022  11:18 AM             2,978 Revelation13.txt
+03/12/2022  11:18 AM             3,514 Revelation14.txt
+03/12/2022  11:18 AM             1,378 Revelation15.txt
+03/12/2022  11:18 AM             3,056 Revelation16.txt
+03/12/2022  11:18 AM             2,904 Revelation17.txt
+03/12/2022  11:18 AM             4,139 Revelation18.txt
+03/12/2022  11:18 AM             3,460 Revelation19.txt
+03/12/2022  11:18 AM             4,229 Revelation2.txt
+03/12/2022  11:18 AM             2,530 Revelation20.txt
+03/12/2022  11:18 AM             4,000 Revelation21.txt
+03/12/2022  11:18 AM             2,048 Revelation22.txt
+03/12/2022  11:18 AM             3,386 Revelation3.txt
+03/12/2022  11:18 AM             1,985 Revelation4.txt
+03/12/2022  11:18 AM             2,251 Revelation5.txt
+03/12/2022  11:18 AM             2,777 Revelation6.txt
+03/12/2022  11:18 AM             2,649 Revelation7.txt
+03/12/2022  11:18 AM             2,189 Revelation8.txt
+03/12/2022  11:18 AM             3,092 Revelation9.txt
+              23 File(s)         63,661 bytes
+               2 Dir(s)  62,372,286,464 bytes free

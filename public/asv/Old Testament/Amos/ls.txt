@@ -1,9 +1,19 @@
-Amos1.txt
-Amos2.txt
-Amos3.txt
-Amos4.txt
-Amos5.txt
-Amos6.txt
-Amos7.txt
-Amos8.txt
-Amos9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Amos
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             2,530 Amos1.txt
+03/12/2022  11:18 AM             2,405 Amos2.txt
+03/12/2022  11:18 AM             2,104 Amos3.txt
+03/12/2022  11:18 AM             2,390 Amos4.txt
+03/12/2022  11:18 AM             3,553 Amos5.txt
+03/12/2022  11:18 AM             2,165 Amos6.txt
+03/12/2022  11:18 AM             2,492 Amos7.txt
+03/12/2022  11:18 AM             2,097 Amos8.txt
+03/12/2022  11:18 AM             2,826 Amos9.txt
+03/12/2022  11:18 AM                97 ls.txt
+              10 File(s)         22,659 bytes
+               2 Dir(s)  62,372,249,600 bytes free

@@ -1,22 +1,32 @@
-1 Kings1.txt
-1 Kings10.txt
-1 Kings11.txt
-1 Kings12.txt
-1 Kings13.txt
-1 Kings14.txt
-1 Kings15.txt
-1 Kings16.txt
-1 Kings17.txt
-1 Kings18.txt
-1 Kings19.txt
-1 Kings2.txt
-1 Kings20.txt
-1 Kings21.txt
-1 Kings22.txt
-1 Kings3.txt
-1 Kings4.txt
-1 Kings5.txt
-1 Kings6.txt
-1 Kings7.txt
-1 Kings8.txt
-1 Kings9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\1 Kings
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             8,048 1 Kings1.txt
+03/12/2022  11:18 AM             4,556 1 Kings10.txt
+03/12/2022  11:18 AM             6,765 1 Kings11.txt
+03/12/2022  11:18 AM             5,612 1 Kings12.txt
+03/12/2022  11:18 AM             5,664 1 Kings13.txt
+03/12/2022  11:18 AM             5,200 1 Kings14.txt
+03/12/2022  11:18 AM             5,119 1 Kings15.txt
+03/12/2022  11:18 AM             5,429 1 Kings16.txt
+03/12/2022  11:18 AM             3,404 1 Kings17.txt
+03/12/2022  11:18 AM             7,222 1 Kings18.txt
+03/12/2022  11:18 AM             3,800 1 Kings19.txt
+03/12/2022  11:18 AM             7,873 1 Kings2.txt
+03/12/2022  11:18 AM             7,778 1 Kings20.txt
+03/12/2022  11:18 AM             4,827 1 Kings21.txt
+03/12/2022  11:18 AM             8,028 1 Kings22.txt
+03/12/2022  11:18 AM             4,458 1 Kings3.txt
+03/12/2022  11:18 AM             3,966 1 Kings4.txt
+03/12/2022  11:18 AM             2,901 1 Kings5.txt
+03/12/2022  11:18 AM             5,514 1 Kings6.txt
+03/12/2022  11:18 AM             7,981 1 Kings7.txt
+03/12/2022  11:18 AM            11,595 1 Kings8.txt
+03/12/2022  11:18 AM             4,521 1 Kings9.txt
+03/12/2022  11:18 AM               319 ls.txt
+              23 File(s)        130,580 bytes
+               2 Dir(s)  62,372,270,080 bytes free

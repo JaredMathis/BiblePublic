@@ -1,42 +1,52 @@
-Job1.txt
-Job10.txt
-Job11.txt
-Job12.txt
-Job13.txt
-Job14.txt
-Job15.txt
-Job16.txt
-Job17.txt
-Job18.txt
-Job19.txt
-Job2.txt
-Job20.txt
-Job21.txt
-Job22.txt
-Job23.txt
-Job24.txt
-Job25.txt
-Job26.txt
-Job27.txt
-Job28.txt
-Job29.txt
-Job3.txt
-Job30.txt
-Job31.txt
-Job32.txt
-Job33.txt
-Job34.txt
-Job35.txt
-Job36.txt
-Job37.txt
-Job38.txt
-Job39.txt
-Job4.txt
-Job40.txt
-Job41.txt
-Job42.txt
-Job5.txt
-Job6.txt
-Job7.txt
-Job8.txt
-Job9.txt
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\jared\BiblePublic\public\asv\Old Testament\Job
+
+03/12/2022  11:18 AM    <DIR>          .
+03/12/2022  11:18 AM    <DIR>          ..
+03/12/2022  11:18 AM             3,458 Job1.txt
+03/12/2022  11:18 AM             2,170 Job10.txt
+03/12/2022  11:18 AM             1,893 Job11.txt
+03/12/2022  11:18 AM             2,281 Job12.txt
+03/12/2022  11:18 AM             2,221 Job13.txt
+03/12/2022  11:18 AM             2,160 Job14.txt
+03/12/2022  11:18 AM             3,196 Job15.txt
+03/12/2022  11:18 AM             2,051 Job16.txt
+03/12/2022  11:18 AM             1,383 Job17.txt
+03/12/2022  11:18 AM             1,861 Job18.txt
+03/12/2022  11:18 AM             2,535 Job19.txt
+03/12/2022  11:18 AM             2,049 Job2.txt
+03/12/2022  11:18 AM             2,820 Job20.txt
+03/12/2022  11:18 AM             2,846 Job21.txt
+03/12/2022  11:18 AM             2,742 Job22.txt
+03/12/2022  11:18 AM             1,523 Job23.txt
+03/12/2022  11:18 AM             2,631 Job24.txt
+03/12/2022  11:18 AM               442 Job25.txt
+03/12/2022  11:18 AM             1,184 Job26.txt
+03/12/2022  11:18 AM             2,042 Job27.txt
+03/12/2022  11:18 AM             2,477 Job28.txt
+03/12/2022  11:18 AM             2,107 Job29.txt
+03/12/2022  11:18 AM             2,288 Job3.txt
+03/12/2022  11:18 AM             2,813 Job30.txt
+03/12/2022  11:18 AM             3,700 Job31.txt
+03/12/2022  11:18 AM             2,073 Job32.txt
+03/12/2022  11:18 AM             2,884 Job33.txt
+03/12/2022  11:18 AM             3,442 Job34.txt
+03/12/2022  11:18 AM             1,440 Job35.txt
+03/12/2022  11:18 AM             2,921 Job36.txt
+03/12/2022  11:18 AM             2,317 Job37.txt
+03/12/2022  11:18 AM             3,663 Job38.txt
+03/12/2022  11:18 AM             2,780 Job39.txt
+03/12/2022  11:18 AM             1,914 Job4.txt
+03/12/2022  11:18 AM             1,992 Job40.txt
+03/12/2022  11:18 AM             2,820 Job41.txt
+03/12/2022  11:18 AM             2,368 Job42.txt
+03/12/2022  11:18 AM             2,486 Job5.txt
+03/12/2022  11:18 AM             2,682 Job6.txt
+03/12/2022  11:18 AM             2,055 Job7.txt
+03/12/2022  11:18 AM             1,973 Job8.txt
+03/12/2022  11:18 AM             2,912 Job9.txt
+03/12/2022  11:18 AM               451 ls.txt
+              43 File(s)        100,046 bytes
+               2 Dir(s)  62,372,212,736 bytes free
