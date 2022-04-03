@@ -23,7 +23,12 @@ for_each(bible_keys, key => {
   }
   let book = bible[key];
   let chapters = keys(book);
-  console.log({key,chapters});
+  // console.log({key,chapters});
+  for_each(chapters, chapter_index => {
+    let chapter = chapters[chapter_index];
+    let verses = keys(chapter);
+
+  });
 });
 
 // let verse_data = bible_verse_data(book, chapter_index, verse, tokens);
