@@ -18,6 +18,6 @@
 03/12/2022  11:18 AM             3,516 Hebrews7.txt
 03/12/2022  11:18 AM             2,109 Hebrews8.txt
 03/12/2022  11:18 AM             4,036 Hebrews9.txt
-03/13/2022  02:06 PM             1,068 ls.txt
+03/13/2022  02:08 PM             1,068 ls.txt
               14 File(s)         40,267 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

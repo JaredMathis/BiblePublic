@@ -5,10 +5,10 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/13/2022  02:06 PM               607 ls.txt
+03/13/2022  02:08 PM               607 ls.txt
 03/12/2022  11:18 AM             3,494 Philippians1.txt
 03/12/2022  11:18 AM             3,268 Philippians2.txt
 03/12/2022  11:18 AM             2,680 Philippians3.txt
 03/12/2022  11:18 AM             2,689 Philippians4.txt
                5 File(s)         12,738 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

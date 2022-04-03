@@ -4,10 +4,10 @@
  Directory of C:\Users\jared\BiblePublic\public\asv
 
 03/12/2022  11:18 AM    <DIR>          .
-03/13/2022  02:00 PM    <DIR>          ..
-03/13/2022  02:06 PM               508 ls.txt
+04/03/2022  07:12 PM    <DIR>          ..
+03/13/2022  02:08 PM               508 ls.txt
 03/12/2022  11:18 AM    <DIR>          New Testament
 03/12/2022  11:18 AM    <DIR>          Old Testament
 03/12/2022  11:18 AM                66 README
                2 File(s)            574 bytes
-               4 Dir(s)  62,281,928,704 bytes free
+               4 Dir(s)  55,567,032,320 bytes free

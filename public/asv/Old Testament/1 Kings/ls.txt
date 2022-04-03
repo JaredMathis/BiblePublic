@@ -27,6 +27,6 @@
 03/12/2022  11:18 AM             7,981 1 Kings7.txt
 03/12/2022  11:18 AM            11,595 1 Kings8.txt
 03/12/2022  11:18 AM             4,521 1 Kings9.txt
-03/13/2022  02:06 PM             1,554 ls.txt
+03/13/2022  02:09 PM             1,554 ls.txt
               23 File(s)        131,815 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

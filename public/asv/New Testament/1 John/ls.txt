@@ -10,6 +10,6 @@
 03/12/2022  11:18 AM             2,874 1 John3.txt
 03/12/2022  11:18 AM             2,443 1 John4.txt
 03/12/2022  11:18 AM             2,580 1 John5.txt
-03/13/2022  02:06 PM               634 ls.txt
+03/13/2022  02:08 PM               634 ls.txt
                6 File(s)         13,674 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

@@ -26,6 +26,6 @@
 03/12/2022  11:18 AM             5,412 John7.txt
 03/12/2022  11:18 AM             6,665 John8.txt
 03/12/2022  11:18 AM             4,423 John9.txt
-03/13/2022  02:06 PM             1,434 ls.txt
+03/13/2022  02:08 PM             1,434 ls.txt
               22 File(s)        103,188 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

@@ -8,6 +8,6 @@
 03/12/2022  11:18 AM             2,747 Joel1.txt
 03/12/2022  11:18 AM             5,081 Joel2.txt
 03/12/2022  11:18 AM             3,107 Joel3.txt
-03/13/2022  02:06 PM               522 ls.txt
+03/13/2022  02:09 PM               522 ls.txt
                4 File(s)         11,457 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

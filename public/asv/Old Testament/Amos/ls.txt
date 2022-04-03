@@ -14,6 +14,6 @@
 03/12/2022  11:18 AM             2,492 Amos7.txt
 03/12/2022  11:18 AM             2,097 Amos8.txt
 03/12/2022  11:18 AM             2,826 Amos9.txt
-03/13/2022  02:06 PM               822 ls.txt
+03/13/2022  02:09 PM               822 ls.txt
               10 File(s)         23,384 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

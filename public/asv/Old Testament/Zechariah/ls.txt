@@ -5,7 +5,7 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/13/2022  02:06 PM             1,152 ls.txt
+03/13/2022  02:09 PM             1,152 ls.txt
 03/12/2022  11:18 AM             3,301 Zechariah1.txt
 03/12/2022  11:18 AM             2,121 Zechariah10.txt
 03/12/2022  11:18 AM             2,583 Zechariah11.txt
@@ -21,4 +21,4 @@
 03/12/2022  11:18 AM             3,630 Zechariah8.txt
 03/12/2022  11:18 AM             2,743 Zechariah9.txt
               15 File(s)         34,879 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

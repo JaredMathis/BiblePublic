@@ -5,7 +5,7 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/13/2022  02:06 PM             8,366 ls.txt
+03/13/2022  02:09 PM             8,366 ls.txt
 03/12/2022  11:18 AM               689 Psalms1.txt
 03/12/2022  11:18 AM             1,967 Psalms10.txt
 03/12/2022  11:18 AM               501 Psalms100.txt
@@ -157,4 +157,4 @@
 03/12/2022  11:18 AM               961 Psalms98.txt
 03/12/2022  11:18 AM               881 Psalms99.txt
              151 File(s)        249,064 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

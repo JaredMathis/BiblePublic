@@ -21,6 +21,6 @@
 03/12/2022  11:18 AM             5,188 1 Corinthians7.txt
 03/12/2022  11:18 AM             1,597 1 Corinthians8.txt
 03/12/2022  11:18 AM             3,410 1 Corinthians9.txt
-03/13/2022  02:06 PM             1,332 ls.txt
+03/13/2022  02:08 PM             1,332 ls.txt
               17 File(s)         51,715 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

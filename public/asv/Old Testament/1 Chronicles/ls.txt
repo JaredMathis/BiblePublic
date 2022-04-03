@@ -34,6 +34,6 @@
 03/12/2022  11:18 AM             4,705 1 Chronicles7.txt
 03/12/2022  11:18 AM             3,016 1 Chronicles8.txt
 03/12/2022  11:18 AM             5,515 1 Chronicles9.txt
-03/13/2022  02:06 PM             2,082 ls.txt
+03/13/2022  02:09 PM             2,082 ls.txt
               30 File(s)        116,485 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

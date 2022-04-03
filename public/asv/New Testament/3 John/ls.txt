@@ -6,6 +6,6 @@
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
 03/12/2022  11:18 AM             1,680 3 John1.txt
-03/13/2022  02:06 PM               426 ls.txt
+03/13/2022  02:08 PM               426 ls.txt
                2 File(s)          2,106 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

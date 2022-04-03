@@ -8,6 +8,6 @@
 03/12/2022  11:18 AM             2,350 Habakkuk1.txt
 03/12/2022  11:18 AM             2,996 Habakkuk2.txt
 03/12/2022  11:18 AM             2,627 Habakkuk3.txt
-03/13/2022  02:06 PM               538 ls.txt
+03/13/2022  02:09 PM               538 ls.txt
                4 File(s)          8,511 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

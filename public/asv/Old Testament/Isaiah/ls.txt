@@ -71,6 +71,6 @@
 03/12/2022  11:18 AM             3,610 Isaiah7.txt
 03/12/2022  11:18 AM             3,096 Isaiah8.txt
 03/12/2022  11:18 AM             3,248 Isaiah9.txt
-03/13/2022  02:06 PM             3,863 ls.txt
+03/13/2022  02:09 PM             3,863 ls.txt
               67 File(s)        202,883 bytes
-               2 Dir(s)  62,281,928,704 bytes free
+               2 Dir(s)  55,567,032,320 bytes free

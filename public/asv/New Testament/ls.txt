@@ -24,7 +24,7 @@
 03/12/2022  11:18 AM    <DIR>          James
 03/12/2022  11:18 AM    <DIR>          John
 03/12/2022  11:18 AM    <DIR>          Jude
-03/13/2022  02:06 PM             1,703 ls.txt
+03/13/2022  02:08 PM             1,703 ls.txt
 03/12/2022  11:18 AM    <DIR>          Luke
 03/12/2022  11:18 AM    <DIR>          Mark
 03/12/2022  11:18 AM    <DIR>          Matthew
@@ -34,4 +34,4 @@
 03/12/2022  11:18 AM    <DIR>          Romans
 03/12/2022  11:18 AM    <DIR>          Titus
                1 File(s)          1,703 bytes
-              29 Dir(s)  62,281,928,704 bytes free
+              29 Dir(s)  55,567,032,320 bytes free
