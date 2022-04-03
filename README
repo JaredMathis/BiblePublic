@@ -1,5 +1,6 @@
 Setup:
     npm install -g firebase-tools
+    firebase login
 
 The only files here should be publically available to download.
 
