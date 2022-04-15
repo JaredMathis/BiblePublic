@@ -23,4 +23,9 @@ let end = text.indexOf(end_search);
 
 let sub = text.substring(start, end);
 
-console.log(sub);
+let split = sub.split('<br />');
+for (let s of split){
+    
+}
+
+console.log(split);
