@@ -25,7 +25,16 @@ let sub = text.substring(start, end);
 
 let split = sub.split('<br />');
 for (let s of split){
-    
-}
 
-console.log(split);
+    let marker = 'id="';
+    let verse_reference_index = s.indexOf(marker)
+    let verse_reference_full = s.substring(verse_reference_index + marker.length)
+    let verse_reference_string = verse_reference_full.substring(0, verse_reference_full.indexOf("\">"));
+    let verse_reference = parseInt(verse_reference_string, 10);
+    let marker2 = '</span>'
+    let verse_text = verse_reference_full
+        .substring(verse_reference_full.indexOf(marker2) + marker2.length)
+        .replace('</p>', '')
+        .trim()
+    console.log(verse_text);
+}
