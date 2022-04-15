@@ -1,0 +1,4300 @@
+[
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Παῦλος",
+        "text": "Paul"
+      },
+      {
+        "i": 1,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 2,
+        "word": "Σιλουανὸς",
+        "text": "Silvanus"
+      },
+      {
+        "i": 3,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 4,
+        "word": "Τιμόθεος",
+        "text": "Timothy"
+      },
+      {
+        "i": 5,
+        "word": "τῇ",
+        "text": "To the"
+      },
+      {
+        "i": 6,
+        "word": "ἐκκλησίᾳ",
+        "text": "church"
+      },
+      {
+        "i": 7,
+        "word": "Θεσσαλονικέων",
+        "text": "of [the] Thessalonians"
+      },
+      {
+        "i": 8,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 9,
+        "word": "Θεῷ",
+        "text": "God"
+      },
+      {
+        "i": 10,
+        "word": "Πατρὶ",
+        "text": "[the] Father"
+      },
+      {
+        "i": 11,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 12,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 13,
+        "word": "Κυρίῳ",
+        "text": "the Lord"
+      },
+      {
+        "i": 14,
+        "word": "Ἰησοῦ",
+        "text": "Jesus"
+      },
+      {
+        "i": 15,
+        "word": "Χριστῷ",
+        "text": "Christ"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "χάρις",
+        "text": "Grace"
+      },
+      {
+        "i": 1,
+        "word": "ὑμῖν",
+        "text": "to you"
+      },
+      {
+        "i": 2,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 3,
+        "word": "εἰρήνη",
+        "text": "peace"
+      },
+      {
+        "i": 4,
+        "word": "ἀπὸ",
+        "text": "from"
+      },
+      {
+        "i": 5,
+        "word": "Θεοῦ",
+        "text": "God"
+      },
+      {
+        "i": 6,
+        "word": "Πατρὸς",
+        "text": "[the] Father"
+      },
+      {
+        "i": 7,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 8,
+        "word": "Κυρίου",
+        "text": "the Lord"
+      },
+      {
+        "i": 9,
+        "word": "Ἰησοῦ",
+        "text": "Jesus"
+      },
+      {
+        "i": 10,
+        "word": "Χριστοῦ",
+        "text": "Christ"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Εὐχαριστεῖν",
+        "text": "To thank"
+      },
+      {
+        "i": 1,
+        "word": "ὀφείλομεν",
+        "text": "we ought"
+      },
+      {
+        "i": 2,
+        "word": "τῷ",
+        "text": "-"
+      },
+      {
+        "i": 3,
+        "word": "Θεῷ",
+        "text": "God"
+      },
+      {
+        "i": 4,
+        "word": "πάντοτε",
+        "text": "always"
+      },
+      {
+        "i": 5,
+        "word": "περὶ",
+        "text": "concerning"
+      },
+      {
+        "i": 6,
+        "word": "ὑμῶν",
+        "text": "you"
+      },
+      {
+        "i": 7,
+        "word": "ἀδελφοί",
+        "text": "brothers"
+      },
+      {
+        "i": 8,
+        "word": "καθὼς",
+        "text": "just as"
+      },
+      {
+        "i": 9,
+        "word": "ἄξιόν",
+        "text": "fitting"
+      },
+      {
+        "i": 10,
+        "word": "ἐστιν",
+        "text": "it is"
+      },
+      {
+        "i": 11,
+        "word": "ὅτι",
+        "text": "because"
+      },
+      {
+        "i": 12,
+        "word": "ὑπεραυξάνει",
+        "text": "is increasing exceedingly"
+      },
+      {
+        "i": 13,
+        "word": "ἡ",
+        "text": "the"
+      },
+      {
+        "i": 14,
+        "word": "πίστις",
+        "text": "faith"
+      },
+      {
+        "i": 15,
+        "word": "ὑμῶν",
+        "text": "of you"
+      },
+      {
+        "i": 16,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 17,
+        "word": "πλεονάζει",
+        "text": "is abounding"
+      },
+      {
+        "i": 18,
+        "word": "ἡ",
+        "text": "the"
+      },
+      {
+        "i": 19,
+        "word": "ἀγάπη",
+        "text": "love"
+      },
+      {
+        "i": 20,
+        "word": "ἑνὸς",
+        "text": "of one"
+      },
+      {
+        "i": 21,
+        "word": "ἑκάστου",
+        "text": "each"
+      },
+      {
+        "i": 22,
+        "word": "πάντων",
+        "text": "of all"
+      },
+      {
+        "i": 23,
+        "word": "ὑμῶν",
+        "text": "you"
+      },
+      {
+        "i": 24,
+        "word": "εἰς",
+        "text": "to"
+      },
+      {
+        "i": 25,
+        "word": "ἀλλήλους",
+        "text": "one another"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "ὥστε",
+        "text": "so as for"
+      },
+      {
+        "i": 1,
+        "word": "αὐτοὺς",
+        "text": "ourselves"
+      },
+      {
+        "i": 2,
+        "word": "ἡμᾶς",
+        "text": "us"
+      },
+      {
+        "i": 3,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 4,
+        "word": "ὑμῖν",
+        "text": "you"
+      },
+      {
+        "i": 5,
+        "word": "ἐνκαυχᾶσθαι",
+        "text": "to boast"
+      },
+      {
+        "i": 6,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 7,
+        "word": "ταῖς",
+        "text": "the"
+      },
+      {
+        "i": 8,
+        "word": "ἐκκλησίαις",
+        "text": "churches"
+      },
+      {
+        "i": 9,
+        "word": "τοῦ",
+        "text": "-"
+      },
+      {
+        "i": 10,
+        "word": "Θεοῦ",
+        "text": "of God"
+      },
+      {
+        "i": 11,
+        "word": "ὑπὲρ",
+        "text": "about"
+      },
+      {
+        "i": 12,
+        "word": "τῆς",
+        "text": "the"
+      },
+      {
+        "i": 13,
+        "word": "ὑπομονῆς",
+        "text": "perseverance"
+      },
+      {
+        "i": 14,
+        "word": "ὑμῶν",
+        "text": "of you"
+      },
+      {
+        "i": 15,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 16,
+        "word": "πίστεως",
+        "text": "faith"
+      },
+      {
+        "i": 17,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 18,
+        "word": "πᾶσιν",
+        "text": "all"
+      },
+      {
+        "i": 19,
+        "word": "τοῖς",
+        "text": "the"
+      },
+      {
+        "i": 20,
+        "word": "διωγμοῖς",
+        "text": "persecutions"
+      },
+      {
+        "i": 21,
+        "word": "ὑμῶν",
+        "text": "of you"
+      },
+      {
+        "i": 22,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 23,
+        "word": "ταῖς",
+        "text": "in the"
+      },
+      {
+        "i": 24,
+        "word": "θλίψεσιν",
+        "text": "tribulations"
+      },
+      {
+        "i": 25,
+        "word": "αἷς",
+        "text": "that"
+      },
+      {
+        "i": 26,
+        "word": "ἀνέχεσθε",
+        "text": "you are bearing"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "ἔνδειγμα",
+        "text": "[This is] a plain token"
+      },
+      {
+        "i": 1,
+        "word": "τῆς",
+        "text": "of the"
+      },
+      {
+        "i": 2,
+        "word": "δικαίας",
+        "text": "righteous"
+      },
+      {
+        "i": 3,
+        "word": "κρίσεως",
+        "text": "judgment"
+      },
+      {
+        "i": 4,
+        "word": "τοῦ",
+        "text": "-"
+      },
+      {
+        "i": 5,
+        "word": "Θεοῦ",
+        "text": "of God"
+      },
+      {
+        "i": 6,
+        "word": "εἰς",
+        "text": "unto"
+      },
+      {
+        "i": 7,
+        "word": "τὸ",
+        "text": "-"
+      },
+      {
+        "i": 8,
+        "word": "καταξιωθῆναι",
+        "text": "to be accounted worthy"
+      },
+      {
+        "i": 9,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 10,
+        "word": "τῆς",
+        "text": "of the"
+      },
+      {
+        "i": 11,
+        "word": "βασιλείας",
+        "text": "kingdom"
+      },
+      {
+        "i": 12,
+        "word": "τοῦ",
+        "text": "-"
+      },
+      {
+        "i": 13,
+        "word": "Θεοῦ",
+        "text": "of God"
+      },
+      {
+        "i": 14,
+        "word": "ὑπὲρ",
+        "text": "for"
+      },
+      {
+        "i": 15,
+        "word": "ἧς",
+        "text": "which"
+      },
+      {
+        "i": 16,
+        "word": "καὶ",
+        "text": "also"
+      },
+      {
+        "i": 17,
+        "word": "πάσχετε",
+        "text": "you suffer"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "εἴπερ",
+        "text": "For indeed"
+      },
+      {
+        "i": 1,
+        "word": "δίκαιον",
+        "text": "righteous [it is]"
+      },
+      {
+        "i": 2,
+        "word": "παρὰ",
+        "text": "with"
+      },
+      {
+        "i": 3,
+        "word": "Θεῷ",
+        "text": "God"
+      },
+      {
+        "i": 4,
+        "word": "ἀνταποδοῦναι",
+        "text": "to repay"
+      },
+      {
+        "i": 5,
+        "word": "τοῖς",
+        "text": "those"
+      },
+      {
+        "i": 6,
+        "word": "θλίβουσιν",
+        "text": "oppressing"
+      },
+      {
+        "i": 7,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 8,
+        "word": "θλῖψιν",
+        "text": "with affliction"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 1,
+        "word": "ὑμῖν",
+        "text": "to you"
+      },
+      {
+        "i": 2,
+        "word": "τοῖς",
+        "text": "-"
+      },
+      {
+        "i": 3,
+        "word": "θλιβομένοις",
+        "text": "being oppressed"
+      },
+      {
+        "i": 4,
+        "word": "ἄνεσιν",
+        "text": "repose"
+      },
+      {
+        "i": 5,
+        "word": "μεθ’",
+        "text": "with"
+      },
+      {
+        "i": 6,
+        "word": "ἡμῶν",
+        "text": "us"
+      },
+      {
+        "i": 7,
+        "word": "ἐν",
+        "text": "at"
+      },
+      {
+        "i": 8,
+        "word": "τῇ",
+        "text": "the"
+      },
+      {
+        "i": 9,
+        "word": "ἀποκαλύψει",
+        "text": "revelation"
+      },
+      {
+        "i": 10,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 11,
+        "word": "Κυρίου",
+        "text": "Lord"
+      },
+      {
+        "i": 12,
+        "word": "Ἰησοῦ",
+        "text": "Jesus"
+      },
+      {
+        "i": 13,
+        "word": "ἀπ’",
+        "text": "from"
+      },
+      {
+        "i": 14,
+        "word": "οὐρανοῦ",
+        "text": "heaven"
+      },
+      {
+        "i": 15,
+        "word": "μετ’",
+        "text": "with"
+      },
+      {
+        "i": 16,
+        "word": "ἀγγέλων",
+        "text": "[the] angels"
+      },
+      {
+        "i": 17,
+        "word": "δυνάμεως",
+        "text": "mighty"
+      },
+      {
+        "i": 18,
+        "word": "αὐτοῦ",
+        "text": "of Him"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 1,
+        "word": "πυρὶ",
+        "text": "a fire"
+      },
+      {
+        "i": 2,
+        "word": "φλογός",
+        "text": "of flame"
+      },
+      {
+        "i": 3,
+        "word": "διδόντος",
+        "text": "inflicting"
+      },
+      {
+        "i": 4,
+        "word": "ἐκδίκησιν",
+        "text": "vengeance"
+      },
+      {
+        "i": 5,
+        "word": "τοῖς",
+        "text": "on those"
+      },
+      {
+        "i": 6,
+        "word": "μὴ",
+        "text": "not"
+      },
+      {
+        "i": 7,
+        "word": "εἰδόσιν",
+        "text": "knowing"
+      },
+      {
+        "i": 8,
+        "word": "Θεὸν",
+        "text": "God"
+      },
+      {
+        "i": 9,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 10,
+        "word": "τοῖς",
+        "text": "on those"
+      },
+      {
+        "i": 11,
+        "word": "μὴ",
+        "text": "not"
+      },
+      {
+        "i": 12,
+        "word": "ὑπακούουσιν",
+        "text": "obeying"
+      },
+      {
+        "i": 13,
+        "word": "τῷ",
+        "text": "the"
+      },
+      {
+        "i": 14,
+        "word": "εὐαγγελίῳ",
+        "text": "gospel"
+      },
+      {
+        "i": 15,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 16,
+        "word": "Κυρίου",
+        "text": "Lord"
+      },
+      {
+        "i": 17,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 18,
+        "word": "Ἰησοῦ",
+        "text": "Jesus"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "οἵτινες",
+        "text": "who"
+      },
+      {
+        "i": 1,
+        "word": "δίκην",
+        "text": "[the] penalty"
+      },
+      {
+        "i": 2,
+        "word": "τίσουσιν",
+        "text": "will suffer"
+      },
+      {
+        "i": 3,
+        "word": "ὄλεθρον",
+        "text": "of destruction"
+      },
+      {
+        "i": 4,
+        "word": "αἰώνιον",
+        "text": "eternal"
+      },
+      {
+        "i": 5,
+        "word": "ἀπὸ",
+        "text": "away from"
+      },
+      {
+        "i": 6,
+        "word": "προσώπου",
+        "text": "[the] presence"
+      },
+      {
+        "i": 7,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 8,
+        "word": "Κυρίου",
+        "text": "Lord"
+      },
+      {
+        "i": 9,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 10,
+        "word": "ἀπὸ",
+        "text": "from"
+      },
+      {
+        "i": 11,
+        "word": "τῆς",
+        "text": "the"
+      },
+      {
+        "i": 12,
+        "word": "δόξης",
+        "text": "glory"
+      },
+      {
+        "i": 13,
+        "word": "τῆς",
+        "text": "of the"
+      },
+      {
+        "i": 14,
+        "word": "ἰσχύος",
+        "text": "power"
+      },
+      {
+        "i": 15,
+        "word": "αὐτοῦ",
+        "text": "of Him"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "ὅταν",
+        "text": "when"
+      },
+      {
+        "i": 1,
+        "word": "ἔλθῃ",
+        "text": "He shall come"
+      },
+      {
+        "i": 2,
+        "word": "ἐνδοξασθῆναι",
+        "text": "to be glorified"
+      },
+      {
+        "i": 3,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 4,
+        "word": "τοῖς",
+        "text": "the"
+      },
+      {
+        "i": 5,
+        "word": "ἁγίοις",
+        "text": "saints"
+      },
+      {
+        "i": 6,
+        "word": "αὐτοῦ",
+        "text": "of Him"
+      },
+      {
+        "i": 7,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 8,
+        "word": "θαυμασθῆναι",
+        "text": "to be marveled at"
+      },
+      {
+        "i": 9,
+        "word": "ἐν",
+        "text": "among"
+      },
+      {
+        "i": 10,
+        "word": "πᾶσιν",
+        "text": "all"
+      },
+      {
+        "i": 11,
+        "word": "τοῖς",
+        "text": "those"
+      },
+      {
+        "i": 12,
+        "word": "πιστεύσασιν",
+        "text": "having believed"
+      },
+      {
+        "i": 13,
+        "word": "ὅτι",
+        "text": "because"
+      },
+      {
+        "i": 14,
+        "word": "ἐπιστεύθη",
+        "text": "was believed"
+      },
+      {
+        "i": 15,
+        "word": "τὸ",
+        "text": "the"
+      },
+      {
+        "i": 16,
+        "word": "μαρτύριον",
+        "text": "testimony"
+      },
+      {
+        "i": 17,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 18,
+        "word": "ἐφ’",
+        "text": "to"
+      },
+      {
+        "i": 19,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 20,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 21,
+        "word": "τῇ",
+        "text": "the"
+      },
+      {
+        "i": 22,
+        "word": "ἡμέρᾳ",
+        "text": "day"
+      },
+      {
+        "i": 23,
+        "word": "ἐκείνῃ",
+        "text": "that"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Εἰς",
+        "text": "for"
+      },
+      {
+        "i": 1,
+        "word": "ὃ",
+        "text": "which"
+      },
+      {
+        "i": 2,
+        "word": "καὶ",
+        "text": "also"
+      },
+      {
+        "i": 3,
+        "word": "προσευχόμεθα",
+        "text": "we pray"
+      },
+      {
+        "i": 4,
+        "word": "πάντοτε",
+        "text": "always"
+      },
+      {
+        "i": 5,
+        "word": "περὶ",
+        "text": "for"
+      },
+      {
+        "i": 6,
+        "word": "ὑμῶν",
+        "text": "you"
+      },
+      {
+        "i": 7,
+        "word": "ἵνα",
+        "text": "that"
+      },
+      {
+        "i": 8,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 9,
+        "word": "ἀξιώσῃ",
+        "text": "He may count worthy"
+      },
+      {
+        "i": 10,
+        "word": "τῆς",
+        "text": "of the"
+      },
+      {
+        "i": 11,
+        "word": "κλήσεως",
+        "text": "calling"
+      },
+      {
+        "i": 12,
+        "word": "ὁ",
+        "text": "of the"
+      },
+      {
+        "i": 13,
+        "word": "Θεὸς",
+        "text": "God"
+      },
+      {
+        "i": 14,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 15,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 16,
+        "word": "πληρώσῃ",
+        "text": "He may fulfill"
+      },
+      {
+        "i": 17,
+        "word": "πᾶσαν",
+        "text": "every"
+      },
+      {
+        "i": 18,
+        "word": "εὐδοκίαν",
+        "text": "good pleasure"
+      },
+      {
+        "i": 19,
+        "word": "ἀγαθωσύνης",
+        "text": "of goodness"
+      },
+      {
+        "i": 20,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 21,
+        "word": "ἔργον",
+        "text": "work"
+      },
+      {
+        "i": 22,
+        "word": "πίστεως",
+        "text": "of faith"
+      },
+      {
+        "i": 23,
+        "word": "ἐν",
+        "text": "with"
+      },
+      {
+        "i": 24,
+        "word": "δυνάμει",
+        "text": "power"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "ὅπως",
+        "text": "so that"
+      },
+      {
+        "i": 1,
+        "word": "ἐνδοξασθῇ",
+        "text": "may be glorified"
+      },
+      {
+        "i": 2,
+        "word": "τὸ",
+        "text": "the"
+      },
+      {
+        "i": 3,
+        "word": "ὄνομα",
+        "text": "name"
+      },
+      {
+        "i": 4,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 5,
+        "word": "Κυρίου",
+        "text": "Lord"
+      },
+      {
+        "i": 6,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 7,
+        "word": "Ἰησοῦ",
+        "text": "Jesus"
+      },
+      {
+        "i": 8,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 9,
+        "word": "ὑμῖν",
+        "text": "you"
+      },
+      {
+        "i": 10,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 11,
+        "word": "ὑμεῖς",
+        "text": "you"
+      },
+      {
+        "i": 12,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 13,
+        "word": "αὐτῷ",
+        "text": "Him"
+      },
+      {
+        "i": 14,
+        "word": "κατὰ",
+        "text": "according to"
+      },
+      {
+        "i": 15,
+        "word": "τὴν",
+        "text": "the"
+      },
+      {
+        "i": 16,
+        "word": "χάριν",
+        "text": "grace"
+      },
+      {
+        "i": 17,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 18,
+        "word": "Θεοῦ",
+        "text": "God"
+      },
+      {
+        "i": 19,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 20,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 21,
+        "word": "Κυρίου",
+        "text": "[the] Lord"
+      },
+      {
+        "i": 22,
+        "word": "Ἰησοῦ",
+        "text": "Jesus"
+      },
+      {
+        "i": 23,
+        "word": "Χριστοῦ",
+        "text": "Christ"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Ἐρωτῶμεν",
+        "text": "We implore"
+      },
+      {
+        "i": 1,
+        "word": "δὲ",
+        "text": "now"
+      },
+      {
+        "i": 2,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 3,
+        "word": "ἀδελφοί",
+        "text": "brothers"
+      },
+      {
+        "i": 4,
+        "word": "ὑπὲρ",
+        "text": "by"
+      },
+      {
+        "i": 5,
+        "word": "τῆς",
+        "text": "the"
+      },
+      {
+        "i": 6,
+        "word": "παρουσίας",
+        "text": "coming"
+      },
+      {
+        "i": 7,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 8,
+        "word": "Κυρίου",
+        "text": "Lord"
+      },
+      {
+        "i": 9,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 10,
+        "word": "Ἰησοῦ",
+        "text": "Jesus"
+      },
+      {
+        "i": 11,
+        "word": "Χριστοῦ",
+        "text": "Christ"
+      },
+      {
+        "i": 12,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 13,
+        "word": "ἡμῶν",
+        "text": "our"
+      },
+      {
+        "i": 14,
+        "word": "ἐπισυναγωγῆς",
+        "text": "gathering together"
+      },
+      {
+        "i": 15,
+        "word": "ἐπ’",
+        "text": "unto"
+      },
+      {
+        "i": 16,
+        "word": "αὐτόν",
+        "text": "Him"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "εἰς",
+        "text": "for"
+      },
+      {
+        "i": 1,
+        "word": "τὸ",
+        "text": "-"
+      },
+      {
+        "i": 2,
+        "word": "μὴ",
+        "text": "not"
+      },
+      {
+        "i": 3,
+        "word": "ταχέως",
+        "text": "quickly"
+      },
+      {
+        "i": 4,
+        "word": "σαλευθῆναι",
+        "text": "to be shaken"
+      },
+      {
+        "i": 5,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 6,
+        "word": "ἀπὸ",
+        "text": "in"
+      },
+      {
+        "i": 7,
+        "word": "τοῦ",
+        "text": "-"
+      },
+      {
+        "i": 8,
+        "word": "νοὸς",
+        "text": "mind"
+      },
+      {
+        "i": 9,
+        "word": "μηδὲ",
+        "text": "nor"
+      },
+      {
+        "i": 10,
+        "word": "θροεῖσθαι",
+        "text": "to be troubled"
+      },
+      {
+        "i": 11,
+        "word": "μήτε",
+        "text": "neither"
+      },
+      {
+        "i": 12,
+        "word": "διὰ",
+        "text": "by"
+      },
+      {
+        "i": 13,
+        "word": "πνεύματος",
+        "text": "spirit"
+      },
+      {
+        "i": 14,
+        "word": "μήτε",
+        "text": "nor"
+      },
+      {
+        "i": 15,
+        "word": "διὰ",
+        "text": "by"
+      },
+      {
+        "i": 16,
+        "word": "λόγου",
+        "text": "word"
+      },
+      {
+        "i": 17,
+        "word": "μήτε",
+        "text": "nor"
+      },
+      {
+        "i": 18,
+        "word": "δι’",
+        "text": "by"
+      },
+      {
+        "i": 19,
+        "word": "ἐπιστολῆς",
+        "text": "letter"
+      },
+      {
+        "i": 20,
+        "word": "ὡς",
+        "text": "as if"
+      },
+      {
+        "i": 21,
+        "word": "δι’",
+        "text": "by"
+      },
+      {
+        "i": 22,
+        "word": "ἡμῶν",
+        "text": "us"
+      },
+      {
+        "i": 23,
+        "word": "ὡς",
+        "text": "as"
+      },
+      {
+        "i": 24,
+        "word": "ὅτι",
+        "text": "that"
+      },
+      {
+        "i": 25,
+        "word": "ἐνέστηκεν",
+        "text": "is present"
+      },
+      {
+        "i": 26,
+        "word": "ἡ",
+        "text": "the"
+      },
+      {
+        "i": 27,
+        "word": "ἡμέρα",
+        "text": "day"
+      },
+      {
+        "i": 28,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 29,
+        "word": "Κυρίου",
+        "text": "Lord"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "μή",
+        "text": "No"
+      },
+      {
+        "i": 1,
+        "word": "τις",
+        "text": "one"
+      },
+      {
+        "i": 2,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 3,
+        "word": "ἐξαπατήσῃ",
+        "text": "should deceive"
+      },
+      {
+        "i": 4,
+        "word": "κατὰ",
+        "text": "in"
+      },
+      {
+        "i": 5,
+        "word": "μηδένα",
+        "text": "not one"
+      },
+      {
+        "i": 6,
+        "word": "τρόπον",
+        "text": "way"
+      },
+      {
+        "i": 7,
+        "word": "ὅτι",
+        "text": "because [it is]"
+      },
+      {
+        "i": 8,
+        "word": "ἐὰν",
+        "text": "if"
+      },
+      {
+        "i": 9,
+        "word": "μὴ",
+        "text": "not [until]"
+      },
+      {
+        "i": 10,
+        "word": "ἔλθῃ",
+        "text": "shall have come"
+      },
+      {
+        "i": 11,
+        "word": "ἡ",
+        "text": "the"
+      },
+      {
+        "i": 12,
+        "word": "ἀποστασία",
+        "text": "apostasy"
+      },
+      {
+        "i": 13,
+        "word": "πρῶτον",
+        "text": "first"
+      },
+      {
+        "i": 14,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 15,
+        "word": "ἀποκαλυφθῇ",
+        "text": "shall have been revealed"
+      },
+      {
+        "i": 16,
+        "word": "ὁ",
+        "text": "the"
+      },
+      {
+        "i": 17,
+        "word": "ἄνθρωπος",
+        "text": "man"
+      },
+      {
+        "i": 18,
+        "word": "τῆς",
+        "text": "-"
+      },
+      {
+        "i": 19,
+        "word": "ἀνομίας",
+        "text": "of lawlessness"
+      },
+      {
+        "i": 20,
+        "word": "ὁ",
+        "text": "the"
+      },
+      {
+        "i": 21,
+        "word": "υἱὸς",
+        "text": "son"
+      },
+      {
+        "i": 22,
+        "word": "τῆς",
+        "text": "-"
+      },
+      {
+        "i": 23,
+        "word": "ἀπωλείας",
+        "text": "of destruction"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "ὁ",
+        "text": "the [one]"
+      },
+      {
+        "i": 1,
+        "word": "ἀντικείμενος",
+        "text": "opposing"
+      },
+      {
+        "i": 2,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 3,
+        "word": "ὑπεραιρόμενος",
+        "text": "exalting himself"
+      },
+      {
+        "i": 4,
+        "word": "ἐπὶ",
+        "text": "above"
+      },
+      {
+        "i": 5,
+        "word": "πάντα",
+        "text": "every"
+      },
+      {
+        "i": 6,
+        "word": "λεγόμενον",
+        "text": "so-called"
+      },
+      {
+        "i": 7,
+        "word": "Θεὸν",
+        "text": "god"
+      },
+      {
+        "i": 8,
+        "word": "ἢ",
+        "text": "or"
+      },
+      {
+        "i": 9,
+        "word": "σέβασμα",
+        "text": "object of worship"
+      },
+      {
+        "i": 10,
+        "word": "ὥστε",
+        "text": "so as for"
+      },
+      {
+        "i": 11,
+        "word": "αὐτὸν",
+        "text": "him"
+      },
+      {
+        "i": 12,
+        "word": "εἰς",
+        "text": "in"
+      },
+      {
+        "i": 13,
+        "word": "τὸν",
+        "text": "the"
+      },
+      {
+        "i": 14,
+        "word": "ναὸν",
+        "text": "temple"
+      },
+      {
+        "i": 15,
+        "word": "τοῦ",
+        "text": "-"
+      },
+      {
+        "i": 16,
+        "word": "Θεοῦ",
+        "text": "of God"
+      },
+      {
+        "i": 17,
+        "word": "καθίσαι",
+        "text": "to sit down"
+      },
+      {
+        "i": 18,
+        "word": "ἀποδεικνύντα",
+        "text": "setting forth"
+      },
+      {
+        "i": 19,
+        "word": "ἑαυτὸν",
+        "text": "he himself"
+      },
+      {
+        "i": 20,
+        "word": "ὅτι",
+        "text": "that"
+      },
+      {
+        "i": 21,
+        "word": "ἔστιν",
+        "text": "is"
+      },
+      {
+        "i": 22,
+        "word": "Θεός",
+        "text": "God"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Οὐ",
+        "text": "Not"
+      },
+      {
+        "i": 1,
+        "word": "μνημονεύετε",
+        "text": "do you remember"
+      },
+      {
+        "i": 2,
+        "word": "ὅτι",
+        "text": "that"
+      },
+      {
+        "i": 3,
+        "word": "ἔτι",
+        "text": "yet"
+      },
+      {
+        "i": 4,
+        "word": "ὢν",
+        "text": "being"
+      },
+      {
+        "i": 5,
+        "word": "πρὸς",
+        "text": "with"
+      },
+      {
+        "i": 6,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 7,
+        "word": "ταῦτα",
+        "text": "these things"
+      },
+      {
+        "i": 8,
+        "word": "ἔλεγον",
+        "text": "I was saying"
+      },
+      {
+        "i": 9,
+        "word": "ὑμῖν",
+        "text": "to you"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "καὶ",
+        "text": "And"
+      },
+      {
+        "i": 1,
+        "word": "νῦν",
+        "text": "now"
+      },
+      {
+        "i": 2,
+        "word": "τὸ",
+        "text": "that which"
+      },
+      {
+        "i": 3,
+        "word": "κατέχον",
+        "text": "is restraining"
+      },
+      {
+        "i": 4,
+        "word": "οἴδατε",
+        "text": "you know"
+      },
+      {
+        "i": 5,
+        "word": "εἰς",
+        "text": "for"
+      },
+      {
+        "i": 6,
+        "word": "τὸ",
+        "text": "-"
+      },
+      {
+        "i": 7,
+        "word": "ἀποκαλυφθῆναι",
+        "text": "to be revealed"
+      },
+      {
+        "i": 8,
+        "word": "αὐτὸν",
+        "text": "him"
+      },
+      {
+        "i": 9,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 10,
+        "word": "τῷ",
+        "text": "-"
+      },
+      {
+        "i": 11,
+        "word": "αὐτοῦ",
+        "text": "his"
+      },
+      {
+        "i": 12,
+        "word": "καιρῷ",
+        "text": "time"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "τὸ",
+        "text": "The"
+      },
+      {
+        "i": 1,
+        "word": "γὰρ",
+        "text": "for"
+      },
+      {
+        "i": 2,
+        "word": "μυστήριον",
+        "text": "mystery"
+      },
+      {
+        "i": 3,
+        "word": "ἤδη",
+        "text": "already"
+      },
+      {
+        "i": 4,
+        "word": "ἐνεργεῖται",
+        "text": "is working"
+      },
+      {
+        "i": 5,
+        "word": "τῆς",
+        "text": "-"
+      },
+      {
+        "i": 6,
+        "word": "ἀνομίας",
+        "text": "of lawlessness"
+      },
+      {
+        "i": 7,
+        "word": "μόνον",
+        "text": "only [there is]"
+      },
+      {
+        "i": 8,
+        "word": "ὁ",
+        "text": "the [one]"
+      },
+      {
+        "i": 9,
+        "word": "κατέχων",
+        "text": "restraining [it]"
+      },
+      {
+        "i": 10,
+        "word": "ἄρτι",
+        "text": "at present"
+      },
+      {
+        "i": 11,
+        "word": "ἕως",
+        "text": "until"
+      },
+      {
+        "i": 12,
+        "word": "ἐκ",
+        "text": "out of"
+      },
+      {
+        "i": 13,
+        "word": "μέσου",
+        "text": "[the] midst"
+      },
+      {
+        "i": 14,
+        "word": "γένηται",
+        "text": "he might be [gone]"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "καὶ",
+        "text": "And"
+      },
+      {
+        "i": 1,
+        "word": "τότε",
+        "text": "then"
+      },
+      {
+        "i": 2,
+        "word": "ἀποκαλυφθήσεται",
+        "text": "will be revealed"
+      },
+      {
+        "i": 3,
+        "word": "ὁ",
+        "text": "the"
+      },
+      {
+        "i": 4,
+        "word": "ἄνομος",
+        "text": "lawless [one]"
+      },
+      {
+        "i": 5,
+        "word": "ὃν",
+        "text": "whom"
+      },
+      {
+        "i": 6,
+        "word": "ὁ",
+        "text": "the"
+      },
+      {
+        "i": 7,
+        "word": "Κύριος",
+        "text": "Lord"
+      },
+      {
+        "i": 8,
+        "word": "Ἰησοῦς",
+        "text": "Jesus"
+      },
+      {
+        "i": 9,
+        "word": "ἀνελεῖ",
+        "text": "will slay"
+      },
+      {
+        "i": 10,
+        "word": "τῷ",
+        "text": "with the"
+      },
+      {
+        "i": 11,
+        "word": "πνεύματι",
+        "text": "breath"
+      },
+      {
+        "i": 12,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 13,
+        "word": "στόματος",
+        "text": "mouth"
+      },
+      {
+        "i": 14,
+        "word": "αὐτοῦ",
+        "text": "of Him"
+      },
+      {
+        "i": 15,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 16,
+        "word": "καταργήσει",
+        "text": "will annul"
+      },
+      {
+        "i": 17,
+        "word": "τῇ",
+        "text": "by the"
+      },
+      {
+        "i": 18,
+        "word": "ἐπιφανείᾳ",
+        "text": "appearing"
+      },
+      {
+        "i": 19,
+        "word": "τῆς",
+        "text": "of the"
+      },
+      {
+        "i": 20,
+        "word": "παρουσίας",
+        "text": "coming"
+      },
+      {
+        "i": 21,
+        "word": "αὐτοῦ",
+        "text": "of Him"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "οὗ",
+        "text": "whose"
+      },
+      {
+        "i": 1,
+        "word": "ἐστιν",
+        "text": "is"
+      },
+      {
+        "i": 2,
+        "word": "ἡ",
+        "text": "-"
+      },
+      {
+        "i": 3,
+        "word": "παρουσία",
+        "text": "coming"
+      },
+      {
+        "i": 4,
+        "word": "κατ’",
+        "text": "according to"
+      },
+      {
+        "i": 5,
+        "word": "ἐνέργειαν",
+        "text": "[the] working"
+      },
+      {
+        "i": 6,
+        "word": "τοῦ",
+        "text": "-"
+      },
+      {
+        "i": 7,
+        "word": "Σατανᾶ",
+        "text": "of Satan"
+      },
+      {
+        "i": 8,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 9,
+        "word": "πάσῃ",
+        "text": "every"
+      },
+      {
+        "i": 10,
+        "word": "δυνάμει",
+        "text": "power"
+      },
+      {
+        "i": 11,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 12,
+        "word": "σημείοις",
+        "text": "in signs"
+      },
+      {
+        "i": 13,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 14,
+        "word": "τέρασιν",
+        "text": "in wonders"
+      },
+      {
+        "i": 15,
+        "word": "ψεύδους",
+        "text": "of falsehood"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 1,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 2,
+        "word": "πάσῃ",
+        "text": "every"
+      },
+      {
+        "i": 3,
+        "word": "ἀπάτῃ",
+        "text": "deceit"
+      },
+      {
+        "i": 4,
+        "word": "ἀδικίας",
+        "text": "of wickedness"
+      },
+      {
+        "i": 5,
+        "word": "τοῖς",
+        "text": "unto those"
+      },
+      {
+        "i": 6,
+        "word": "ἀπολλυμένοις",
+        "text": "perishing"
+      },
+      {
+        "i": 7,
+        "word": "ἀνθ’",
+        "text": "in return for"
+      },
+      {
+        "i": 8,
+        "word": "ὧν",
+        "text": "which"
+      },
+      {
+        "i": 9,
+        "word": "τὴν",
+        "text": "the"
+      },
+      {
+        "i": 10,
+        "word": "ἀγάπην",
+        "text": "love"
+      },
+      {
+        "i": 11,
+        "word": "τῆς",
+        "text": "of the"
+      },
+      {
+        "i": 12,
+        "word": "ἀληθείας",
+        "text": "truth"
+      },
+      {
+        "i": 13,
+        "word": "οὐκ",
+        "text": "not"
+      },
+      {
+        "i": 14,
+        "word": "ἐδέξαντο",
+        "text": "they received"
+      },
+      {
+        "i": 15,
+        "word": "εἰς",
+        "text": "in order for"
+      },
+      {
+        "i": 16,
+        "word": "τὸ",
+        "text": "-"
+      },
+      {
+        "i": 17,
+        "word": "σωθῆναι",
+        "text": "to be saved"
+      },
+      {
+        "i": 18,
+        "word": "αὐτούς",
+        "text": "them"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "καὶ",
+        "text": "And"
+      },
+      {
+        "i": 1,
+        "word": "διὰ",
+        "text": "because of"
+      },
+      {
+        "i": 2,
+        "word": "τοῦτο",
+        "text": "this"
+      },
+      {
+        "i": 3,
+        "word": "πέμπει",
+        "text": "will send"
+      },
+      {
+        "i": 4,
+        "word": "αὐτοῖς",
+        "text": "to them"
+      },
+      {
+        "i": 5,
+        "word": "ὁ",
+        "text": "-"
+      },
+      {
+        "i": 6,
+        "word": "Θεὸς",
+        "text": "God"
+      },
+      {
+        "i": 7,
+        "word": "ἐνέργειαν",
+        "text": "a working"
+      },
+      {
+        "i": 8,
+        "word": "πλάνης",
+        "text": "of delusion"
+      },
+      {
+        "i": 9,
+        "word": "εἰς",
+        "text": "for"
+      },
+      {
+        "i": 10,
+        "word": "τὸ",
+        "text": "-"
+      },
+      {
+        "i": 11,
+        "word": "πιστεῦσαι",
+        "text": "to believe"
+      },
+      {
+        "i": 12,
+        "word": "αὐτοὺς",
+        "text": "them"
+      },
+      {
+        "i": 13,
+        "word": "τῷ",
+        "text": "what"
+      },
+      {
+        "i": 14,
+        "word": "ψεύδει",
+        "text": "[is] false"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "ἵνα",
+        "text": "in order that"
+      },
+      {
+        "i": 1,
+        "word": "κριθῶσιν",
+        "text": "should be judged"
+      },
+      {
+        "i": 2,
+        "word": "πάντες",
+        "text": "all"
+      },
+      {
+        "i": 3,
+        "word": "οἱ",
+        "text": "those"
+      },
+      {
+        "i": 4,
+        "word": "μὴ",
+        "text": "not"
+      },
+      {
+        "i": 5,
+        "word": "πιστεύσαντες",
+        "text": "having believed"
+      },
+      {
+        "i": 6,
+        "word": "τῇ",
+        "text": "the"
+      },
+      {
+        "i": 7,
+        "word": "ἀληθείᾳ",
+        "text": "truth"
+      },
+      {
+        "i": 8,
+        "word": "ἀλλὰ",
+        "text": "but"
+      },
+      {
+        "i": 9,
+        "word": "εὐδοκήσαντες",
+        "text": "having delighted"
+      },
+      {
+        "i": 10,
+        "word": "τῇ",
+        "text": "-"
+      },
+      {
+        "i": 11,
+        "word": "ἀδικίᾳ",
+        "text": "in unrighteousness"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Ἡμεῖς",
+        "text": "We"
+      },
+      {
+        "i": 1,
+        "word": "δὲ",
+        "text": "however"
+      },
+      {
+        "i": 2,
+        "word": "ὀφείλομεν",
+        "text": "ought"
+      },
+      {
+        "i": 3,
+        "word": "εὐχαριστεῖν",
+        "text": "to give thanks"
+      },
+      {
+        "i": 4,
+        "word": "τῷ",
+        "text": "-"
+      },
+      {
+        "i": 5,
+        "word": "Θεῷ",
+        "text": "to God"
+      },
+      {
+        "i": 6,
+        "word": "πάντοτε",
+        "text": "always"
+      },
+      {
+        "i": 7,
+        "word": "περὶ",
+        "text": "concerning"
+      },
+      {
+        "i": 8,
+        "word": "ὑμῶν",
+        "text": "you"
+      },
+      {
+        "i": 9,
+        "word": "ἀδελφοὶ",
+        "text": "brothers"
+      },
+      {
+        "i": 10,
+        "word": "ἠγαπημένοι",
+        "text": "beloved"
+      },
+      {
+        "i": 11,
+        "word": "ὑπὸ",
+        "text": "by"
+      },
+      {
+        "i": 12,
+        "word": "Κυρίου",
+        "text": "[the] Lord"
+      },
+      {
+        "i": 13,
+        "word": "ὅτι",
+        "text": "that"
+      },
+      {
+        "i": 14,
+        "word": "εἵλατο",
+        "text": "has chosen"
+      },
+      {
+        "i": 15,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 16,
+        "word": "ὁ",
+        "text": "-"
+      },
+      {
+        "i": 17,
+        "word": "Θεὸς",
+        "text": "God"
+      },
+      {
+        "i": 18,
+        "word": "ἀπ᾽",
+        "text": "from"
+      },
+      {
+        "i": 19,
+        "word": "ἀρχῆς",
+        "text": "[the] beginning"
+      },
+      {
+        "i": 20,
+        "word": "εἰς",
+        "text": "unto"
+      },
+      {
+        "i": 21,
+        "word": "σωτηρίαν",
+        "text": "salvation"
+      },
+      {
+        "i": 22,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 23,
+        "word": "ἁγιασμῷ",
+        "text": "[the] sanctification"
+      },
+      {
+        "i": 24,
+        "word": "Πνεύματος",
+        "text": "of [the] Spirit"
+      },
+      {
+        "i": 25,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 26,
+        "word": "πίστει",
+        "text": "[by] faith"
+      },
+      {
+        "i": 27,
+        "word": "ἀληθείας",
+        "text": "of [the] truth"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "εἰς",
+        "text": "to"
+      },
+      {
+        "i": 1,
+        "word": "ὃ",
+        "text": "this"
+      },
+      {
+        "i": 2,
+        "word": "καὶ",
+        "text": "also"
+      },
+      {
+        "i": 3,
+        "word": "ἐκάλεσεν",
+        "text": "He called"
+      },
+      {
+        "i": 4,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 5,
+        "word": "διὰ",
+        "text": "through"
+      },
+      {
+        "i": 6,
+        "word": "τοῦ",
+        "text": "the"
+      },
+      {
+        "i": 7,
+        "word": "εὐαγγελίου",
+        "text": "gospel"
+      },
+      {
+        "i": 8,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 9,
+        "word": "εἰς",
+        "text": "to"
+      },
+      {
+        "i": 10,
+        "word": "περιποίησιν",
+        "text": "[the] obtaining"
+      },
+      {
+        "i": 11,
+        "word": "δόξης",
+        "text": "of [the] glory"
+      },
+      {
+        "i": 12,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 13,
+        "word": "Κυρίου",
+        "text": "Lord"
+      },
+      {
+        "i": 14,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 15,
+        "word": "Ἰησοῦ",
+        "text": "Jesus"
+      },
+      {
+        "i": 16,
+        "word": "Χριστοῦ",
+        "text": "Christ"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Ἄρα",
+        "text": "So"
+      },
+      {
+        "i": 1,
+        "word": "οὖν",
+        "text": "then"
+      },
+      {
+        "i": 2,
+        "word": "ἀδελφοί",
+        "text": "brothers"
+      },
+      {
+        "i": 3,
+        "word": "στήκετε",
+        "text": "stand firm"
+      },
+      {
+        "i": 4,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 5,
+        "word": "κρατεῖτε",
+        "text": "hold fast"
+      },
+      {
+        "i": 6,
+        "word": "τὰς",
+        "text": "to the"
+      },
+      {
+        "i": 7,
+        "word": "παραδόσεις",
+        "text": "traditions"
+      },
+      {
+        "i": 8,
+        "word": "ἃς",
+        "text": "that"
+      },
+      {
+        "i": 9,
+        "word": "ἐδιδάχθητε",
+        "text": "you were taught"
+      },
+      {
+        "i": 10,
+        "word": "εἴτε",
+        "text": "whether"
+      },
+      {
+        "i": 11,
+        "word": "διὰ",
+        "text": "by"
+      },
+      {
+        "i": 12,
+        "word": "λόγου",
+        "text": "word"
+      },
+      {
+        "i": 13,
+        "word": "εἴτε",
+        "text": "or"
+      },
+      {
+        "i": 14,
+        "word": "δι’",
+        "text": "by"
+      },
+      {
+        "i": 15,
+        "word": "ἐπιστολῆς",
+        "text": "letter"
+      },
+      {
+        "i": 16,
+        "word": "ἡμῶν",
+        "text": "from us"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Αὐτὸς",
+        "text": "Himself"
+      },
+      {
+        "i": 1,
+        "word": "δὲ",
+        "text": "now"
+      },
+      {
+        "i": 2,
+        "word": "ὁ",
+        "text": "the"
+      },
+      {
+        "i": 3,
+        "word": "Κύριος",
+        "text": "Lord"
+      },
+      {
+        "i": 4,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 5,
+        "word": "Ἰησοῦς",
+        "text": "Jesus"
+      },
+      {
+        "i": 6,
+        "word": "Χριστὸς",
+        "text": "Christ"
+      },
+      {
+        "i": 7,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 8,
+        "word": "ὁ",
+        "text": "-"
+      },
+      {
+        "i": 9,
+        "word": "Θεὸς",
+        "text": "God"
+      },
+      {
+        "i": 10,
+        "word": "ὁ",
+        "text": "the"
+      },
+      {
+        "i": 11,
+        "word": "Πατὴρ",
+        "text": "Father"
+      },
+      {
+        "i": 12,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 13,
+        "word": "ὁ",
+        "text": "the [One]"
+      },
+      {
+        "i": 14,
+        "word": "ἀγαπήσας",
+        "text": "having loved"
+      },
+      {
+        "i": 15,
+        "word": "ἡμᾶς",
+        "text": "us"
+      },
+      {
+        "i": 16,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 17,
+        "word": "δοὺς",
+        "text": "having given [us]"
+      },
+      {
+        "i": 18,
+        "word": "παράκλησιν",
+        "text": "comfort"
+      },
+      {
+        "i": 19,
+        "word": "αἰωνίαν",
+        "text": "eternal"
+      },
+      {
+        "i": 20,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 21,
+        "word": "ἐλπίδα",
+        "text": "hope"
+      },
+      {
+        "i": 22,
+        "word": "ἀγαθὴν",
+        "text": "good"
+      },
+      {
+        "i": 23,
+        "word": "ἐν",
+        "text": "by"
+      },
+      {
+        "i": 24,
+        "word": "χάριτι",
+        "text": "grace"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "παρακαλέσαι",
+        "text": "may He encourage"
+      },
+      {
+        "i": 1,
+        "word": "ὑμῶν",
+        "text": "your"
+      },
+      {
+        "i": 2,
+        "word": "τὰς",
+        "text": "-"
+      },
+      {
+        "i": 3,
+        "word": "καρδίας",
+        "text": "hearts"
+      },
+      {
+        "i": 4,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 5,
+        "word": "στηρίξαι",
+        "text": "may He strengthen [them]"
+      },
+      {
+        "i": 6,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 7,
+        "word": "παντὶ",
+        "text": "every"
+      },
+      {
+        "i": 8,
+        "word": "ἔργῳ",
+        "text": "work"
+      },
+      {
+        "i": 9,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 10,
+        "word": "λόγῳ",
+        "text": "word"
+      },
+      {
+        "i": 11,
+        "word": "ἀγαθῷ",
+        "text": "good"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Τὸ",
+        "text": "-"
+      },
+      {
+        "i": 1,
+        "word": "λοιπὸν",
+        "text": "Finally"
+      },
+      {
+        "i": 2,
+        "word": "προσεύχεσθε",
+        "text": "pray"
+      },
+      {
+        "i": 3,
+        "word": "ἀδελφοί",
+        "text": "brothers"
+      },
+      {
+        "i": 4,
+        "word": "περὶ",
+        "text": "for"
+      },
+      {
+        "i": 5,
+        "word": "ἡμῶν",
+        "text": "us"
+      },
+      {
+        "i": 6,
+        "word": "ἵνα",
+        "text": "that"
+      },
+      {
+        "i": 7,
+        "word": "ὁ",
+        "text": "the"
+      },
+      {
+        "i": 8,
+        "word": "λόγος",
+        "text": "word"
+      },
+      {
+        "i": 9,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 10,
+        "word": "Κυρίου",
+        "text": "Lord"
+      },
+      {
+        "i": 11,
+        "word": "τρέχῃ",
+        "text": "may spread quickly"
+      },
+      {
+        "i": 12,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 13,
+        "word": "δοξάζηται",
+        "text": "may be glorified"
+      },
+      {
+        "i": 14,
+        "word": "καθὼς",
+        "text": "just as"
+      },
+      {
+        "i": 15,
+        "word": "καὶ",
+        "text": "also"
+      },
+      {
+        "i": 16,
+        "word": "πρὸς",
+        "text": "with"
+      },
+      {
+        "i": 17,
+        "word": "ὑμᾶς",
+        "text": "you"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 1,
+        "word": "ἵνα",
+        "text": "that"
+      },
+      {
+        "i": 2,
+        "word": "ῥυσθῶμεν",
+        "text": "we may be delivered"
+      },
+      {
+        "i": 3,
+        "word": "ἀπὸ",
+        "text": "from"
+      },
+      {
+        "i": 4,
+        "word": "τῶν",
+        "text": "-"
+      },
+      {
+        "i": 5,
+        "word": "ἀτόπων",
+        "text": "perverse"
+      },
+      {
+        "i": 6,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 7,
+        "word": "πονηρῶν",
+        "text": "evil"
+      },
+      {
+        "i": 8,
+        "word": "ἀνθρώπων",
+        "text": "men"
+      },
+      {
+        "i": 9,
+        "word": "οὐ",
+        "text": "not"
+      },
+      {
+        "i": 10,
+        "word": "γὰρ",
+        "text": "for"
+      },
+      {
+        "i": 11,
+        "word": "πάντων",
+        "text": "all [are]"
+      },
+      {
+        "i": 12,
+        "word": "ἡ",
+        "text": "of the"
+      },
+      {
+        "i": 13,
+        "word": "πίστις",
+        "text": "faith"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Πιστὸς",
+        "text": "Faithful"
+      },
+      {
+        "i": 1,
+        "word": "δέ",
+        "text": "however"
+      },
+      {
+        "i": 2,
+        "word": "ἐστιν",
+        "text": "is"
+      },
+      {
+        "i": 3,
+        "word": "ὁ",
+        "text": "the"
+      },
+      {
+        "i": 4,
+        "word": "Κύριος",
+        "text": "Lord"
+      },
+      {
+        "i": 5,
+        "word": "ὃς",
+        "text": "who"
+      },
+      {
+        "i": 6,
+        "word": "στηρίξει",
+        "text": "will strengthen"
+      },
+      {
+        "i": 7,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 8,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 9,
+        "word": "φυλάξει",
+        "text": "will keep [you]"
+      },
+      {
+        "i": 10,
+        "word": "ἀπὸ",
+        "text": "from"
+      },
+      {
+        "i": 11,
+        "word": "τοῦ",
+        "text": "-"
+      },
+      {
+        "i": 12,
+        "word": "πονηροῦ",
+        "text": "evil"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "πεποίθαμεν",
+        "text": "We are persuaded"
+      },
+      {
+        "i": 1,
+        "word": "δὲ",
+        "text": "now"
+      },
+      {
+        "i": 2,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 3,
+        "word": "Κυρίῳ",
+        "text": "[the] Lord"
+      },
+      {
+        "i": 4,
+        "word": "ἐφ’",
+        "text": "as to"
+      },
+      {
+        "i": 5,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 6,
+        "word": "ὅτι",
+        "text": "that"
+      },
+      {
+        "i": 7,
+        "word": "ἃ",
+        "text": "the things that"
+      },
+      {
+        "i": 8,
+        "word": "παραγγέλλομεν",
+        "text": "we command"
+      },
+      {
+        "i": 9,
+        "word": "καὶ",
+        "text": "both"
+      },
+      {
+        "i": 10,
+        "word": "ποιεῖτε",
+        "text": "you are doing"
+      },
+      {
+        "i": 11,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 12,
+        "word": "ποιήσετε",
+        "text": "you will do"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Ὁ",
+        "text": "-"
+      },
+      {
+        "i": 1,
+        "word": "δὲ",
+        "text": "And"
+      },
+      {
+        "i": 2,
+        "word": "Κύριος",
+        "text": "the Lord"
+      },
+      {
+        "i": 3,
+        "word": "κατευθύναι",
+        "text": "may direct"
+      },
+      {
+        "i": 4,
+        "word": "ὑμῶν",
+        "text": "your"
+      },
+      {
+        "i": 5,
+        "word": "τὰς",
+        "text": "-"
+      },
+      {
+        "i": 6,
+        "word": "καρδίας",
+        "text": "hearts"
+      },
+      {
+        "i": 7,
+        "word": "εἰς",
+        "text": "into"
+      },
+      {
+        "i": 8,
+        "word": "τὴν",
+        "text": "the"
+      },
+      {
+        "i": 9,
+        "word": "ἀγάπην",
+        "text": "love"
+      },
+      {
+        "i": 10,
+        "word": "τοῦ",
+        "text": "-"
+      },
+      {
+        "i": 11,
+        "word": "Θεοῦ",
+        "text": "of God"
+      },
+      {
+        "i": 12,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 13,
+        "word": "εἰς",
+        "text": "into"
+      },
+      {
+        "i": 14,
+        "word": "τὴν",
+        "text": "the"
+      },
+      {
+        "i": 15,
+        "word": "ὑπομονὴν",
+        "text": "steadfastness"
+      },
+      {
+        "i": 16,
+        "word": "τοῦ",
+        "text": "-"
+      },
+      {
+        "i": 17,
+        "word": "Χριστοῦ",
+        "text": "of Christ"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Παραγγέλλομεν",
+        "text": "We command"
+      },
+      {
+        "i": 1,
+        "word": "δὲ",
+        "text": "now"
+      },
+      {
+        "i": 2,
+        "word": "ὑμῖν",
+        "text": "you"
+      },
+      {
+        "i": 3,
+        "word": "ἀδελφοί",
+        "text": "brothers"
+      },
+      {
+        "i": 4,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 5,
+        "word": "ὀνόματι",
+        "text": "[the] name"
+      },
+      {
+        "i": 6,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 7,
+        "word": "Κυρίου",
+        "text": "Lord"
+      },
+      {
+        "i": 8,
+        "word": "Ἰησοῦ",
+        "text": "Jesus"
+      },
+      {
+        "i": 9,
+        "word": "Χριστοῦ",
+        "text": "Christ"
+      },
+      {
+        "i": 10,
+        "word": "στέλλεσθαι",
+        "text": "are to withdraw"
+      },
+      {
+        "i": 11,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 12,
+        "word": "ἀπὸ",
+        "text": "from"
+      },
+      {
+        "i": 13,
+        "word": "παντὸς",
+        "text": "every"
+      },
+      {
+        "i": 14,
+        "word": "ἀδελφοῦ",
+        "text": "brother"
+      },
+      {
+        "i": 15,
+        "word": "ἀτάκτως",
+        "text": "idly"
+      },
+      {
+        "i": 16,
+        "word": "περιπατοῦντος",
+        "text": "walking"
+      },
+      {
+        "i": 17,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 18,
+        "word": "μὴ",
+        "text": "not"
+      },
+      {
+        "i": 19,
+        "word": "κατὰ",
+        "text": "according to"
+      },
+      {
+        "i": 20,
+        "word": "τὴν",
+        "text": "the"
+      },
+      {
+        "i": 21,
+        "word": "παράδοσιν",
+        "text": "tradition"
+      },
+      {
+        "i": 22,
+        "word": "ἣν",
+        "text": "that"
+      },
+      {
+        "i": 23,
+        "word": "παρελάβετε",
+        "text": "you received"
+      },
+      {
+        "i": 24,
+        "word": "παρ’",
+        "text": "from"
+      },
+      {
+        "i": 25,
+        "word": "ἡμῶν",
+        "text": "us"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "αὐτοὶ",
+        "text": "Yourselves"
+      },
+      {
+        "i": 1,
+        "word": "γὰρ",
+        "text": "for"
+      },
+      {
+        "i": 2,
+        "word": "οἴδατε",
+        "text": "you know"
+      },
+      {
+        "i": 3,
+        "word": "πῶς",
+        "text": "how"
+      },
+      {
+        "i": 4,
+        "word": "δεῖ",
+        "text": "it behooves [you]"
+      },
+      {
+        "i": 5,
+        "word": "μιμεῖσθαι",
+        "text": "to imitate"
+      },
+      {
+        "i": 6,
+        "word": "ἡμᾶς",
+        "text": "us"
+      },
+      {
+        "i": 7,
+        "word": "ὅτι",
+        "text": "because"
+      },
+      {
+        "i": 8,
+        "word": "οὐκ",
+        "text": "not"
+      },
+      {
+        "i": 9,
+        "word": "ἠτακτήσαμεν",
+        "text": "we were idle"
+      },
+      {
+        "i": 10,
+        "word": "ἐν",
+        "text": "among"
+      },
+      {
+        "i": 11,
+        "word": "ὑμῖν",
+        "text": "you"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "οὐδὲ",
+        "text": "nor"
+      },
+      {
+        "i": 1,
+        "word": "δωρεὰν",
+        "text": "without payment"
+      },
+      {
+        "i": 2,
+        "word": "ἄρτον",
+        "text": "bread"
+      },
+      {
+        "i": 3,
+        "word": "ἐφάγομεν",
+        "text": "did we eat"
+      },
+      {
+        "i": 4,
+        "word": "παρά",
+        "text": "from"
+      },
+      {
+        "i": 5,
+        "word": "τινος",
+        "text": "anyone"
+      },
+      {
+        "i": 6,
+        "word": "ἀλλ’",
+        "text": "but"
+      },
+      {
+        "i": 7,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 8,
+        "word": "κόπῳ",
+        "text": "labor"
+      },
+      {
+        "i": 9,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 10,
+        "word": "μόχθῳ",
+        "text": "hardship"
+      },
+      {
+        "i": 11,
+        "word": "νυκτὸς",
+        "text": "night"
+      },
+      {
+        "i": 12,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 13,
+        "word": "ἡμέρας",
+        "text": "day"
+      },
+      {
+        "i": 14,
+        "word": "ἐργαζόμενοι",
+        "text": "working"
+      },
+      {
+        "i": 15,
+        "word": "πρὸς",
+        "text": "in order"
+      },
+      {
+        "i": 16,
+        "word": "τὸ",
+        "text": "-"
+      },
+      {
+        "i": 17,
+        "word": "μὴ",
+        "text": "not"
+      },
+      {
+        "i": 18,
+        "word": "ἐπιβαρῆσαί",
+        "text": "to be burdensome to"
+      },
+      {
+        "i": 19,
+        "word": "τινα",
+        "text": "any"
+      },
+      {
+        "i": 20,
+        "word": "ὑμῶν",
+        "text": "of you"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "οὐχ",
+        "text": "not"
+      },
+      {
+        "i": 1,
+        "word": "ὅτι",
+        "text": "that"
+      },
+      {
+        "i": 2,
+        "word": "οὐκ",
+        "text": "not"
+      },
+      {
+        "i": 3,
+        "word": "ἔχομεν",
+        "text": "we have"
+      },
+      {
+        "i": 4,
+        "word": "ἐξουσίαν",
+        "text": "[the] right"
+      },
+      {
+        "i": 5,
+        "word": "ἀλλ’",
+        "text": "but"
+      },
+      {
+        "i": 6,
+        "word": "ἵνα",
+        "text": "that"
+      },
+      {
+        "i": 7,
+        "word": "ἑαυτοὺς",
+        "text": "ourselves"
+      },
+      {
+        "i": 8,
+        "word": "τύπον",
+        "text": "[as] an example"
+      },
+      {
+        "i": 9,
+        "word": "δῶμεν",
+        "text": "we may offer"
+      },
+      {
+        "i": 10,
+        "word": "ὑμῖν",
+        "text": "to you"
+      },
+      {
+        "i": 11,
+        "word": "εἰς",
+        "text": "for"
+      },
+      {
+        "i": 12,
+        "word": "τὸ",
+        "text": "-"
+      },
+      {
+        "i": 13,
+        "word": "μιμεῖσθαι",
+        "text": "you to imitate"
+      },
+      {
+        "i": 14,
+        "word": "ἡμᾶς",
+        "text": "us"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "καὶ",
+        "text": "Even"
+      },
+      {
+        "i": 1,
+        "word": "γὰρ",
+        "text": "for"
+      },
+      {
+        "i": 2,
+        "word": "ὅτε",
+        "text": "when"
+      },
+      {
+        "i": 3,
+        "word": "ἦμεν",
+        "text": "we were"
+      },
+      {
+        "i": 4,
+        "word": "πρὸς",
+        "text": "with"
+      },
+      {
+        "i": 5,
+        "word": "ὑμᾶς",
+        "text": "you"
+      },
+      {
+        "i": 6,
+        "word": "τοῦτο",
+        "text": "this"
+      },
+      {
+        "i": 7,
+        "word": "παρηγγέλλομεν",
+        "text": "we were commanding"
+      },
+      {
+        "i": 8,
+        "word": "ὑμῖν",
+        "text": "you"
+      },
+      {
+        "i": 9,
+        "word": "ὅτι",
+        "text": "that"
+      },
+      {
+        "i": 10,
+        "word": "εἴ",
+        "text": "if"
+      },
+      {
+        "i": 11,
+        "word": "τις",
+        "text": "anyone"
+      },
+      {
+        "i": 12,
+        "word": "οὐ",
+        "text": "not"
+      },
+      {
+        "i": 13,
+        "word": "θέλει",
+        "text": "is willing"
+      },
+      {
+        "i": 14,
+        "word": "ἐργάζεσθαι",
+        "text": "to work"
+      },
+      {
+        "i": 15,
+        "word": "μηδὲ",
+        "text": "neither"
+      },
+      {
+        "i": 16,
+        "word": "ἐσθιέτω",
+        "text": "let him eat"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "ἀκούομεν",
+        "text": "We hear"
+      },
+      {
+        "i": 1,
+        "word": "γάρ",
+        "text": "for"
+      },
+      {
+        "i": 2,
+        "word": "τινας",
+        "text": "some"
+      },
+      {
+        "i": 3,
+        "word": "περιπατοῦντας",
+        "text": "are walking"
+      },
+      {
+        "i": 4,
+        "word": "ἐν",
+        "text": "among"
+      },
+      {
+        "i": 5,
+        "word": "ὑμῖν",
+        "text": "you"
+      },
+      {
+        "i": 6,
+        "word": "ἀτάκτως",
+        "text": "idly"
+      },
+      {
+        "i": 7,
+        "word": "μηδὲν",
+        "text": "not at all"
+      },
+      {
+        "i": 8,
+        "word": "ἐργαζομένους",
+        "text": "working"
+      },
+      {
+        "i": 9,
+        "word": "ἀλλὰ",
+        "text": "but"
+      },
+      {
+        "i": 10,
+        "word": "περιεργαζομένους",
+        "text": "being busybodies"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "τοῖς",
+        "text": "To"
+      },
+      {
+        "i": 1,
+        "word": "δὲ",
+        "text": "now"
+      },
+      {
+        "i": 2,
+        "word": "τοιούτοις",
+        "text": "such"
+      },
+      {
+        "i": 3,
+        "word": "παραγγέλλομεν",
+        "text": "we warn"
+      },
+      {
+        "i": 4,
+        "word": "καὶ",
+        "text": "and"
+      },
+      {
+        "i": 5,
+        "word": "παρακαλοῦμεν",
+        "text": "exhort"
+      },
+      {
+        "i": 6,
+        "word": "ἐν",
+        "text": "by"
+      },
+      {
+        "i": 7,
+        "word": "Κυρίῳ",
+        "text": "our Lord"
+      },
+      {
+        "i": 8,
+        "word": "Ἰησοῦ",
+        "text": "Jesus"
+      },
+      {
+        "i": 9,
+        "word": "Χριστῷ",
+        "text": "Christ"
+      },
+      {
+        "i": 10,
+        "word": "ἵνα",
+        "text": "so that"
+      },
+      {
+        "i": 11,
+        "word": "μετὰ",
+        "text": "with"
+      },
+      {
+        "i": 12,
+        "word": "ἡσυχίας",
+        "text": "quietness"
+      },
+      {
+        "i": 13,
+        "word": "ἐργαζόμενοι",
+        "text": "working"
+      },
+      {
+        "i": 14,
+        "word": "τὸν",
+        "text": "-"
+      },
+      {
+        "i": 15,
+        "word": "ἑαυτῶν",
+        "text": "their own"
+      },
+      {
+        "i": 16,
+        "word": "ἄρτον",
+        "text": "bread"
+      },
+      {
+        "i": 17,
+        "word": "ἐσθίωσιν",
+        "text": "they may eat"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Ὑμεῖς",
+        "text": "You"
+      },
+      {
+        "i": 1,
+        "word": "δέ",
+        "text": "now"
+      },
+      {
+        "i": 2,
+        "word": "ἀδελφοί",
+        "text": "brothers"
+      },
+      {
+        "i": 3,
+        "word": "μὴ",
+        "text": "not"
+      },
+      {
+        "i": 4,
+        "word": "ἐγκακήσητε",
+        "text": "shall grow weary"
+      },
+      {
+        "i": 5,
+        "word": "καλοποιοῦντες",
+        "text": "[in] well-doing"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "εἰ",
+        "text": "If"
+      },
+      {
+        "i": 1,
+        "word": "δέ",
+        "text": "then"
+      },
+      {
+        "i": 2,
+        "word": "τις",
+        "text": "anyone"
+      },
+      {
+        "i": 3,
+        "word": "οὐχ",
+        "text": "not"
+      },
+      {
+        "i": 4,
+        "word": "ὑπακούει",
+        "text": "obey"
+      },
+      {
+        "i": 5,
+        "word": "τῷ",
+        "text": "this"
+      },
+      {
+        "i": 6,
+        "word": "λόγῳ",
+        "text": "instruction"
+      },
+      {
+        "i": 7,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 8,
+        "word": "διὰ",
+        "text": "through"
+      },
+      {
+        "i": 9,
+        "word": "τῆς",
+        "text": "the"
+      },
+      {
+        "i": 10,
+        "word": "ἐπιστολῆς",
+        "text": "letter"
+      },
+      {
+        "i": 11,
+        "word": "τοῦτον",
+        "text": "of this [man]"
+      },
+      {
+        "i": 12,
+        "word": "σημειοῦσθε",
+        "text": "take note"
+      },
+      {
+        "i": 13,
+        "word": "μὴ",
+        "text": "not"
+      },
+      {
+        "i": 14,
+        "word": "συναναμίγνυσθαι",
+        "text": "to mix with"
+      },
+      {
+        "i": 15,
+        "word": "αὐτῷ",
+        "text": "him"
+      },
+      {
+        "i": 16,
+        "word": "ἵνα",
+        "text": "so that"
+      },
+      {
+        "i": 17,
+        "word": "ἐντραπῇ",
+        "text": "he may be ashamed"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "καὶ",
+        "text": "And yet"
+      },
+      {
+        "i": 1,
+        "word": "μὴ",
+        "text": "not"
+      },
+      {
+        "i": 2,
+        "word": "ὡς",
+        "text": "as"
+      },
+      {
+        "i": 3,
+        "word": "ἐχθρὸν",
+        "text": "an enemy"
+      },
+      {
+        "i": 4,
+        "word": "ἡγεῖσθε",
+        "text": "esteem [him]"
+      },
+      {
+        "i": 5,
+        "word": "ἀλλὰ",
+        "text": "but"
+      },
+      {
+        "i": 6,
+        "word": "νουθετεῖτε",
+        "text": "admonish [him]"
+      },
+      {
+        "i": 7,
+        "word": "ὡς",
+        "text": "as"
+      },
+      {
+        "i": 8,
+        "word": "ἀδελφόν",
+        "text": "a brother"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Αὐτὸς",
+        "text": "Himself"
+      },
+      {
+        "i": 1,
+        "word": "δὲ",
+        "text": "now"
+      },
+      {
+        "i": 2,
+        "word": "ὁ",
+        "text": "the"
+      },
+      {
+        "i": 3,
+        "word": "Κύριος",
+        "text": "Lord"
+      },
+      {
+        "i": 4,
+        "word": "τῆς",
+        "text": "-"
+      },
+      {
+        "i": 5,
+        "word": "εἰρήνης",
+        "text": "of peace"
+      },
+      {
+        "i": 6,
+        "word": "δῴη",
+        "text": "may give"
+      },
+      {
+        "i": 7,
+        "word": "ὑμῖν",
+        "text": "you"
+      },
+      {
+        "i": 8,
+        "word": "τὴν",
+        "text": "-"
+      },
+      {
+        "i": 9,
+        "word": "εἰρήνην",
+        "text": "peace"
+      },
+      {
+        "i": 10,
+        "word": "διὰ",
+        "text": "through"
+      },
+      {
+        "i": 11,
+        "word": "παντὸς",
+        "text": "all"
+      },
+      {
+        "i": 12,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 13,
+        "word": "παντὶ",
+        "text": "every"
+      },
+      {
+        "i": 14,
+        "word": "τρόπῳ",
+        "text": "way"
+      },
+      {
+        "i": 15,
+        "word": "ὁ",
+        "text": "The"
+      },
+      {
+        "i": 16,
+        "word": "Κύριος",
+        "text": "Lord [be]"
+      },
+      {
+        "i": 17,
+        "word": "μετὰ",
+        "text": "with"
+      },
+      {
+        "i": 18,
+        "word": "πάντων",
+        "text": "all"
+      },
+      {
+        "i": 19,
+        "word": "ὑμῶν",
+        "text": "of you"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "Ὁ",
+        "text": "The"
+      },
+      {
+        "i": 1,
+        "word": "ἀσπασμὸς",
+        "text": "greeting"
+      },
+      {
+        "i": 2,
+        "word": "τῇ",
+        "text": "-"
+      },
+      {
+        "i": 3,
+        "word": "ἐμῇ",
+        "text": "in my own"
+      },
+      {
+        "i": 4,
+        "word": "χειρὶ",
+        "text": "hand"
+      },
+      {
+        "i": 5,
+        "word": "Παύλου",
+        "text": "Paul"
+      },
+      {
+        "i": 6,
+        "word": "ὅ",
+        "text": "which"
+      },
+      {
+        "i": 7,
+        "word": "ἐστιν",
+        "text": "is"
+      },
+      {
+        "i": 8,
+        "word": "σημεῖον",
+        "text": "[my] sign"
+      },
+      {
+        "i": 9,
+        "word": "ἐν",
+        "text": "in"
+      },
+      {
+        "i": 10,
+        "word": "πάσῃ",
+        "text": "every"
+      },
+      {
+        "i": 11,
+        "word": "ἐπιστολῇ",
+        "text": "letter"
+      },
+      {
+        "i": 12,
+        "word": "οὕτως",
+        "text": "In this manner"
+      },
+      {
+        "i": 13,
+        "word": "γράφω",
+        "text": "I write"
+      }
+    ]
+  },
+  {
+    "verse": [
+      {
+        "i": 0,
+        "word": "ἡ",
+        "text": "The"
+      },
+      {
+        "i": 1,
+        "word": "χάρις",
+        "text": "grace"
+      },
+      {
+        "i": 2,
+        "word": "τοῦ",
+        "text": "of the"
+      },
+      {
+        "i": 3,
+        "word": "Κυρίου",
+        "text": "Lord"
+      },
+      {
+        "i": 4,
+        "word": "ἡμῶν",
+        "text": "of us"
+      },
+      {
+        "i": 5,
+        "word": "Ἰησοῦ",
+        "text": "Jesus"
+      },
+      {
+        "i": 6,
+        "word": "Χριστοῦ",
+        "text": "Christ"
+      },
+      {
+        "i": 7,
+        "word": "μετὰ",
+        "text": "[be] with"
+      },
+      {
+        "i": 8,
+        "word": "πάντων",
+        "text": "all"
+      },
+      {
+        "i": 9,
+        "word": "ὑμῶν",
+        "text": "of you"
+      }
+    ]
+  }
+]
