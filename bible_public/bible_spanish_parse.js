@@ -15,6 +15,12 @@ let chapter = '1';
 let path = `./public/spanish/${book_number}/${chapter}.htm`;
 let text = file_read(path);
 
+let start_search = `<!--... the Word of God:-->`;
+let end_search = `<!--... sharper than any twoedged sword... -->`;
 
+let start = text.indexOf(start_search) + start_search.length;
+let end = text.indexOf(end_search);
 
-console.log(text);
+let sub = text.substring(start, end);
+
+console.log(sub);
