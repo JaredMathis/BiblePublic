@@ -1,13 +1,13 @@
 import file_read from "../core/file_read.js";
 import list_map from "../foundation/list_map.js";
-import { XMLParser, XMLBuilder, XMLValidator} from 'fast-xml-parser'
+import xml2js from 'xml2js';
 
 
 let xml = file_read('./public/interlinear/berean/berean-interlinear-glosses.xml');
 
-let parser = new XMLParser();
-let parsed = parser.parse(xml);
+let parsed = await xml2js.parseStringPromise(xml)
 
-// list_map(parsed.root.verse)
-
-console.log(parsed.root.verse[0])
+for (let verse of parsed.root.verse) {
+    let first = verse[0].w[0]
+    console.log(parsed.root.verse[0].w[0])
+}
