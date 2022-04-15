@@ -5,7 +5,7 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/13/2022  02:09 PM             2,310 ls.txt
+04/03/2022  07:14 PM             2,310 ls.txt
 03/12/2022  11:18 AM             7,333 Numbers1.txt
 03/12/2022  11:18 AM             4,781 Numbers10.txt
 03/12/2022  11:18 AM             5,493 Numbers11.txt
@@ -43,4 +43,4 @@
 03/12/2022  11:18 AM             3,893 Numbers8.txt
 03/12/2022  11:18 AM             3,844 Numbers9.txt
               37 File(s)        181,514 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,287,680 bytes free

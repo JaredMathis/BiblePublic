@@ -29,6 +29,6 @@
 03/12/2022  11:18 AM             4,559 2 Samuel7.txt
 03/12/2022  11:18 AM             2,571 2 Samuel8.txt
 03/12/2022  11:18 AM             2,137 2 Samuel9.txt
-03/13/2022  02:09 PM             1,687 ls.txt
+04/03/2022  07:14 PM             1,687 ls.txt
               25 File(s)        111,189 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,549,824 bytes free

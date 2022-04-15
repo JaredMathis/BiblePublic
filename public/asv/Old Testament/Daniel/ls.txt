@@ -17,6 +17,6 @@
 03/12/2022  11:18 AM             4,996 Daniel7.txt
 03/12/2022  11:18 AM             4,645 Daniel8.txt
 03/12/2022  11:18 AM             5,415 Daniel9.txt
-03/13/2022  02:09 PM             1,001 ls.txt
+04/03/2022  07:14 PM             1,001 ls.txt
               13 File(s)         64,982 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,549,824 bytes free

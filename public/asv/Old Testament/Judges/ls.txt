@@ -26,6 +26,6 @@
 03/12/2022  11:18 AM             5,146 Judges7.txt
 03/12/2022  11:18 AM             5,297 Judges8.txt
 03/12/2022  11:18 AM             8,907 Judges9.txt
-03/13/2022  02:09 PM             1,478 ls.txt
+04/03/2022  07:14 PM             1,478 ls.txt
               22 File(s)        102,902 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,287,680 bytes free

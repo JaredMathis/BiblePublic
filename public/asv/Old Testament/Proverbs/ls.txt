@@ -5,7 +5,7 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/13/2022  02:09 PM             2,072 ls.txt
+04/03/2022  07:14 PM             2,072 ls.txt
 03/12/2022  11:18 AM             2,948 Proverbs1.txt
 03/12/2022  11:18 AM             3,031 Proverbs10.txt
 03/12/2022  11:18 AM             3,162 Proverbs11.txt
@@ -38,4 +38,4 @@
 03/12/2022  11:18 AM             3,116 Proverbs8.txt
 03/12/2022  11:18 AM             1,619 Proverbs9.txt
               32 File(s)         86,656 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,287,680 bytes free

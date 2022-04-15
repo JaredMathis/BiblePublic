@@ -15,6 +15,6 @@
 03/12/2022  11:18 AM             1,843 Esther7.txt
 03/12/2022  11:18 AM             3,591 Esther8.txt
 03/12/2022  11:18 AM             5,579 Esther9.txt
-03/13/2022  02:09 PM               895 ls.txt
+04/03/2022  07:14 PM               895 ls.txt
               11 File(s)         32,036 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,549,824 bytes free

@@ -10,6 +10,6 @@
 03/12/2022  11:18 AM             4,855 Lamentations3.txt
 03/12/2022  11:18 AM             3,247 Lamentations4.txt
 03/12/2022  11:18 AM             1,647 Lamentations5.txt
-03/13/2022  02:09 PM               670 ls.txt
+04/03/2022  07:14 PM               670 ls.txt
                6 File(s)         19,518 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,287,680 bytes free

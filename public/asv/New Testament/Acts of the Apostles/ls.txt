@@ -33,6 +33,6 @@
 03/12/2022  11:18 AM             7,622 Acts of the Apostles7.txt
 03/12/2022  11:18 AM             4,933 Acts of the Apostles8.txt
 03/12/2022  11:18 AM             5,501 Acts of the Apostles9.txt
-03/13/2022  02:08 PM             2,255 ls.txt
+04/03/2022  07:14 PM             2,255 ls.txt
               29 File(s)        135,858 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,549,824 bytes free

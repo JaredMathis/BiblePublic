@@ -29,6 +29,6 @@
 03/12/2022  11:18 AM             4,974 Joshua7.txt
 03/12/2022  11:18 AM             6,228 Joshua8.txt
 03/12/2022  11:18 AM             4,254 Joshua9.txt
-03/13/2022  02:09 PM             1,637 ls.txt
+04/03/2022  07:14 PM             1,637 ls.txt
               25 File(s)        104,635 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,287,680 bytes free

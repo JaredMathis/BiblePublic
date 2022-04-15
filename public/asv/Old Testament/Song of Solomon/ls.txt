@@ -5,7 +5,7 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/13/2022  02:09 PM               871 ls.txt
+04/03/2022  07:14 PM               871 ls.txt
 03/12/2022  11:18 AM             1,759 Song of Solomon1.txt
 03/12/2022  11:18 AM             1,837 Song of Solomon2.txt
 03/12/2022  11:18 AM             1,518 Song of Solomon3.txt
@@ -15,4 +15,4 @@
 03/12/2022  11:18 AM             1,550 Song of Solomon7.txt
 03/12/2022  11:18 AM             1,912 Song of Solomon8.txt
                9 File(s)         15,175 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,287,680 bytes free

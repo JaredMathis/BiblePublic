@@ -5,7 +5,7 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-03/13/2022  02:08 PM             1,213 ls.txt
+04/03/2022  07:14 PM             1,213 ls.txt
 03/12/2022  11:18 AM             4,070 Romans1.txt
 03/12/2022  11:18 AM             2,461 Romans10.txt
 03/12/2022  11:18 AM             4,329 Romans11.txt
@@ -23,4 +23,4 @@
 03/12/2022  11:18 AM             4,802 Romans8.txt
 03/12/2022  11:18 AM             3,822 Romans9.txt
               17 File(s)         53,485 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,549,824 bytes free

@@ -57,6 +57,6 @@
 03/12/2022  11:18 AM             5,222 Jeremiah7.txt
 03/12/2022  11:18 AM             3,777 Jeremiah8.txt
 03/12/2022  11:18 AM             4,282 Jeremiah9.txt
-03/13/2022  02:09 PM             3,227 ls.txt
+04/03/2022  07:14 PM             3,227 ls.txt
               53 File(s)        233,104 bytes
-               2 Dir(s)  55,567,032,320 bytes free
+               2 Dir(s)  35,561,549,824 bytes free
