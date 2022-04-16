@@ -49,6 +49,8 @@ for_each(range(count), n => {
             let verse_text = verse_reference_full
                 .substring(verse_reference_full.indexOf(marker2) + marker2.length)
                 .replace('</p>', '')
+                .replaceAll(/<[^>]*>/g, "")
+                .replace(":", ": ")
                 .trim()
             let tokens = verse_text.split(' ').filter(t => is_string_not_empty(t))
 
