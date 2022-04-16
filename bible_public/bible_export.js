@@ -1,11 +1,12 @@
 import file_json_read from "../core/file_json_read.js"
-import list_add_all from "../core/list_add_all.js";
+import file_over_write from "../core/file_over_write.js";
 import for_each from "../foundation/for_each.js";
 import list_map from "../foundation/list_map.js";
 import list_where from "../foundation/list_where.js";
 import object_to_json from "../foundation/object_to_json.js";
 
-let path = `./public/spanish_parsed.json`
+let language = 'spanish'
+let path = `./public/${language}_parsed.json`
 
 let parsed = file_json_read(path);
 
@@ -31,4 +32,4 @@ for_each(token_lists, tl => {
 let max = 20;
 tokens.slice(0, max);
 
-console.log(object_to_json(tokens) )
+file_over_write(`../Tulo/words/james_1.${language}.json`, object_to_json(tokens))
