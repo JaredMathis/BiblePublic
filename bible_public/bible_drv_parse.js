@@ -24,7 +24,7 @@ for (let i = 0; i < lines.length - 2; i++) {
 let filtered = paragraphs
     .filter(p => 
         p.match(/.* Chapter \d{1,3}$/g) || 
-        p.match(/\d{1,3}:\d{1,3}\. /));
+        p.match(/^\d{1,3}:\d{1,3}\. /));
 
 let verses = [];
 
