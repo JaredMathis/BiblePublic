@@ -5,7 +5,7 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-04/03/2022  07:14 PM             1,623 ls.txt
+04/15/2022  05:10 PM             1,623 ls.txt
 03/12/2022  11:18 AM             2,998 Revelation1.txt
 03/12/2022  11:18 AM             1,813 Revelation10.txt
 03/12/2022  11:18 AM             3,200 Revelation11.txt
@@ -29,4 +29,4 @@
 03/12/2022  11:18 AM             2,189 Revelation8.txt
 03/12/2022  11:18 AM             3,092 Revelation9.txt
               23 File(s)         64,899 bytes
-               2 Dir(s)  35,561,549,824 bytes free
+               2 Dir(s)  38,916,354,048 bytes free

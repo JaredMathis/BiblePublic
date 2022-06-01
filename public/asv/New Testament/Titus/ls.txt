@@ -5,9 +5,9 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-04/03/2022  07:14 PM               526 ls.txt
+04/15/2022  05:10 PM               526 ls.txt
 03/12/2022  11:18 AM             1,989 Titus1.txt
 03/12/2022  11:18 AM             1,620 Titus2.txt
 03/12/2022  11:18 AM             1,736 Titus3.txt
                4 File(s)          5,871 bytes
-               2 Dir(s)  35,561,549,824 bytes free
+               2 Dir(s)  38,916,354,048 bytes free

@@ -5,9 +5,9 @@
 
 03/12/2022  11:18 AM    <DIR>          .
 03/12/2022  11:18 AM    <DIR>          ..
-04/03/2022  07:14 PM               526 ls.txt
+04/15/2022  05:10 PM               526 ls.txt
 03/12/2022  11:18 AM             2,122 Nahum1.txt
 03/12/2022  11:18 AM             1,919 Nahum2.txt
 03/12/2022  11:18 AM             2,863 Nahum3.txt
                4 File(s)          7,430 bytes
-               2 Dir(s)  35,561,287,680 bytes free
+               2 Dir(s)  38,916,222,976 bytes free
